@@ -14,6 +14,7 @@ The rest of the process is pretty straight forward.
 
 The module is designed to work in an automated manner without the need for human interaction.
 To do so, simply set a cron job on your server, executing **msmanager.sh** at the desired frequency.
+The suggested frequency being once a day, preferably at the end of each day.
 
 ### Configuration
 
