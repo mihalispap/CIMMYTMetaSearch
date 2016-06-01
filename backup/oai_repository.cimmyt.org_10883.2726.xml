@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>QTL mapping for milling, gluten quality, and flour pasting properties in a recombinant inbred line population derived from a Chinese soft x hard wheat cross</dc:title>
+  <dc:creator>Zhang, Y.</dc:creator>
+  <dc:creator>Wu, Y.</dc:creator>
+  <dc:creator>Xiao, Y.</dc:creator>
+  <dc:creator>Jianbing Yan</dc:creator>
+  <dc:creator>Ma, C.</dc:creator>
+  <dc:creator>Xia, X.</dc:creator>
+  <dc:creator>He Zhonghu</dc:creator>
+  <dc:subject>Bread wheat</dc:subject>
+  <dc:subject>quantitative trait locus (QTL)</dc:subject>
+  <dc:subject>quality parameters</dc:subject>
+  <dc:subject>Molecular Markers</dc:subject>
+  <dc:description>Improvement of processing quality is important for various wheat-based end products. A recombinant inbred line (RIL) population derived from a cross between the Chinese wheat cvv. PH82-2 (hard) and Neixiang 188 (soft) was sown at 3 locations across two seasons to map quantitative trait loci (QTLs) for milling, gluten quality, flour pasting properties, and Chinese white salted noodle (CWSN) qualities. One hundred and eighty-eight microsatellite loci, one rye secalin marker Sec1, one STS marker YP7A, one CAPs marker for the Pinb-D1b allele, and four glutenin subunit markers were used to genotype the population and construct a linkage map for subsequent QTL analysis. In total, 53 QTLs for 16 quality parameters were mainly mapped to glutenin loci Glu-A3 (Glu-A3a:Glu-A3d), Glu-B1 (Bx7+By9:Bx14+By15), and Glu-D1 (Bx2+By12:Bx5+By10), and the grain hardness (Pinb-D1a:Pinb-D1b) locus. The-high-molecular weight glutenin subunits (HMW-GS) 5+10 at the Glu-D1 locus showed large effects on mixograph peak time (MPT), mixograph 8 min width (MTxW), and weakening slope (WS), accounting for 43.1%, 24.2%, and 39.7% of the phenotypic variance, respectively. In contrast, the 1RS (1B.1R translocation) showed large negative effects on MTxW, explaining 42.2% of the phenotypic variance. Two important QTLs were detected for Rapid Viscosity Analyzer (RVA) parameters: one for RVA final viscosity (RFV) near the 1RS and the other for RVA setback (RSb) associated with the Glu-B1 locus, explaining 21.6% and 12.3% of the phenotypic variance, respectively. Two QTLs for noodle adhesiveness were identified: one occurred on chromosome 1A and the other was associated with Glu-B1. Two QTLs for noodle springiness, one associated with the 1RS showing a negative effect on noodle quality and the other mapped to the Ha locus on chromosome 5DS, accounted for 9.4% and 8.1% of the phenotypic variance, respectively. In addition, the Ha locus also showed large effects on flower protein content (FPC), mixograph peak width (MPW), and RVA parameters, especially RVA pasting temperature (RPT), explaining 71.5% of the phenotypic variance.</dc:description>
+  <dc:date>2013-06-07T21:12:28Z</dc:date>
+  <dc:date>2013-06-07T21:12:28Z</dc:date>
+  <dc:pubDate>2009</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/2726</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2726</dc:cdocid>
+  <dc:apiid>10883_2726</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:06Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

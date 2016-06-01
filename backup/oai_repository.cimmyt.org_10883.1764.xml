@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Visualisation of plastids in endosperm, pollen and roots of transgenic wheat expressing modified GFP fused to transit peptides from wheat SSU RubisCO, rice FtsZ and maize ferredoxin III proteins</dc:title>
+  <dc:creator>Primavesi, L.F.</dc:creator>
+  <dc:creator>Wu Huixia</dc:creator>
+  <dc:creator>Mudd, E.A.</dc:creator>
+  <dc:creator>Day, A.</dc:creator>
+  <dc:creator>Jones, H.D.</dc:creator>
+  <dc:subject>Wheat</dc:subject>
+  <dc:subject>Microscopy</dc:subject>
+  <dc:subject>Plastids</dc:subject>
+  <dc:subject>Targeting</dc:subject>
+  <dc:description>The ability to target marker proteins to specific subcellular compartments is a powerful research tool to study the structure and development of organelles. Here transit sequences from nuclear-encoded, plastid proteins, namely rice FtsZ, maize non-photosynthetic ferredoxin III (FdIII) and the small subunit of RubisCO were used to target a modified synthetic GFP (S65G, S72A) to plastids. The localisations of the fusion proteins expressed in transgenic wheat plants and under the control of the rice actin promoter were compared to an untargeted GFP control. GFP fluorescence was localised to non-green plastids in pollen, roots and seed endosperm and detected in isolated leaf chloroplasts using a GFP-specific antibody. Transit peptides appeared to influence the relative fluorescence intensities of plastids in different tissues. This is consistent with differential targeting and/or turnover of GFP fusion proteins in different plastid types. Replacement of GFP sequences with alternative coding regionsenables immediate applications of our vectors for academic research and commercial applications.</dc:description>
+  <dc:date>2013-06-07T21:02:36Z</dc:date>
+  <dc:date>2013-06-07T21:02:36Z</dc:date>
+  <dc:pubDate>7/6/2013</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/1764</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1764</dc:cdocid>
+  <dc:apiid>10883_1764</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:46Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Genomic selection and prediction in plant breeding</dc:title>
+  <dc:creator>Crossa, J.</dc:creator>
+  <dc:creator>Perez, P.</dc:creator>
+  <dc:creator>De los Campos, G.</dc:creator>
+  <dc:creator>Mahuku, G.</dc:creator>
+  <dc:creator>Dreisigacker, S.</dc:creator>
+  <dc:creator>Magorokosho, C.</dc:creator>
+  <dc:subject>Genomic selection</dc:subject>
+  <dc:subject>Breeding values</dc:subject>
+  <dc:subject>prediction Bayesian estimates</dc:subject>
+  <dc:subject>parametric and non-parametric regression</dc:subject>
+  <dc:subject>best linear unbiased predictors (BLUP)</dc:subject>
+  <dc:description>The availability of thousands of genome-wide molecular markers has made possible the use of genomic selection in plants and animals. However, the evaluation of models for genomic selection in plant breeding populations remains limited. In this study, we provide an overview of several models for genomic selection, whose predictive ability we investigate using two plant data sets. The first data set comprises historical phenotypic records of a series of wheat (Triticum aestivum L.) trials evaluated in 10 environments and recently generated genomic data. The second data set pertains to international maize (Zea mays L.) trials in which two disease traits ( Exserohilum turcicum and Cercospora zeae-maydis) of maize lines evaluated in five environments were measured. Results showed that models including marker information yielded important gains in predictive ability relative to that of a pedigree-based model, this with a modest number of markers. Estimates of marker effects were different across environmental conditions, indicating that genotype × environment interaction was an important component of genetic variability. Overall, the study provided evidence from real populations indicating that genomic selection could be an effective tool for improving traits of economic importance in commercial crops.</dc:description>
+  <dc:date>2013-06-07T21:02:48Z</dc:date>
+  <dc:date>2013-06-07T21:02:48Z</dc:date>
+  <dc:pubDate>2011</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>1542-7528</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/1857</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1857</dc:cdocid>
+  <dc:apiid>10883_1857</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:30Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

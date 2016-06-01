@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Whole-genome strategies for marker-assisted plant breeding</dc:title>
+  <dc:creator>Yunbi Xu</dc:creator>
+  <dc:creator>Yanli Lu</dc:creator>
+  <dc:creator>Chuanxiao Xie</dc:creator>
+  <dc:creator>Shibin Gao</dc:creator>
+  <dc:creator>Jianmin Wan</dc:creator>
+  <dc:creator>Prasanna, B.M.</dc:creator>
+  <dc:subject>molecular breeding</dc:subject>
+  <dc:subject>Whole-genome strategies</dc:subject>
+  <dc:subject>marker-assisted selection</dc:subject>
+  <dc:subject>Marker-assisted recurrent selection</dc:subject>
+  <dc:subject>Genomic selection</dc:subject>
+  <dc:subject>Genotyping platform</dc:subject>
+  <dc:subject>Precision phenotyping</dc:subject>
+  <dc:subject>Environmental assay (e-typing)</dc:subject>
+  <dc:subject>Breeding informatics</dc:subject>
+  <dc:subject>Decision support tools</dc:subject>
+  <dc:description>Molecular breeding for complex traits in crop plants requires understanding and manipulation of many factors influencing plant growth, development and responses to an array of biotic and abiotic stresses. Molecular marker-assisted breeding procedures can be facilitated and revolutionized through whole-genome strategies, which utilize full genome sequencing and genome-wide molecular markers to effectively address various genomic and environmental factors through a representative or complete set of genetic resources and breeding materials. These strategies are now increasingly based on understanding of specific genomic regions, genes/alleles, haplotypes, linkage disequilibrium (LD) block(s), gene networks and their contribution to specific phenotypes. Large-scale and high-density genotyping and genome-wide selection are two important components of these strategies. As components of whole-genome strategies, molecular breeding platforms and methodologies should be backed up by high throughput and precision phenotyping and e-typing (environmental assay) with strong support systems such as breeding informatics and decision support tools. Some basic strategies are discussed in this article, including (1) seed DNA-based genotyping for simplifying marker-assisted selection (MAS), reducing breeding cost and increasing scale and efficiency, (2) selective genotyping and phenotyping, combined with pooled DNA analysis, for capturing the most important contributing factors, (3) flexible genotyping systems, such as genotyping by sequencing and arraying, refined for different selection methods including MAS, marker-assisted recurrent selection and genomic selection (GS), (4) marker-trait association analysis using joint linkage and LD mapping, and (5) sequence-based strategies for marker development, allele mining, gene discovery and molecular breeding.</dc:description>
+  <dc:date>2013-06-07T21:02:51Z</dc:date>
+  <dc:date>2013-06-07T21:02:51Z</dc:date>
+  <dc:pubDate>2012</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>1380-3743</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/1874</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1874</dc:cdocid>
+  <dc:apiid>10883_1874</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:45Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Analysis of the Lr34/Yr18 rust resistance region in wheat germplasm</dc:title>
+  <dc:creator>Kolmer, J.A.</dc:creator>
+  <dc:creator>Singh, R.P.</dc:creator>
+  <dc:creator>Garvin, D.F.</dc:creator>
+  <dc:creator>Viccars, L.</dc:creator>
+  <dc:creator>William, H.M.</dc:creator>
+  <dc:creator>Huerta-Espino, J.</dc:creator>
+  <dc:creator>Ogbonnaya, F.C.</dc:creator>
+  <dc:creator>Raman, H.</dc:creator>
+  <dc:creator>Orford, S.</dc:creator>
+  <dc:creator>Bariana, H.S.</dc:creator>
+  <dc:creator>Lagudah, E.S.</dc:creator>
+  <dc:description>The Lr34/Yr18 adult plant resistance gene contributes significantly to durable leaf rust (caused by Puccinia triticina Eriks.) resistance. Simple and robust molecular markers that enable early detection of Lr34/Yr18 are a major advancement in wheat (Triticum aestivum L.) breeding. An insertion/deletion size variant located at the csLV34 locus on chromosome 7D within an intron sequence of a sulfate transporter-like gene tightly linked to the Lr34/Yr18 dual rust resistance gene was used to examine a global collection of wheat cultivars, landraces, and D genome&amp;ndash;containing diploid and polyploid species of wheat relatives. Two predominant allelic size variants, csLV34a and b, found among the wheat cultivars showed disparate variation in different wheat growing zones. A strong association was observed between the presence of Lr34/Yr18 and the csLV34b allele and wheat lines known to have Lr34/Yr18 that had the csLV34a allele were rare. All landraces with the exception of those from China were predominantly of the csLV34a type. Only one size variant, csLV34a, was detected among the diploid and polyploid D genome&amp;ndash;containing species, indicating that csLV34b arose subsequent to hexaploid bread wheat synthesis. The lineage of the csLV34b allele associated with Lr34/Yr18 in modern wheat cultivars from North and South America, CIMMYT, Australia, and Russia was tracked back to the cultivars Mentana and Ardito developed in Italy by Nazareno Strampelli in the early 1900s. The robustness of the csLV34 marker in postulating the likely occurrence of Lr34/Yr18 across a wide range of wheat germplasm and its utility in wheat breeding was confirmed.</dc:description>
+  <dc:date>2013-06-07T21:12:18Z</dc:date>
+  <dc:date>2013-06-07T21:12:18Z</dc:date>
+  <dc:pubDate>2008</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/2659</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:geotag>China</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1814991</dc:geonames>
+  <dc:geotag>Australia</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/2077456</dc:geonames>
+  <dc:geotag>Russia</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/2017370</dc:geonames>
+  <dc:geotag>Italy</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3175395</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2659</dc:cdocid>
+  <dc:apiid>10883_2659</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:04Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

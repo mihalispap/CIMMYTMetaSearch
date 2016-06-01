@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Linear, bilinear, and linear-bilinear fixed and mixed models for analyzing genotype × environment interaction in plant breeding and agronomy</dc:title>
+  <dc:creator>Crossa, J.</dc:creator>
+  <dc:creator>Vargas, M.</dc:creator>
+  <dc:creator>Joshi, A.K.</dc:creator>
+  <dc:subject>Least squares</dc:subject>
+  <dc:subject>Singular value decompositions</dc:subject>
+  <dc:subject>Environmental and genotypic covariables</dc:subject>
+  <dc:description>The purpose of this manuscript is to review various statistical models for analyzing genotype × environment interaction (GE). The objective is to present parsimonious approaches other than the standard analysis of variance of the two-way effect model. Some fixed effects linear-bilinear models such as the sites regression model (SREG) are discussed, and a mixed effects counterpart such as the factorial analytic (FA) model is explained. The role of these linear-bilinear models for assessing crossover interaction (COI) is explained. One class of linear models, namely factorial regression (FR) models, and one class of bilinear models, namely partial least squares (PLS) regression, allows incorporating external environmental and genotypic covariables directly into the model. Examples illustrating the use of various statistical models for analyzing GE in the context of plant breeding and agronomy are given.</dc:description>
+  <dc:date>2013-06-07T21:02:44Z</dc:date>
+  <dc:date>2013-06-07T21:02:44Z</dc:date>
+  <dc:pubDate>2010</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>1918-1833</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/1824</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1824</dc:cdocid>
+  <dc:apiid>10883_1824</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:46Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

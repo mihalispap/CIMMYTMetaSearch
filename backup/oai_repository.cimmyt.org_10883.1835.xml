@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Characterization of a global germplasm collection and its potential utilization for analysis of complex quantitative traits in maize</dc:title>
+  <dc:creator>Xiaohong Yang</dc:creator>
+  <dc:creator>Shibin Gao</dc:creator>
+  <dc:creator>Shutu Xu</dc:creator>
+  <dc:creator>Zuxin Zhang</dc:creator>
+  <dc:creator>Prasanna, B.M.</dc:creator>
+  <dc:creator>Lin Li</dc:creator>
+  <dc:creator>Jiansheng Li</dc:creator>
+  <dc:creator>Jianbing Yan</dc:creator>
+  <dc:subject>Maize</dc:subject>
+  <dc:subject>Genetic diversity</dc:subject>
+  <dc:subject>Genetic relatedness</dc:subject>
+  <dc:subject>Association mapping</dc:subject>
+  <dc:subject>Phenotypic variation</dc:subject>
+  <dc:description>Association mapping is a powerful approach for exploring the molecular basis of phenotypic variations in plants. A maize (Zea mays L.) association mapping panel including 527 inbred lines with tropical, subtropical and temperate backgrounds, representing the global maize diversity, was genotyped using 1,536 single nucleotide polymorphisms (SNPs). In total, 926 SNPs with minor allele frequencies of ¡Ý0.1 were used to estimate the pattern of genetic diversity and relatedness among individuals. The analysis revealed broad phenotypic diversity and complex genetic relatedness in the maize panel. Two different Bayesian approaches identified three specific subpopulations, which were then reconfirmed by principal component analysis (PCA) and tree-based analyses. Marker¨Ctrait associations were performed to assess the suitability of different models for false-positive correction by population structure (Q matrix/PCA) and familial kinship (K matrix) alone or in combination in this panel. The K, Q + K and PCA + K models could reduce the false positives, and the Q + K model performed slightly better for flowering time, ear height and ear diameter. Our findings suggest that this maize panel is suitable for association mapping in order to understand the relationship between genotypic and phenotypic variations for agriculturally complex quantitative traits using optimal statistical methods.</dc:description>
+  <dc:date>2013-06-07T21:02:45Z</dc:date>
+  <dc:date>2013-06-07T21:02:45Z</dc:date>
+  <dc:pubDate>2011</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>1380-3743</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/1835</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1835</dc:cdocid>
+  <dc:apiid>10883_1835</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:45Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

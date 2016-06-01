@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Narrowing the agronomic yield gap with improved nitrogen use efficiency: A modeling approach</dc:title>
+  <dc:creator>Ahrens, T.D.</dc:creator>
+  <dc:creator>Lobell, D.B.</dc:creator>
+  <dc:creator>Ortiz Monasterio, I.</dc:creator>
+  <dc:creator>Li, Y.</dc:creator>
+  <dc:creator>Matson, P.A.</dc:creator>
+  <dc:subject>agronomic efficiency</dc:subject>
+  <dc:subject>gaseous N emissions</dc:subject>
+  <dc:subject>nitrate leaching</dc:subject>
+  <dc:subject>Nitrogen use efficiency</dc:subject>
+  <dc:subject>site-specific nitrogen management</dc:subject>
+  <dc:subject>Wheat</dc:subject>
+  <dc:subject>WNMM model</dc:subject>
+  <dc:subject>Yield</dc:subject>
+  <dc:description>Improving nitrogen use efficiency (NUE) in the major cereals is critical for more sustainable nitrogen use in high-input agriculture, but our understanding of the potential for NUE improvement is limited by a paucity of reliable on-farm measurements. Limited on-farm data suggest that agronomic NUE (AE(N)) is lower and more variable than data from trials conducted at research stations, on which much of our understanding of AE(N) has been built. The purpose of this study was to determine the magnitude and causes of variability in AE(N) across an agricultural region, which we refer to as the achievement distribution of AE(N). The distribution of simulated AE(N) in 80 farmers' fields in an irrigated wheat system in the Yaqui Valley, Mexico, was compared with trials at a local research center (International Wheat and Maize Improvement Center; CIMMYT). An agroecosystem simulation model WNMM was used to understand factors controlling yield, AE(N), gaseous N emissions, and nitrate leaching in the region. Simulated AE(N) in the Yaqui Valley was highly variable, and mean on-farm AE(N) was 44% lower than trials with similar fertilization rates at CIMMYT. Variability in residual N supply was the most important factor determining simulated AE(N). Better split applications of N fertilizer led to almost a doubling of AE(N), increased profit, and reduced N pollution, and even larger improvements were possible with technologies that allow for direct measurement of soil N supply and plant N demand, such as site-specific nitrogen management</dc:description>
+  <dc:date>2013-06-05T15:45:41Z</dc:date>
+  <dc:date>2013-06-05T15:45:41Z</dc:date>
+  <dc:pubDate>2010</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>1051-0761</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/1539</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:geotag>Mexico</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3996063</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1539</dc:cdocid>
+  <dc:apiid>10883_1539</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_2</dc:cset>
+  <dc:setid>403613911</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:38Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

@@ -1,0 +1,43 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Characterization of the effect of a QTL for drought resistance in rice, qtl12.1 , over a range of environments in the Philippines and eastern India</dc:title>
+  <dc:creator>Bernier, J.</dc:creator>
+  <dc:creator>Kumar, A.</dc:creator>
+  <dc:creator>Venuprasad, R.</dc:creator>
+  <dc:creator>Spaner, D.</dc:creator>
+  <dc:creator>Verulkar, S.</dc:creator>
+  <dc:creator>Mandal, N.P.</dc:creator>
+  <dc:creator>Sinha, P.K.</dc:creator>
+  <dc:creator>Peeraju, P.</dc:creator>
+  <dc:creator>Dongre, P.R.</dc:creator>
+  <dc:creator>Mahto, R.N.</dc:creator>
+  <dc:creator>Atlin, G.N.</dc:creator>
+  <dc:subject>Drought</dc:subject>
+  <dc:subject>Rice</dc:subject>
+  <dc:subject>QTL</dc:subject>
+  <dc:subject>Genotype x environment</dc:subject>
+  <dc:subject>QTL × environment</dc:subject>
+  <dc:description>A large-effect QTL for grain yield under drought conditions (qtl12.1) was reported in a rice mapping population derived from Vandana and Way Rarem. Here, we measured the effect of qtl12.1 on grain yield and associated traits in 21 field trials: ten at IRRI in the Philippines and 11 in the target environment of eastern India. The relative effect of the QTL on grain yield increased with increasing intensity of drought stress, from having no effect under well-watered conditions to having an additive effect of more than 40% of the trial mean in the most severe stress treatments. The QTL improved grain yield in nine out of ten direct-seeded upland trials where drought stress was severe or moderate, but no effect was measured under well-watered aerobic conditions or under transplanted lowland conditions. These trials confirm that qtl12.1 has a large and consistent effect on grain yield under upland drought stress conditions, in a wide range of environments.</dc:description>
+  <dc:date>2013-06-07T21:02:40Z</dc:date>
+  <dc:date>2013-06-07T21:02:40Z</dc:date>
+  <dc:pubDate>2009</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/1795</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:geotag>Philippines</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1694008</dc:geonames>
+  <dc:geotag>India</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1269750</dc:geonames>
+  <dc:geotag>Philippines</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1694008</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1795</dc:cdocid>
+  <dc:apiid>10883_1795</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:46Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

@@ -1,0 +1,425 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Long-Term CA Trials in Malawi - Kasungu</dc:title>
+  <dc:identifier>http://hdl.handle.net/11529/10276</dc:identifier>
+  <dc:creator>Nyagumbo, Isaiah</dc:creator>
+  <dc:publisher>International Maize and Wheat Improvement Center</dc:publisher>
+  <dc:subject>Agronomy</dc:subject>
+  <dc:description>Long-term comparison trials between conventional and conservation agriculture practices across different agroecologies in Malawi - kasungu research Center</dc:description>
+  <dc:citation>Nyagumbo, Isaiah, "Long-Term CA Trials in Malawi - Kasungu", http://hdl.handle.net/11529/10276 International Maize and Wheat Improvement Center [Distributor] V3 [Version]</dc:citation>
+  <dc:coverage>Time Period Covered: 2010 - 2013</dc:coverage>
+  <dc:coverage>Date of Collection: 2010 - 2013</dc:coverage>
+  <dc:coverage>Country/Nation: Malawi</dc:coverage>
+  <dc:coverage>Geographic Coverage: Kasungu</dc:coverage>
+  <dc:type>Agronomy</dc:type>
+  <dc:rights>&lt;p&gt;
+ 
+&lt;b&gt;PLEASE READ THIS CAREFULLY BEFORE ACCESSING DATA FROM THIS REPOSITORY&lt;/b&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;Agreement Acceptance Procedure&lt;/b&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+By clicking on the acceptance button which follows this Agreement, you indicate acceptance of this agreement. Such acceptance is on your own behalf, either as an independent individual or to perform your job duties/obligations, subject to the terms and conditions below. 
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+If you do not accept these terms and conditions, you will not be able to access data from this repository.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;center&gt;&lt;b&gt;AGREEMENT FOR ACCESS AND USE OF DATA FROM THIS REPOSITORY&lt;/b&gt;&lt;/center&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;1. Definitions&lt;/b&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;1.1&lt;/b&gt; In this Agreement except where a different interpretation is clear from or necessary in the context, the following capitalised terms have the following meanings:
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;table border="1"&gt;
+&lt;tr valign="top"&gt;
+&lt;td&gt;
+&lt;b&gt;Data&lt;/b&gt;
+&lt;/td&gt;
+&lt;td&gt;
+All the numbers, characters, values of qualitative or quantitative variables related to an item which are directly generated and/or captured from research-related activities as well as processed, aggregated, interpreted, commented, codified or in any way analysed data taking on a meaning (the latter referred to as Information) that the User is permitted to retrieve from the Database or other online resources under this Agreement.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign="top"&gt;
+&lt;td&gt;
+&lt;b&gt;Database&lt;/b&gt;
+&lt;/td&gt;
+&lt;td&gt;
+The online computer-based repositories of indexed data and collections of related data records (datasets) that constitute the databases that form part of the CIMMYT Research Data Repository.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign="top"&gt;
+&lt;td&gt;
+&lt;b&gt;Intellectual Property&lt;/b&gt;
+&lt;/td&gt;
+&lt;td&gt;
+Any law existing in any jurisdiction that protects the rights contained in Data and Database.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign="top"&gt;
+&lt;td&gt;
+&lt;b&gt;Provider&lt;/b&gt;
+&lt;/td&gt;
+&lt;td&gt;
+The International Maize and Wheat Improvement Center (CIMMYT)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign="top"&gt;
+&lt;td&gt;
+&lt;b&gt;User&lt;/b&gt;
+&lt;/td&gt;
+&lt;td&gt;
+The individual who has accepted this Agreement by downloading Data available in Database.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;1.2&lt;/b&gt; Headings are used in this Agreement for the convenience of the parties only and shall not be deemed to be any indications of the meaning of the clauses to which they relate.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;1.3&lt;/b&gt; In this Agreement:
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&amp;#160;&lt;b&gt;1.3.1&lt;/b&gt; words importing the singular number shall include the plural and vice versa
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&amp;#160;&lt;b&gt;1.3.2&lt;/b&gt; words importing any particular gender shall include all other genders
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&amp;#160;&lt;b&gt;1.3.3&lt;/b&gt; references to persons shall include bodies of persons whether corporate or incorporate
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&amp;#160;&lt;b&gt;1.3.4&lt;/b&gt; words importing the whole shall be treated as including a reference to any part of the whole
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;2. Use of the Data and Database&lt;/b&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;2.1&lt;/b&gt; The Provider grants to the User a non-exclusive non-transferable license to use the Data in accordance with this Agreement. If the User agrees upon this agreement to perform activities related to their job duties/obligations, the User must make sure this agreement is neither contrary to such employment obligations/duties nor violated while performing them.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;2.2&lt;/b&gt; The User may make copies of the Data for personal use as follows:
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&amp;#160;&lt;b&gt;2.2.1&lt;/b&gt; By temporarily displaying on a computer terminal the Data retrieved from the Database; and
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&amp;#160;&lt;b&gt;2.2.2&lt;/b&gt; By making one copy on paper of the Data retrieved from the Database; and
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&amp;#160;&lt;b&gt;2.2.3&lt;/b&gt; By downloading and storing by electronic means a copy of the Data on the User&amp;#8217;s own equipment or equipment under his control.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;2.3&lt;/b&gt; The User may only use copies of the Data for the purposes of research, teaching and education, and for preparing publications, subject to the restrictions below. 
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;2.4&lt;/b&gt; The User is allowed to share the Data for formal educational and teaching purposes, provided that the students that have access to the Data are clearly informed that access is conditioned to not redistributing the Data. The user shall not redistribute the Data for any other purpose without the prior written consent of the Provider. Instead, the User shall refer interested new users to the Database to download the Data directly.  
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;2.5&lt;/b&gt; The User shall acknowledge and reference the use of the Data and Database in all publications using the general citation provided CIMMYT Research Data Repository or the specific citation associated with an individual dataset.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;2.6&lt;/b&gt; The User shall not seek any form of intellectual property rights or other legal rights over Data and/or Databases accessed. This clause shall survive termination of this agreement.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;a name="twodotseven"&gt;&lt;/a&gt;&lt;b&gt;2.7&lt;/b&gt; The User shall stop using the Data and immediately contact the Provider for guidance in case of risk or suspicion of violating terms and conditions of this agreement, whether such violation is directly made by the User or by any person or entity to whom voluntarily or involuntarily the User provided or permitted access to the Data, whether while performing their job duties/obligations or during the performance of their personal activities.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;3. Term&lt;/b&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+Subject to &lt;a href="#six"&gt;Clause 6&lt;/a&gt;, this Agreement will continue in force for as long as the User is in possession of the Data.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;4. Intellectual Property&lt;/b&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;4.1&lt;/b&gt; All rights including Intellectual Property Rights in the Data and Database are owned by the Provider and/or jointly between the Provider and its research partners.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;4.2&lt;/b&gt; The User acknowledges that his or her permission to use the Data and Database is limited to the rights expressly conferred by this Agreement.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;5. Liability and indemnity&lt;/b&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;5.1&lt;/b&gt; The User acknowledges to the Provider and agrees that the Provider makes no express or implied warranties as to the merchantability or fitness for a particular purpose of the Data or Database.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;5.2&lt;/b&gt; Although the Provider takes care in ensuring the accuracy of the Data and/or Database according to scientific standards, the Provider shall have no liability to the User in contract tort or otherwise for any loss or damage which the User suffers (whether direct consequential or any other form of loss) as a result of any error or inaccuracy in the Data or Database or as a result of using the Data or Database. The User is encouraged to contact the Provider immediately for any errors or inaccuracies discovered in the Data or Database, and the Provider undertakes to take urgent action to address such errors or inaccuracies.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;a name="six"&gt;&lt;/a&gt; &lt;b&gt;6. Termination&lt;/b&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;6.1&lt;/b&gt; The Provider or User may terminate this Agreement by thirty (30) days&amp;#8217; notice to the other party without providing any reasons for termination.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;6.2&lt;/b&gt; This Agreement shall immediately terminate if the User:
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&amp;#160;&lt;b&gt;6.2.1&lt;/b&gt; breaches any provision of this Agreement that is not capable of being remedied;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&amp;#160;&lt;b&gt;6.2.2&lt;/b&gt; materially breaches any provision of this Agreement that is capable of being remedied but not remedied within thirty (30) days as of the date of notice sent to the User by the Provider; or
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&amp;#160;&lt;b&gt;6.2.3&lt;/b&gt; enters into an arrangement for the benefit of creditors, becomes insolvent, files for protection under bankruptcy laws or otherwise seeks relief from creditors or anything analogous to the matters stated hereinbefore under any applicable law.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;6.3&lt;/b&gt; Upon termination of this Agreement, the User must return and/or destroy copies of the Data within seven (7) days of the date on which termination takes effect and certify to the Provider that this has been complied with. This clause shall survive termination of this agreement.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;6.4&lt;/b&gt; Termination of this Agreement shall not affect any obligation by either party to the other which are outstanding as at the effective date of termination nor any of the provisions of this Agreement which are expressed to survive termination.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;7. General&lt;/b&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;7.1 Force majeure&lt;/b&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+Neither party shall have any liability or be deemed to be in breach of this Agreement for any delays or failures in performance which result from circumstances beyond the reasonable control of the parties, including, without limitation, fire, flood, riots, strikes, epidemics, war (declared or undeclared and including the continuance, expansion or new outbreak of any war or conflict now in existence), embargoes and governmental actions or decrees. Notwithstanding the foregoing, User will still be bound to obligations under &lt;a href="#twodotseven"&gt;Clause 2.7&lt;/a&gt;.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;7.2 Entire Agreement&lt;/b&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+This Agreement contains the whole agreement between the parties and supersedes any prior oral or written agreements, arrangements or understandings between them in relation to its subject matter and the parties confirm that they have not entered into this Agreement upon the basis of any representations that are not expressly incorporated into this Agreement. No oral explanation or oral information given by any party shall alter or affect the interpretation of this Agreement.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;7.3 Reservation of rights&lt;/b&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+All rights not specifically and expressly granted to the User by this Agreement are reserved to the Provider. The Provider reserves the right to vary the terms of this Agreement by general online notification or other forms of notification to the User.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;7.4 Notices&lt;/b&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+Any notice consent or the like (in this clause referred to generally as &amp;quot;Notice&amp;quot;) required or permitted to be given under this Agreement shall be binding upon the User if sent by the Provider via electronic mail and shall be deemed given at the time of its actual transmission provided that the Provider does not receive any indication that the electronic mail message has not been successfully transmitted to the User. 
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;7.5 Non-Waiver of Remedies&lt;/b&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&amp;#160;&lt;b&gt;7.5.1&lt;/b&gt; No failure or delay by either party in exercising any of its rights under this Agreement shall be deemed to be a waiver of that right, and no waiver by either party of any breach of this Agreement by the other shall be considered as a waiver of any subsequent breach of the same or any other provision.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&amp;#160;&lt;b&gt;7.5.2&lt;/b&gt; Any provision of this Agreement may be waived if, but only if, such waiver is in writing and is signed, by the party against whom the waiver is to be effective.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;7.6 Invalid Clauses&lt;/b&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+If any provision or part of this Agreement is held to be invalid, amendments to this Agreement may be made by the addition or deletion of wording as appropriate to remove the invalid part or provision but otherwise retain the provision and the other provisions of this Agreement to the maximum extent permissible under applicable law.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;7.7 Assignment&lt;/b&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+This Agreement shall be personal to the User and shall not be assigned or transferred without the prior written consent of the Provider.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;b&gt;7.8 Dispute Resolution&lt;/b&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&amp;#160;&lt;b&gt;7.8.1&lt;/b&gt; Any disagreements between the parties concerning the interpretation or application of this Agreement shall be settled amicably by negotiation in the first instance, failing which all disputes arising out of or in connection with it shall be finally settled under the Rules of Arbitration of the International Chamber of Commerce by one or more arbitrators appointed in accordance with the said Rules.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+
+&amp;#160;&lt;b&gt;7.8.2&lt;/b&gt; This Agreement shall be governed by general principles of law to the exclusion of any national system of law. Such general principles of law shall be deemed to include the UNIDROIT Principles of International Commercial Contracts 2010.
+
+&lt;/p&gt;</dc:rights>
+  <dc:geotag>Malawi</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/927384</dc:geonames>
+  <dc:domainid>11529</dc:domainid>
+  <dc:cdocid>10276</dc:cdocid>
+  <dc:apiid>11529_10276</dc:apiid>
+  <dc:geotag>Malawi</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/927384</dc:geonames>
+  <dc:geotag>Malawi</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/927384</dc:geonames>
+  <dc:updated_date>2016-04-11T18:16:01Z</dc:updated_date>
+  <dc:handler>http://data.cimmyt.org/dvn/OAIHandler</dc:handler>
+</oai_dc:dc>

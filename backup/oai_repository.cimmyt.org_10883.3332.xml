@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Adoption of conservation agriculture in the Mexican Bajio</dc:title>
+  <dc:creator>Van den Broeck, G.</dc:creator>
+  <dc:creator>Perez, G.</dc:creator>
+  <dc:creator>Romero, R.</dc:creator>
+  <dc:creator>Maertens, M.</dc:creator>
+  <dc:creator>Deckers, J.</dc:creator>
+  <dc:creator>Verhulst, N.</dc:creator>
+  <dc:creator>Govaerts, B.</dc:creator>
+  <dc:subject>Conservation agriculture</dc:subject>
+  <dc:subject>Heckman Selection Model</dc:subject>
+  <dc:subject>Mexico</dc:subject>
+  <dc:subject>technology adoption</dc:subject>
+  <dc:description>Despite demonstrated environmental and economic benefits, the adoption of conservation agriculture (CA) often remains lower than expected. Adoption of a complex and composite technology such as CA requires a thorough understanding of the site-specific determinants and constraints of the adoption process. The authors investigate the adoption of CA among medium-scale farmers in the Mexican Bajio using farm survey data. They differentiate between full and partial adoption of composite technology, and disentangle the different steps in the adoption process, including awareness, using Heckman selection models. The results indicate that institutional factors and farmers' education affect awareness of CA but not adoption itself. Farm size is not an important determinant in the adoption process, but the farmer's tenancy position does affect both awareness and adoption. A major constraint for full but not for partial adoption is livestock ownership, which complicates residue retention on the field, as crop residues are baled for fodder.</dc:description>
+  <dc:date>2013-12-09T20:20:16Z</dc:date>
+  <dc:date>2013-12-09T20:20:16Z</dc:date>
+  <dc:pubDate>2013</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0030-7270</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/3332</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://www.ingentaconnect.com/content/ip/ooa/2013/00000042/00000003/art00004</dc:publisher>
+  <dc:geotag>Mexico</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3996063</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3332</dc:cdocid>
+  <dc:apiid>10883_3332</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_2</dc:cset>
+  <dc:setid>403613911</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:27Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

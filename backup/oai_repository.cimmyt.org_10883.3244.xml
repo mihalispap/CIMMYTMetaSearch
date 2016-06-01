@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Genetic prediction of complex traits: integrating infinitesimal and marked genetic effects</dc:title>
+  <dc:creator>Carre, C.</dc:creator>
+  <dc:creator>Gamboa, F.</dc:creator>
+  <dc:creator>Cros, D.</dc:creator>
+  <dc:creator>Hickey, J.M.</dc:creator>
+  <dc:creator>Gorjanc, G.</dc:creator>
+  <dc:creator>Manfredi, E.</dc:creator>
+  <dc:subject>Genetic prediction</dc:subject>
+  <dc:subject>Genomic selection</dc:subject>
+  <dc:subject>SNP</dc:subject>
+  <dc:subject>Mendelian sampling</dc:subject>
+  <dc:description>Genetic prediction for complex traits is usually based on models including individual (infinitesimal) or marker effects. Here, we concentrate on models including both the individual and the marker effects. In particular, we develop a ?Mendelian segregation? model combining infinitesimal effects for base individuals and realized Mendelian sampling in descendants described by the available DNA data. The model is illustrated with an example and the analyses of a public simulated data file. Further, the potential contribution of such models is assessed by simulation. Accuracy, measured as the correlation between true (simulated) and predicted genetic values, was similar for all models compared under different genetic backgrounds. As expected, the segregation model is worthwhile when markers capture a low fraction of total genetic variance.</dc:description>
+  <dc:date>2013-11-24T18:05:37Z</dc:date>
+  <dc:date>2013-11-24T18:05:37Z</dc:date>
+  <dc:pubDate>2013</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0016-6707</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/3244</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:publisher>http://link.springer.com/article/10.1007%2Fs10709-013-9722-9</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3244</dc:cdocid>
+  <dc:apiid>10883_3244</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:07Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

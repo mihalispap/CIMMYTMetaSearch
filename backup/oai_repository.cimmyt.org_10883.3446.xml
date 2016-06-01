@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Using molecular marker order to compare genetic structure in plant populations undergoing selection</dc:title>
+  <dc:creator>Arief, V.</dc:creator>
+  <dc:creator>DeLacy, I.</dc:creator>
+  <dc:creator>Wenzl, P.</dc:creator>
+  <dc:creator>Dreisigacker, S.</dc:creator>
+  <dc:creator>Crossa, J.</dc:creator>
+  <dc:creator>Mark, D.</dc:creator>
+  <dc:creator>Basford, K.</dc:creator>
+  <dc:subject>plant breeding and natural populations</dc:subject>
+  <dc:subject>haplotype disequilibrium</dc:subject>
+  <dc:description>Many ecological studies compare the genetic structure of populations undergoing natu- ral or artificial selection across different environments. High-throughput molecular markers are now commonly used for these comparisons and provide information on the adapta- tion of the populations to their environments. The genetic structure reflects the history of selection, mutation, migration, and the reproductive breeding system of the populations in their environments. This can be investigated by comparing the ordering of markers obtained from the population with that provided by a recombination or physical map. In populations undergoing selection many genes (markers) have low or zero frequency and commonly used disequilibrium coefficients become unstable under these conditions. A method is presented for ordering bi-allelic markers for populations of self-fertilizing plant species which consist of mixtures of related homozygous genotypes. This provides stable pairwise marker similarity measures even when marker frequencies are low, identification of marker combinations that reflect phenomena that cause differentiation (such as selection and migration), and genetic information on the adaptation of the populations to the environments. The method is illustrated using data from a plant breeding program and inferences are made about accumulation of desirable genes (such as for disease resistance).</dc:description>
+  <dc:date>2014-03-05T17:59:57Z</dc:date>
+  <dc:date>2014-03-05T17:59:57Z</dc:date>
+  <dc:pubDate>2013</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>1945-1296</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/3446</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://www.jenvstat.org/v04/i04</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3446</dc:cdocid>
+  <dc:apiid>10883_3446</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:10Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

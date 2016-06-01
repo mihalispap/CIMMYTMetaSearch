@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A meta-analysis of community-based studies on quality protein maize</dc:title>
+  <dc:creator>Gunaratna, N.S.</dc:creator>
+  <dc:creator>De Groote, H.</dc:creator>
+  <dc:creator>Nestel, P.</dc:creator>
+  <dc:creator>Pixley, K.V.</dc:creator>
+  <dc:creator>McCabe, G.P.</dc:creator>
+  <dc:subject>Impact assessment</dc:subject>
+  <dc:subject>Biofortification</dc:subject>
+  <dc:subject>Meta-analysis</dc:subject>
+  <dc:subject>Bootstrap</dc:subject>
+  <dc:subject>Quality protein maize</dc:subject>
+  <dc:description>Biofortification, or the improvement of nutritional quality in food crops, is a promising strategy to combat undernutrition, particularly among the rural poor in developing countries. However, traditional methods of impact assessment are inadequate for biofortified crops, as they do not consider their nutritional benefits. Evidence for the nutritional impact of maize varieties with improved protein quality, collectively known as quality protein maize (QPM), was evaluated using meta-analysis of randomized, controlled studies in target communities. A new and generalizable effect size was proposed to quantify the impact of QPM on a key outcome, child growth. The results indicated that consumption of QPM instead of conventional maize leads to a 12% (95% CI: 7?18%) increase in the rate of growth in weight and a 9% (95% CI: 6?15%) increase in the rate of growth in height in infants and young children with mild to moderate undernutrition from populations in which maize is the major staple food. The proposed effect size and use of bootstrapping to determine statistical significance addressed some methodological limitations in the existing studies.</dc:description>
+  <dc:date>2013-06-07T21:09:42Z</dc:date>
+  <dc:date>2013-06-07T21:09:42Z</dc:date>
+  <dc:pubDate>2010</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0306-9192</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/2173</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2173</dc:cdocid>
+  <dc:apiid>10883_2173</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_7</dc:cset>
+  <dc:setid>403613916</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:54Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

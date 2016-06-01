@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Analysis of maize production in Honduras: Linking census data to environment variables through geographic information systems</dc:title>
+  <dc:creator>Barreto, H.J.</dc:creator>
+  <dc:creator>Hartkamp, A.D.</dc:creator>
+  <dc:subject>Spatial distribution</dc:subject>
+  <dc:subject>Environmental factors</dc:subject>
+  <dc:subject>Zea mays</dc:subject>
+  <dc:subject>Production factors</dc:subject>
+  <dc:subject>Maize</dc:subject>
+  <dc:subject>Cropping systems</dc:subject>
+  <dc:subject>Plant production</dc:subject>
+  <dc:subject>Monoculture</dc:subject>
+  <dc:subject>Data analysis</dc:subject>
+  <dc:subject>Production economics</dc:subject>
+  <dc:subject>Intercropping</dc:subject>
+  <dc:subject>Geographical information systems</dc:subject>
+  <dc:description>Because data from traditional censuses are not spatially referenced, biophysical information is generally the only type used to define the spatial domains for targeting technologies. Using existing census data for Honduras aggregated at the municipality and village levels (291 municipalities and 3,728 villages), agricultural census data were linked to spatial data for altitude, precipitation, and market access. Village-level census data were stratified by altitude (&lt;1,000, 1,000-1,200, 1,200-1500,&gt;1,500 m) and farm size (&lt;5,5-20, 20-100, 100-500 and &gt; 500 ha.). This study characterizes four principal maize production systems in a spatial and temporal context: 1) summer season maize under monoculture; 2) summer season maize under intercropping; 3) winter season maize under monoculture; and 4) winter season maize under intercropping. By far the most important and widespread maize production system is summer monocropped maize, accounting for two-thirds of national maize harvested area and about 75% of maize production. Summer intercropped maize and winter monocropped maize are more geographically concentrated. Differences in maize productivity (as measured by grain yield) were observed as a function of cropping season, system, altitude class, and farm size. Average yields for the &lt;1,000, 1,000-1,200, 1,200-1500 and &gt; 1,500 altitude classes were 1.47, 1.07, 1.01, and 1.13 t/ha, respectively. In the summer season monoculture systems, a positive relationship between yield and farm size was found. Maize yields in the intercropped systems were low (0.5-1.0 t/ha) and were less related to farm size. Most maize area was planted at elevations below 1,000 m on farms of less than 20 ha (57%). This was followed by farms in the 20-100 ha range at altitudes under 1,000 m (14%) and farms in the 100-500 ha range under 1,000 m (7%). The portions of maize production sold to market for the &lt;1,000 1,000-1,200, 1,200-1,500 and &gt; 1,500 altitude classes were 40.5, 11,9, 9.4 and 16.1% linking different types of spatial data (biophysical and socio-economic) can increase the usefulness of available country-wide census data in developing countries.</dc:description>
+  <dc:date>2012-01-06T05:09:13Z</dc:date>
+  <dc:date>2012-01-06T05:09:13Z</dc:date>
+  <dc:pubDate>1999</dc:pubDate>
+  <dc:type>Books and monographs</dc:type>
+  <dc:issn>1405-7484</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/989</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>CIMMYT NRG-GIS Series</dc:relation>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>CIMMYT</dc:publisher>
+  <dc:geotag>Honduras</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3608932</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>989</dc:cdocid>
+  <dc:apiid>10883_989</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:cset>col_10883_7</dc:cset>
+  <dc:setid>403613916</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:51Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

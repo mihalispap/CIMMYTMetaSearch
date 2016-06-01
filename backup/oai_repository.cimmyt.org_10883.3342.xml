@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A note on potential candidate genomic regions with implications for maize stover fodder quality</dc:title>
+  <dc:creator>Vinayan, T.</dc:creator>
+  <dc:creator>Babu, R.</dc:creator>
+  <dc:creator>Jyothsna, T.</dc:creator>
+  <dc:creator>Zaidi, P.H.</dc:creator>
+  <dc:creator>Blummel, M.</dc:creator>
+  <dc:subject>Maize stover fodder quality</dc:subject>
+  <dc:subject>Genotyping by sequencing</dc:subject>
+  <dc:subject>Genomic regions for stover fodder quality</dc:subject>
+  <dc:description>A panel of 276 inbred lines from CIMMYT's Drought tolerant maize for Africa program was test crossed to maize line CML312 and the single crosses were evaluated for grain and stover yields, plant height (PH), days to 50% anthesis (DtA50) and silking, stover nitrogen (N), neutral (NDF) and acid detergent fiber (ADF), acid detergent lignin (ADL), in vitro organic matter digestibility (IVOMD) and metabolizable energy (ME) content. Most stover fodder quality traits were highly significantly different among the lines except ADF. These differences were substantial among best and worst lines for the traits, with stover N varying threefold and NDF, ADF and IVOMD by more than 10 percentage units. Among the agronomic traits, significant positive associations were observed among grain and stover yield. Grain yield was significantly negatively associated with DtA50 and Anthesis to silking interval (AtS) and positively with PH. Stover yield was significantly negatively associated with DtA50 and positively with PH. Desirable stover quality traits N, IVOMD and ME were significantly negatively associated with grain yield (R2 = 0.25?0.28) while undesirable quality traits NDF, ADF and ADL were significantly positively associated with grain yield (R2 = 0.04?0.23). Stover yields were largely unrelated fodder quality traits except for a significant negative association with NDF and ADF (R2 = 0.04 to 0.08). GWAS analysis carried out using GBS (genotyping by sequencing) and a 55K SNPs genotypic dataset revealed several regions of significant association for N, ADF and IVOMD, each explaining from 3 to 9% of phenotypic variance for these fodder quality traits. SYN7725 from the 55K chip on chromosome 4 explained the largest proportion of phenotypic variance (~9%) for ADF and had a robust minor allele frequency (MAF) of 0.35. A specific genomic region on chromosome 3 (132.7?149.2 Mb) was found to be significantly associated with all the three forage quality traits, with the largest effect on IVOMD. This region merits attention for further validation and marker-assisted introgressions. A cellulose-related candidate gene, Xyloglucan endotransglucosylase/hydrolase (xth1, GRMZM2G119783) was also identified closer to the peak on chr.10 (~76.9 Mb) for ADF, which has been previously demonstrated to have a significant role in fiber elongation in cotton.</dc:description>
+  <dc:date>2013-12-09T20:30:20Z</dc:date>
+  <dc:date>2013-12-09T20:30:20Z</dc:date>
+  <dc:pubDate>2013</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0378-4290</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/3342</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://www.sciencedirect.com/science/article/pii/S0378429013001019</dc:publisher>
+  <dc:geotag>Africa</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255146</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3342</dc:cdocid>
+  <dc:apiid>10883_3342</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:50Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

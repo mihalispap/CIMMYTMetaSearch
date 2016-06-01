@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Photothermal quotient specifications to improve wheat cultivar yield component models</dc:title>
+  <dc:creator>Nalley, L.L.</dc:creator>
+  <dc:creator>Barkley, A.P.</dc:creator>
+  <dc:creator>Sayre, K.D.</dc:creator>
+  <dc:description>Previous research has demonstrated the importance and statistical significance of the photothermal quotient (PTQ) to predict and explain wheat (Triticum aestivum L.) yields. The objective of this study is to respecify PTQ to enhance the explanatory power of statistical models used to explain grains per square meter (GM&amp;ndash;2), and increase understanding of weather's impact on yields. The primary objective is to identify and quantify potential gains from including separate components of solar radiation (Solar) and temperature (Temp) in place of PTQ (Solar/Temp) to improve wheat yield model explanatory ability. The study also determines the optimal time interval that defines PTQ by varying the number of days before and after 50% anthesis. Using wheat test plot data from Centro Internacional de Mejoramiento de Maíz y Trigo (CIMMYT) in Mexico's Yaqui Valley, a multivariate regression-based stochastic model of wheat yields was used to estimate the impact of altering PTQ definition and specification. Results support previous research: the maximum F-test value of 66.02 and adjusted R2 value of 0.446 were obtained for 31 d before to 1 d after 50% anthesis. Interpretation and analysis were also enhanced by disaggregating PTQ into separate variables Solar and Temp. A 1 MJ m&amp;ndash;2 d&amp;ndash;1 increase in Solar increased GM&amp;ndash;2 by 1.25%, whereas a 1°C increase in Temp decreased GM&amp;ndash;2 by 2.8%. This difference in yield responsiveness to weather components results in greater statistical significance, explanatory power, and interpretation of GM&amp;ndash;2 models. Future research that builds on these results will better explain, predict, and forecast crop yields.</dc:description>
+  <dc:date>2013-06-07T21:12:23Z</dc:date>
+  <dc:date>2013-06-07T21:12:23Z</dc:date>
+  <dc:pubDate>2009</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/2693</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2693</dc:cdocid>
+  <dc:apiid>10883_2693</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:04Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

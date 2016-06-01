@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Outlook of future climate in northwestern Ethiopia</dc:title>
+  <dc:creator>Dereje Ayalew</dc:creator>
+  <dc:creator>Kindie Tesfaye Fantaye</dc:creator>
+  <dc:creator>Girma Mamo</dc:creator>
+  <dc:creator>Birru Yitaferu</dc:creator>
+  <dc:creator>Wondimu Bayu</dc:creator>
+  <dc:subject>Amhara Regional State</dc:subject>
+  <dc:subject>Climate Change</dc:subject>
+  <dc:subject>Ethiopia</dc:subject>
+  <dc:subject>HadCM3</dc:subject>
+  <dc:subject>Statistical Downscaling</dc:subject>
+  <dc:description>Climate change is described as the most universal and irreversible environmental problem facing the planet Earth. While climate change is already manifesting in Ethiopia through changes in temperature and rainfall, its magnitude is poorly studied at regional levels. The objective of this paper was to assess and quantify the magnitude of future changes of climate parameters using Statistical Downscaling Mode (SDSM) version 4.2 in Amhara Regional State which is located between 8°45‘N and 13°45‘N latitude and 35°46‘E and 40°25‘E longitude. Daily climate data (1979- 2008) of rainfall, maximum and minimum temperatures were collected from 10 observed meteorological stations (predictand). The stations were grouped and compared using clustering and Markov chain model, whereas the degree of climate change in the study area was estimated using the coupled HadCM3 general circulation model (GCM) with A2a emission scenarios (Predictors). Both maximum and minimum temperatures showed an increasing trend; the increase in mean maximum temperature ranges between 1.55°C and 6.07°C and that of the mean minimum temperature ranges from 0.11°C and 2.81°C. While the amount of annual rainfall and rainy days decreased in the study Regions in the 2080s. The negative changes in rainfall and temperature obtained from the HadCM3 model in the current study are alarming and suggest the need for further study with several GCM models to confirm the current results and develop adaptation options.</dc:description>
+  <dc:date>2013-06-07T21:09:53Z</dc:date>
+  <dc:date>2013-06-07T21:09:53Z</dc:date>
+  <dc:pubDate>2012</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/2258</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://www.scirp.org/journal/PaperInformation.aspx?paperID=20100</dc:publisher>
+  <dc:geotag>Ethiopia</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/337996</dc:geonames>
+  <dc:geotag>Ethiopia</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/337996</dc:geonames>
+  <dc:geotag>Ethiopia</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/337996</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2258</dc:cdocid>
+  <dc:apiid>10883_2258</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_7</dc:cset>
+  <dc:setid>403613916</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:55Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

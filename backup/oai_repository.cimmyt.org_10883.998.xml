@@ -1,0 +1,55 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Modeling extremes of wheat and maize crop performance in the tropics</dc:title>
+  <dc:creator>White, J.W.</dc:creator>
+  <dc:creator>Grace, P.</dc:creator>
+  <dc:subject>Triticum</dc:subject>
+  <dc:subject>Yield increases</dc:subject>
+  <dc:subject>Yield factors</dc:subject>
+  <dc:subject>Environmental factors</dc:subject>
+  <dc:subject>Simulation models</dc:subject>
+  <dc:subject>Models</dc:subject>
+  <dc:subject>Cereals</dc:subject>
+  <dc:subject>Temperature resistance</dc:subject>
+  <dc:subject>Zea mays</dc:subject>
+  <dc:subject>Maize</dc:subject>
+  <dc:subject>Research projects</dc:subject>
+  <dc:subject>Tropical zones</dc:subject>
+  <dc:subject>Crop yield</dc:subject>
+  <dc:subject>Wheats</dc:subject>
+  <dc:subject>Mexico</dc:subject>
+  <dc:subject>Heat</dc:subject>
+  <dc:subject>Drought stress</dc:subject>
+  <dc:subject>Crop performance</dc:subject>
+  <dc:subject>Rain</dc:subject>
+  <dc:subject>Nutrient deficiencies</dc:subject>
+  <dc:description>In a workshop sponsored by the Natural Resources Group (NRG) of the International Maize and Wheat Improvement Center (CIMMYT), scientists from the USA, Canada, South Africa and CIMMYT gathered at CIMMYT headquarters during 19-22 April, 1999, to examine the performance of leading maize and wheat simulation models, particularly CERES, for tropical environments of high and low yield potentials. Major outcomes are reported in this publication and include: * revision of temperature effects on development in CERES Wheat 3.5; * examination of strategies for modeling barrenness and prolificacy in maize; * identification of the temperature effect on radiation use efficiency as a priority for subsequent revision; * heightened recognition of the need to compile quality data sets for maize and wheat growth from diverse environments</dc:description>
+  <dc:date>2012-01-06T05:09:25Z</dc:date>
+  <dc:date>2012-01-06T05:09:25Z</dc:date>
+  <dc:pubDate>2000</dc:pubDate>
+  <dc:type>Proceedings</dc:type>
+  <dc:type>Books and monographs</dc:type>
+  <dc:identifier>970-648-47-1</dc:identifier>
+  <dc:issn>1405-7484</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/998</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:relation>CIMMYT NRG-GIS Series</dc:relation>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>CIMMYT</dc:publisher>
+  <dc:geotag>Mexico</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3996063</dc:geonames>
+  <dc:geotag>Canada</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6251999</dc:geonames>
+  <dc:geotag>Africa</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255146</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>998</dc:cdocid>
+  <dc:apiid>10883_998</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:cset>col_10883_2</dc:cset>
+  <dc:setid>403613911</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:41Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

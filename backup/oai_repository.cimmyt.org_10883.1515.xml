@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The natural abundance of 13C with different agricultural management by NIRS with fibre optic probe technology</dc:title>
+  <dc:creator>Fuentes, M.</dc:creator>
+  <dc:creator>Gonzalez-Martin, I.</dc:creator>
+  <dc:creator>Hernandez-Hierro, J.M.</dc:creator>
+  <dc:creator>Hidalgo, C.</dc:creator>
+  <dc:creator>Govaerts, B.</dc:creator>
+  <dc:creator>Etchevers, J.</dc:creator>
+  <dc:creator>Sayre, K.D.</dc:creator>
+  <dc:creator>Dendooven, L.</dc:creator>
+  <dc:subject>Soil</dc:subject>
+  <dc:subject>Near infrared reflectance spectroscopy (NIRS)</dc:subject>
+  <dc:description>In the present study the natural abundance of 13C is quantified in agricultural soils in Mexico which have been submitted to different agronomic practices, zero and conventional tillage, retention of crop residues (with and without) and rotation of crops (wheat and maize) for 17 years, which have influenced the physical, chemical and biological characteristics of the soil. The natural abundance of C13 is quantified by near infrared spectra (NIRS) with a remote reflectance fibre optic probe, applying the probe directly to the soil samples. Discriminate partial least squares analysis of the near infrared spectra allowed to classify soils with and without residues, regardless of the type of tillage or rotation systems used with a prediction rate of 90% in the internal validation and 94% in the external validation. The NIRS calibration model using a modified partial least squares regression allowed to determine the d13C in soils with or without residues, with multiple correlation coefficients 0.81 and standard error prediction 0.5&amp;permil; in soils with residues and 0.92 and 0.2&amp;permil; in soils without residues. The ratio performance deviation for the quantification of d13C in soil was 2.5 in soil with residues and 3.8 without residues. This indicated that the model was adequate to determine the d13C of unknown soils in the -16.2&amp;permil; to -20.4&amp;permil; range. The development of the NIR calibration permits analytic determinations of the values of d13C in unknown agricultural soils in less time, employing a non-destructive method, by the application of the fibre optic probe of remote reflectance to the soil sample.</dc:description>
+  <dc:date>2013-06-05T15:45:38Z</dc:date>
+  <dc:date>2013-06-05T15:45:38Z</dc:date>
+  <dc:pubDate>2009</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/1515</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:geotag>Mexico</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3996063</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1515</dc:cdocid>
+  <dc:apiid>10883_1515</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_2</dc:cset>
+  <dc:setid>403613911</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:38Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Characterization of Chinese wheat germplasm for resistance to Fusarium head blight at CIMMYT, Mexico</dc:title>
+  <dc:creator>He Xinyao</dc:creator>
+  <dc:creator>Singh, P.K.</dc:creator>
+  <dc:creator>Schlang, N.</dc:creator>
+  <dc:creator>Duveiller, E.</dc:creator>
+  <dc:creator>Dreisigacker, S.</dc:creator>
+  <dc:creator>Payne, T.</dc:creator>
+  <dc:creator>He Zhonghu</dc:creator>
+  <dc:subject>Bread wheat</dc:subject>
+  <dc:subject>Germplasm</dc:subject>
+  <dc:subject>Scab</dc:subject>
+  <dc:subject>resistance breeding</dc:subject>
+  <dc:subject>DON content</dc:subject>
+  <dc:subject>anther extrusion</dc:subject>
+  <dc:description>Fusarium head blight (FHB) poses a challenge for wheat breeders worldwide; there are limited sources of resistance and the genetic basis for resistance is not well understood. In the mid-1980s, a shuttle breeding and germplasm exchange program launched between CIMMYT-Mexico and China, enabled the incorporation of FHB resistance from Chinese bread wheat germplasm into CIMMYT wheat. Most of the Chinese wheat materials conserved in the CIMMYT germplasm bank had not been fully characterized for FHB reaction under Mexican environments, until 2009, when 491 Chinese bread wheat lines were evaluated in a FHB screening nursery in Mexico, and 304 (61.9 %) showed FHB indices below 10 %. Subsequent testing occurred in 2010 for plant height (PH), days to heading (DH), and leaf rust response. In 2012, 140 elite lines with good agronomic types were further evaluated for field FHB reaction and deoxynivalenol (DON) accumulation. Most of the tested lines showed good resistance: 116 (82.9 %) entries displayed FHB indices lower than 10 %, while 89 (63.6 %) had DON contents lower than 1.0 ppm. Significant negative correlations were observed between FHB traits (FHB index, DON content, and Fusarium damaged kernels) and PH, DH, and anther extrusion. A subset of 102 elite entries was selected for haplotyping using markers linked to 10 well known FHB quantitative trait loci (QTL). 57 % of the lines possessed the same 2DL QTL marker alleles as Wuhan 1 or CJ 9306, and 26.5 % had the same 3BS QTL allele as Sumai 3. The remaining known QTL were of low frequency. These materials, especially those with none of the above tested resistance QTL (26.5 %), could be used in breeding programs as new resistance sources possessing novel genes for FHB resistance and DON tolerance.</dc:description>
+  <dc:date>2014-03-05T17:59:54Z</dc:date>
+  <dc:date>2014-03-05T17:59:54Z</dc:date>
+  <dc:pubDate>2013</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0014-2336</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/3438</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://link.springer.com/article/10.1007%2Fs10681-013-1002-3</dc:publisher>
+  <dc:geotag>Mexico</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3996063</dc:geonames>
+  <dc:geotag>China</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1814991</dc:geonames>
+  <dc:geotag>Mexico</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3996063</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3438</dc:cdocid>
+  <dc:apiid>10883_3438</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:10Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

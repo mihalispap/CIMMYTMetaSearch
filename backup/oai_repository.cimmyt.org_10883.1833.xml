@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Statistical genomics for crop improvement: Opportunities and challenges</dc:title>
+  <dc:creator>Prasanna, B.M.</dc:creator>
+  <dc:subject>molecular marker</dc:subject>
+  <dc:subject>Haplotypes</dc:subject>
+  <dc:subject>QTL</dc:subject>
+  <dc:subject>Association mapping</dc:subject>
+  <dc:subject>Statistical genomics</dc:subject>
+  <dc:subject>Crop plants</dc:subject>
+  <dc:description>Effective analysis of molecular data in combination with rigorous phenotypic data using appropriate statistical methods can provide enhanced understanding of the genetic and molecular bases of complex phenotypic traits. Coupled with the rapid development related to genome sequencing of crop plants, advances in statistical methods have aided in detecting Quantitative Trait Loci (QTL) influencing an array of traits, including epistatic QTLs, besides analysis of genotype x environment interactions, discovery of ?consensus QTL? through meta-analysis of data, expression-QTL (eQTL) through genetical genomics, and even epigenomic QTL. The profusion of powerful DNA-based markers, particularly single nucleotide polymorphisms (SNPs) and the evolution of statistical algorithms and experimental strategies, including the extension of the concept of linkage disequilibrium (LD)-based association mapping in crop plants, further promises to revolutionize the discovery of marker-trait associations for several important traits. While these exciting advances have brought closer the statisticians, bioinformatics experts, geneticists and molecular biologists, the new focus on genomiscs has also highlighted a significant challenge; how to integrate the different views of the genome given by various types of experimental data and provide a proper biological perspective that can lead to crop improvement. In the article, from the user?s perspective, I shall review some of the ongoing work on the above-mentioned areas in crop plants, especially using maize as a model system, and the opportunities and challenges for application of statistical genomics in molecular plant breeding.</dc:description>
+  <dc:date>2013-06-07T21:02:45Z</dc:date>
+  <dc:date>2013-06-07T21:02:45Z</dc:date>
+  <dc:pubDate>2010</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0019-6363</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/1833</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1833</dc:cdocid>
+  <dc:apiid>10883_1833</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:46Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

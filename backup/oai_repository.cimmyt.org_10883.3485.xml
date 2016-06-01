@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Using an interactive retrieval and reporting system on the CIMMYT Germplasm Data Base and the EXIR Interactive Data Retrieval and Reporting System</dc:title>
+  <dc:subject>Databases</dc:subject>
+  <dc:subject>Gene pools</dc:subject>
+  <dc:subject>Germplasm</dc:subject>
+  <dc:subject>Information retrieval</dc:subject>
+  <dc:subject>Information Services</dc:subject>
+  <dc:subject>Computer applications</dc:subject>
+  <dc:subject>Zea mays</dc:subject>
+  <dc:subject>Documentation</dc:subject>
+  <dc:subject>Information science</dc:subject>
+  <dc:date>2014-03-13T00:46:09Z</dc:date>
+  <dc:date>2014-03-13T00:46:09Z</dc:date>
+  <dc:pubDate>1975</dc:pubDate>
+  <dc:type>Grey literature</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/3485</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:publisher>CIMMYT</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3485</dc:cdocid>
+  <dc:apiid>10883_3485</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:07Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

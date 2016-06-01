@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Characterization of CIMMYT bread wheats for high- and low-molecular weight glutenin subunits and other quality-related genes with SDS-PAGE, RP-HPLC and molecular markers</dc:title>
+  <dc:creator>Liang, D.</dc:creator>
+  <dc:creator>Tang, J.</dc:creator>
+  <dc:creator>Peña-Bautista, R.J.</dc:creator>
+  <dc:creator>Singh, R.P.</dc:creator>
+  <dc:creator>Xinyao He</dc:creator>
+  <dc:creator>Shen, X.</dc:creator>
+  <dc:creator>Yao, D.</dc:creator>
+  <dc:creator>Xia, X.</dc:creator>
+  <dc:creator>He Zhonghu</dc:creator>
+  <dc:subject>common wheat</dc:subject>
+  <dc:subject>quality parameters</dc:subject>
+  <dc:subject>HMW-GS</dc:subject>
+  <dc:subject>LMW-GS</dc:subject>
+  <dc:subject>SDS-PAGE</dc:subject>
+  <dc:subject>RP-HPLC</dc:subject>
+  <dc:subject>Molecular Markers</dc:subject>
+  <dc:description>Two hundred and seventy-three CIMMYT bread wheat cultivars and advanced lines grown under irrigated conditions in Mexico during the 2005-06 Yaqui crop cycle were characterized for quality-related genetic traits using gene-specific markers for some high- and low-molecular-weight glutenin subunit (HMW-GS and LMW-GS) genes, polyphenol oxidase (PPO), phytoene synthase (PSY), and waxy genes. Of them, 142 were analyzed for quality parameters including SDS sedimentation volume (SDS-SV), dough mixing time, and Alveograph parameters, and for HMW-GS and LMW-GS compositions using sodium-dodecyl-sulfate polyacrylamide gel electrophoresis (SDS-PAGE), and reversed-phase high-performance liquid chromatography (RP-HPLC). For the Ppo-A1 locus tested with the marker PPO18, the frequencies of alleles Ppo-A1a and Ppo-A1b were 79.1 and 20.2%, respectively, and no PCR fragment was amplified in 2 lines (0.73%), whereas 227 lines (83.2%) contained the allele Ppo-D1a and 46 lines (16.8%) had Ppo-D1b detected by markers PPO16 and PPO29. For the marker YP7A, 142 lines (52.0%) were assumed to have the allele Psy-A1a and 131 lines (48.0%) contained the allele Psy-A1b. In the case of the marker YP7B for the gene Psy-B1, the alleles Psy-B1a and Psy-B1b were detected in 155 (56.8%) and 43 (15.8%) lines, respectively, and 75 (27.4%) lines possessed the allele Psy-B1d detected by the marker YP7B-3. All 273 lines contained the alleles Wx-A1a and Wx-D1a as determined by markers MAG264 and MAG269, respectively. Using the marker Wx-B1, 204 lines (74.7%) were presumed to have the Wx-B1a allele and 69 (25.3%) possessed Wx-B1b. The over-expressing allele of Bx7 OE and subunit By8*, not clearly seen with SDS-PAGE, were detected by RP-HPLC. The numbers of lines with subunits Ax2*, By8, By9, Bx17, Bx20, Dx5, and Glu-B3j were 90, 16, 57, 5, 46, 118, and 33, respectively, in the 142 lines analyzed with molecular markers, and were consistent with the results obtained by SDS-PAGE, except for one line with the 1A.1R translocation. Subunits Ax1 and Ax2* at the Glu-A1 locus showed significantly better effects on all quality parameters than subunit Null. Subunits 5 + 10 gave significantly better effects for all parameters. Subunit Glu-A3b showed more positive effects than its alternative alleles on SDS-SV and SDS-sedimentation volume/protein content index (SPI). The allele Glu-B3g showed the best effect on SDS-SV and Alveograph W, whereas Glu-B3j, associated with the 1B.1R translocation, exhibited a strongly negative effect on all quality parameters.</dc:description>
+  <dc:date>2013-06-07T21:12:27Z</dc:date>
+  <dc:date>2013-06-07T21:12:27Z</dc:date>
+  <dc:pubDate>2010</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/2718</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:geotag>Mexico</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3996063</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2718</dc:cdocid>
+  <dc:apiid>10883_2718</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:04Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

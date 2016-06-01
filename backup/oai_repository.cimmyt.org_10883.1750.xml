@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Minimum resources for phenotyping morphological traits of maize (Zea mays L.) genetic resources</dc:title>
+  <dc:creator>Ortiz, R.</dc:creator>
+  <dc:creator>Crossa, J.</dc:creator>
+  <dc:creator>Sevilla, R.</dc:creator>
+  <dc:subject>ear traits</dc:subject>
+  <dc:subject>Heritability</dc:subject>
+  <dc:subject>phenotypic variance</dc:subject>
+  <dc:subject>plant descriptors</dc:subject>
+  <dc:subject>quantitative variation</dc:subject>
+  <dc:subject>replication number</dc:subject>
+  <dc:description>The aim of this research was to use variance components to calculate total phenotypic variation for 12 vegetative and reproductive maize traits. A set of 59 accessions, belonging to nine Peruvian highland maize races, were grown at two consecutive planting seasons in 2 years at one inter-Andean site in northern Peru. The trial data provided a means for calculating the variance components using the restricted maximum-likelihood method. The variance components were assumed to be stable while the number of environments and replications varied to simulate phenotypic variation for each trait. The least number of environments and replications, which does not affect the precision of phenotyping, was selected for assessing each trait. Tabulated data provide the number of environments and replications that can be used as a reference for Peruvian highland trials to assess quantitative variation in plant and reproductive traits. The results suggest that fewer environments and replications are needed for reproductive than for plant traits because the former show higher heritability than vegetative traits.</dc:description>
+  <dc:date>2013-06-07T21:02:34Z</dc:date>
+  <dc:date>2013-06-07T21:02:34Z</dc:date>
+  <dc:pubDate>2008</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/1750</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://bit.ly/16Q1ijD</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1750</dc:cdocid>
+  <dc:apiid>10883_1750</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:45Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

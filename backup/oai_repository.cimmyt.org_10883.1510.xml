@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Satellite monitoring of yield responses to irrigation practices across thousands of fields</dc:title>
+  <dc:creator>Lobell, D.B.</dc:creator>
+  <dc:creator>Ortiz-Monasterio, I.</dc:creator>
+  <dc:description>Geographic information systems (GIS) present new opportunities for empirical agronomic research that can complement experimental and modeling approaches. In this study, GIS databases of irrigation practices for more than 4000 fields were compared with wheat yields derived from remote sensing for five growing seasons in the Yaqui Valley of Northwest Mexico. Significant yield effects were observed for both number and timing of irrigations, but not for reported water volumes, suggesting that proper timing is more important to yields than total water amounts. In most years, yield losses were observed when the second irrigation occurred more than 60 d after preplant irrigation, with an average loss of 11 kg ha&amp;ndash;1 for each day above this value. Overall, we estimate that optimal timing and number of irrigations for all fields in Yaqui Valley could increase average yields by roughly 5%. Results varied by year, in part because of variability in growing season rainfall and in part because of variations in water allocations. Interactions with soil types were also evident, with greater yield variability attributed to irrigation on soils with higher clay contents. The results of this study provide new insight into specific causes of yield losses in farmers' fields, which can inform future field experiments, management, and water policy in this region. In general, empirical studies of large GIS databases can help to improve crop management, and meet the dual needs of higher yields and improved water use efficiency</dc:description>
+  <dc:date>2013-06-05T15:45:37Z</dc:date>
+  <dc:date>2013-06-05T15:45:37Z</dc:date>
+  <dc:pubDate>2008</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/1510</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1510</dc:cdocid>
+  <dc:apiid>10883_1510</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_2</dc:cset>
+  <dc:setid>403613911</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:38Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

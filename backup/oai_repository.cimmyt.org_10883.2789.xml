@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Construction and three-way ordination of the wheat phenome atlas</dc:title>
+  <dc:creator>Arief, V.N.</dc:creator>
+  <dc:creator>Kroonenberg, P.M.</dc:creator>
+  <dc:creator>DeLacy, I.H.</dc:creator>
+  <dc:creator>Dieters, M.J.</dc:creator>
+  <dc:creator>Crossa, J.</dc:creator>
+  <dc:creator>Dreisigacker, S.</dc:creator>
+  <dc:creator>Braun, H.-J.</dc:creator>
+  <dc:creator>Basford, K.E.</dc:creator>
+  <dc:subject>Plant breeding</dc:subject>
+  <dc:subject>association analysis</dc:subject>
+  <dc:subject>principal component analysis</dc:subject>
+  <dc:description>Long-term plant breeding programs generate large quantities of genealogical, genotypic, phenotypic and environment characterization data. Marker-trait association studies are starting to be used to integrate and represent such data, but the results are context dependent, as trait associated markers depend on the germplasm investigated, the environments in which they are studied, and the interaction of genotype and environment. The concept of a trait-associated marker block, defined as markers in a linkage disequilibrium block that show significant association with a trait, addresses non-independency of markers in association analysis. A Phenome Atlas is a collection of diagrammatic representations of chromosome regions that affect trait inheritance (phenome maps) to document the patterns of trait inheritance across the genome. This methodology is illustrated using the Wheat Phenome Atlas constructed from a genome wide association study of 20 economically important traits from the first 25 years of an international wheat breeding program. Three-way principal component analysis then provides information about which genotypes carry favourable trait-associated marker block combinations, which marker blocks discriminate among genotypes and which marker block combinations are available for any given combination of genotypes and traits. Context dependency is illustrated through different patterns of marker trait association profiles being observed when analysing the same genotypes for different marker blocks and trait combinations, and through data obtained from different combinations of environments.</dc:description>
+  <dc:date>2013-06-07T21:12:37Z</dc:date>
+  <dc:date>2013-06-07T21:12:37Z</dc:date>
+  <dc:pubDate>2010</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>1930-6792</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/2789</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2789</dc:cdocid>
+  <dc:apiid>10883_2789</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:06Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

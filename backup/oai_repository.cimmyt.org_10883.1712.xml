@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A bayesian approach for assessing the stability of genotypes</dc:title>
+  <dc:creator>Cotes, J.M.</dc:creator>
+  <dc:creator>Crossa, J.</dc:creator>
+  <dc:creator>Sanches, A.</dc:creator>
+  <dc:creator>Cornelius, P.L.</dc:creator>
+  <dc:description>Several statistical models can be used for assessing genotype 3 environment interaction (GEI) and studying genotypic stability. The objectives of this research were to show how (i) to use Bayesian methodology for computing Shukla&amp;rsquo;s phenotypic stability variance and (ii) to incorporate prior information on the parameters for better estimation. Potato [Solanum tuberosum subsp. andigenum (Juz. &amp; Bukasov) Hawkes], wheat (Triticum aestivum L.), and maize (Zea mays L.) multi environment trials (MET) were used for illustrating the application of the Bayes paradigm. The potato trial included 15 genotypes, but prior information for just three genotypes was used. The wheat trial used prior information on all 10 genotypes included in the trial, whereas for the maize trial, noninformative priors for the nine genotypes was used. Concerning the posterior distribution of the genotypic means, the maize MET with 20 sites gave less disperse posterior distributions of the genotypic means than did the posterior distribution of the genotypic means of the other METs, which included fewer environments. The Bayesian approach allows use of other statistical strategies such as the normal truncated distribution (used in this study). When analyzing grain yield, a lower bound of zero and an upper bound set by the researcher&amp;rsquo;s experience can be used. The Bayesian paradigm offers plant breeders the possibility of computing the probability of a genotype being the best performer. The results of this study show that although some genotypes may have a very low probability of being the best in all sites, they have a relatively good chance of being among the five highest yielding genotypes.</dc:description>
+  <dc:date>2013-06-07T21:02:29Z</dc:date>
+  <dc:date>2013-06-07T21:02:29Z</dc:date>
+  <dc:pubDate>2006</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/1712</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1712</dc:cdocid>
+  <dc:apiid>10883_1712</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:45Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

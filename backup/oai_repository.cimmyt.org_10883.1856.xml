@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Association mapping and gene-gene interaction for stem rust resistance in CIMMYT spring wheat germplasm</dc:title>
+  <dc:creator>Long-Xi Yu</dc:creator>
+  <dc:creator>Lorenz, A.</dc:creator>
+  <dc:creator>Rutkoski, J.</dc:creator>
+  <dc:creator>Singh, R.P.</dc:creator>
+  <dc:creator>Bhavani, S.</dc:creator>
+  <dc:creator>Huerta-Espino, J.</dc:creator>
+  <dc:creator>Sorrells, M.E.</dc:creator>
+  <dc:description>The recent emergence of wheat stem rust Ug99 and evolution of new races within the lineage threatens global wheat production because they overcome widely deployed stem rust resistance (Sr) genes that had been effective for many years. To identify loci conferring adult plant resistance to races of Ug99 in wheat, we employed an association mapping approach for 276 current spring wheat breeding lines from the International Maize and Wheat Improvement Center (CIMMYT). Breeding lines were genotyped with Diversity Array Technology (DArT) and microsatellite markers. Phenotypic data was collected on these lines for stem rust race Ug99 resistance at the adult plant stage in the stem rust resistance screening nursery in Njoro, Kenya in seasons 2008, 2009 and 2010. Fifteen marker loci were found to be significantly associated with stem rust resistance. Several markers appeared to be linked to known Sr genes, while other significant markers were located in chromosome regions where no Sr genes have been previously reported. Most of these new loci colocalized with QTLs identified recently in different biparental populations. Using the same data and Q + K covariate matrices, we investigated the interactions among marker loci using linear regression models to calculate P values for pairwise marker interactions. Resistance marker loci including the Sr2 locus on 3BS and the wPt1859 locus on 7DL had significant interaction effects with other loci in the same chromosome arm and with markers on chromosome 6B. Other resistance marker loci had significant pairwise interactions with markers on different chromosomes. Based on these results, we propose that a complex network of gene?gene interactions is, in part, responsible for resistance to Ug99. Further investigation may provide insight for understanding mechanisms that contribute to this resistance gene network.</dc:description>
+  <dc:date>2013-06-07T21:02:48Z</dc:date>
+  <dc:date>2013-06-07T21:02:48Z</dc:date>
+  <dc:pubDate>2011</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0040-5752</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/1856</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:geotag>Kenya</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/192950</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1856</dc:cdocid>
+  <dc:apiid>10883_1856</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:cset>col_10883_2</dc:cset>
+  <dc:setid>403613911</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:36Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

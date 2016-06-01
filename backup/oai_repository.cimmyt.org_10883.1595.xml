@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Impact of conservation agriculture on catchment runoff and soil loss under changing climate conditions in May Zeg-zeg (Ethiopia)</dc:title>
+  <dc:creator>Lanckriet, S.</dc:creator>
+  <dc:creator>Tesfay Araya</dc:creator>
+  <dc:creator>Cornelis, W.</dc:creator>
+  <dc:creator>Verfaillie, E.</dc:creator>
+  <dc:creator>Poesen, J.</dc:creator>
+  <dc:creator>Govaerts, B.</dc:creator>
+  <dc:creator>Bauer, H.</dc:creator>
+  <dc:creator>Deckers, J.</dc:creator>
+  <dc:creator>Mitiku Haile</dc:creator>
+  <dc:creator>Nyssen, J.</dc:creator>
+  <dc:subject>Curve Number</dc:subject>
+  <dc:subject>Infiltration</dc:subject>
+  <dc:subject>Organic carbon</dc:subject>
+  <dc:subject>Permanent bed</dc:subject>
+  <dc:subject>Ponding</dc:subject>
+  <dc:subject>Water conservation</dc:subject>
+  <dc:description>This study evaluates the practice of conservation agriculture (CA) in the May Zeg-zeg catchment (MZZ; 187 ha) in the North Ethiopian Highlands as a soil management technique for reducing soil loss and runoff, and assesses the consequences of future large-scale implementation on soil and hydrology at catchment-level. The study of such practice is important especially under conditions of climate change, since EdGCM (Educational Global Climate Model) simulation predicts by 2040 an increase in precipitation by more than 100 mm yr&amp;#8722;1 in the study area. Firstly, field-saturated infiltration rates, together with soil texture and soil organic carbon contents, were measured. The relation with local topography allows to generate a pedotransfer function for field-saturated infiltration rate, and spatial interpolation with Linear Regression Mapping was used to map field-saturated infiltration rates optimally within the catchment. Secondly, on several farmlands, CA was checked against plain tillage (PT) for values of field-saturated infiltration rates, soil organic carbon, runoff and soil loss. Results show no significant differences for infiltration rates but significant differences for runoff and soil loss (as measured in the period 2005?2011). Runoff coefficients were 30.4% for PT and 18.8% for CA; soil losses were 35.4 t ha&amp;#8722;1 yr&amp;#8722;1 for PT and 14.4 t ha&amp;#8722;1 yr&amp;#8722;1 for CA. Thirdly, all collected information was used to predict future catchment hydrological response for full-implementation of CA under the predicted wetter climate (simulation with EdGCM). Curve Numbers for farmlands with CA were calculated. An area-weighted Curve Number allows the simulation of the 2011 rainy season runoff, predicting a total runoff depth of 23.5 mm under CA and 27.9 mm under PT. Furthermore, the Revised Universal Soil Loss Equation management factor P was calibrated for CA. Results also show the important influence of increased surface roughness on water ponding, modeled with a hydrologic conservation balance. By coupling this model with the infiltration rate map, a ?ponding map? of the catchment was established. Finally, a sediment budget for a full future implementation scenario of CA has been estimated, predicting a large impact of CA on sheet and rill erosion rates, since total soil loss due to sheet and rill erosion in cropland would become 581 t yr&amp;#8722;1 instead of 1109 t yr&amp;#8722;1, if CA would be practiced in MZZ. Simulation of several policy scenarios shows that especially under a future wetter North-East-African climate, CA would be a beneficial alternative for the current plain tillage, as it will increase infiltration and keep runoff coefficients under control.</dc:description>
+  <dc:date>2013-06-07T20:59:22Z</dc:date>
+  <dc:date>2013-06-07T20:59:22Z</dc:date>
+  <dc:pubDate>2012</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0022-1694</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/1595</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://www.sciencedirect.com/science/article/pii/S0022169412008852</dc:publisher>
+  <dc:geotag>Ethiopia</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/337996</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1595</dc:cdocid>
+  <dc:apiid>10883_1595</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_2</dc:cset>
+  <dc:setid>403613911</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:27Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

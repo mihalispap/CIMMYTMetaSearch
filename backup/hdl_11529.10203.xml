@@ -1,0 +1,44 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>GEA-R (Genotype x Environment Analysis with R for Windows) Version 2.0</dc:title>
+  <dc:identifier>http://hdl.handle.net/11529/10203</dc:identifier>
+  <dc:creator>Pacheco, Ángela</dc:creator>
+  <dc:creator>Vargas, Mateo</dc:creator>
+  <dc:creator>Alvarado, Gregorio</dc:creator>
+  <dc:creator>Rodríguez, Francisco</dc:creator>
+  <dc:creator>Crossa, José</dc:creator>
+  <dc:creator>Burgueño, Juan</dc:creator>
+  <dc:publisher>Internatinal Maize and Wheat Improvement Center</dc:publisher>
+  <dc:pubDate>2015-06-01</dc:pubDate>
+  <dc:subject>Genotype by Environment Interaction</dc:subject>
+  <dc:subject>AMMI</dc:subject>
+  <dc:subject>SREG</dc:subject>
+  <dc:subject>PLS</dc:subject>
+  <dc:subject>Factorial Regression</dc:subject>
+  <dc:subject>Stability Analysis</dc:subject>
+  <dc:subject>Partial Least Squares</dc:subject>
+  <dc:subject>Multienvironment trials</dc:subject>
+  <dc:subject>R program</dc:subject>
+  <dc:description>In agricultural experimentation, a large number of genotypes are normally tested over a wide range of environments. The occurrence of the genotype (G) X environment (E) interaction (GEI) effect further complicates the selection of superior genotypes for a target population of environments. In the absence of GEI, the superior genotype in one environment may be regarded as the superior genotype in all, whereas the presence of the GEI confirms particular genotypes being superior in particular environments. Several statistical methods were developed for resolved that kind of problems, for example, Additive main effect and multiplicative interaction analysis (AMMI), Site regression (SREG), Partial least square (PLS), Stability analysis and Factorial regression.</dc:description>
+  <dc:citation>Pacheco, Ángela; Vargas, Mateo; Alvarado, Gregorio; Rodríguez, Francisco; Crossa, José; Burgueño, Juan, 2015-06-08, "GEA-R (Genotype x Environment Analysis with R for Windows) Version 2.0", http://hdl.handle.net/11529/10203 International Maize and Wheat Imrovement Center [Distributor] V13 [Version]</dc:citation>
+  <dc:rights>For further information, please contact CIMMYT at  CIMMYT-Knowledge-Center@cgiar.org or at Km. 45 Carretera Mexico-Veracruz, El Batán, Texcoco, Estado de México, México, C.P. 56237.</dc:rights>
+  <dc:rights>&lt;p&gt;
+Copyright © 2015 Centro Internacional de Mejoramiento de Maíz y Trigo (CIMMYT).
+&lt;/p&gt;
+&lt;p&gt;
+This program is based in some components from Java, developed by ORACLE AMERICA, INC. and R, developed by Kurt Hornik. Any Java component of this program is hereby licensed under the Oracle Binary Code License Agreement for the Java SE Platform Products and JavaFX made available by Oracle (available at http://www.oracle.com/technetwork/java/javase/terms/license/index.html). Any R component of this program as well as the program as a whole developed by CIMMYT are hereby licensed as per the terms of the GNU General Public License version 3(available at http://www.gnu.org/licenses/gpl-3.0.html), as specified below.
+&lt;/p&gt;
+&lt;p&gt;
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or any later version.
+&lt;/p&gt;
+&lt;p&gt;
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+&lt;/p&gt;
+&lt;p&gt;
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+&lt;/p&gt;</dc:rights>
+  <dc:domainid>11529</dc:domainid>
+  <dc:cdocid>10203</dc:cdocid>
+  <dc:apiid>11529_10203</dc:apiid>
+  <dc:updated_date>2016-04-11T18:16:01Z</dc:updated_date>
+  <dc:handler>http://data.cimmyt.org/dvn/OAIHandler</dc:handler>
+</oai_dc:dc>

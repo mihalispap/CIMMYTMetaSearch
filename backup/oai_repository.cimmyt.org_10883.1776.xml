@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cloning and phylogenetic analysis of phytoene synthase 1 (Psy1) genes in common wheat and related species</dc:title>
+  <dc:creator>Jiankang Wang</dc:creator>
+  <dc:creator>Xinyao He</dc:creator>
+  <dc:creator>He Zhonghu</dc:creator>
+  <dc:creator>Wang, H.</dc:creator>
+  <dc:creator>Xia, X.</dc:creator>
+  <dc:description>Cloning and phylogenetic analysis of Psy1 genes in common wheat and its relatives would help to understand the genetic diversity and evolution of Psy1 gene in common wheat and its related species. In the present study, common wheat (AABBDD) and eight relative species, including T. urartu (AuAu), T. boeoticum (AmAm), T. monococcum (AmAm), Ae. speltoides (SS), Ae. tauschii (DD), T. dicoccoides (AABB), T. dicoccum (AABB) and T. spelta (AABBDD), were sampled for the isolation of novel alleles at Psy1-A1, Psy1-B1/Psy1-S1 and Psy1-D1 loci corresponding to common wheat Psy1 genes, and 27 new alleles were identified at these loci, designated Psy1-A1f through Psy1-A1k, Psy1-A1m and Psy1-A1n, Psy1-B1h through Psy1-B1m, Psy1-S1a through Psy1-S1c, Psy1-D1a through Psy1-D1j, respectively. The genes contained six exons and five introns, and the sequences of exons were more conserved compared with those of introns. The Psy1-A1 genes encoded a polypeptide of 428 aminoacid residues, with one residue longer than those encoded by Psy1-D1 genes. The Psy1-B1/Psy1-S1 genes encoded four types of polypeptides, with 421 (Psy1-B1h through Psy1-B1j, Psy1-B1l), 427 (Psy1-B1k, Psy1-S1a and Psy1-S1c), 428 (Psy1-B1m), and 429 (Psy1-S1b) aminoacid residues, respectively. Neighbor joining tree was generated based on the gene sequences of the 27 novel alleles and those of the 13 alleles reported previously in common wheat and its relatives. The phylogenetic tree consisted of two subtrees. The subtree I comprised 11 of 14 alleles at Psy1-A1 locus, nine of 16 alleles at Psy1-B1/Psy1-S1 locus, and ten novel alleles at Psy1-D1 locus, while the subtree II included the other three alleles at Psy1-A1 locus, the remaining four Psy1-B1 alleles and three Psy1-S1 alleles. The alleles from different clusters showed high sequence divergences, indicated by various SNPs and InDels (insertion/deletion). The phylogenetic relationships of these allelic variants at the three loci in common wheat and its relatives also supported the hypothesis that common wheat was originated by recurrent hexaploidization events. In addition, 193 Chinese wheat cultivars with different yellow pigment contents were genotyped with two novel STS markers YP7D-1 and YP7D-2. The results indicated that 191 cultivars contained the allele Psy1-D1a, and two had Psy1-D1g.</dc:description>
+  <dc:date>2013-06-07T21:02:38Z</dc:date>
+  <dc:date>2013-06-07T21:02:38Z</dc:date>
+  <dc:pubDate>2009</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/1776</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://onlinelibrary.wiley.com/doi/10.1111/j.1601-5223.2009.02132.x/abstract</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1776</dc:cdocid>
+  <dc:apiid>10883_1776</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:cset>col_10883_2</dc:cset>
+  <dc:setid>403613911</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:36Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Classifying vegetable genetic resources - A case study with domesticated Capsicum spp.</dc:title>
+  <dc:creator>Ortiz, R.</dc:creator>
+  <dc:creator>Delgado de la Flor, F.</dc:creator>
+  <dc:creator>Alvarado, G.</dc:creator>
+  <dc:creator>Crossa, J.</dc:creator>
+  <dc:subject>Chili</dc:subject>
+  <dc:subject>Descriptors</dc:subject>
+  <dc:subject>Genetic resources</dc:subject>
+  <dc:subject>Hot pepper</dc:subject>
+  <dc:subject>Multivariate analysis</dc:subject>
+  <dc:subject>modified location model</dc:subject>
+  <dc:subject>Ward</dc:subject>
+  <dc:description>Great variation for many traits seems to be available in Capsicum genetic resources but yet to be fully used by plant breeders. Adequate characterization of genebank accessions is needed to facilitate the utilization of germplasm by end-users. The aim of this research was to use multivariate techniques with both qualitative and quantitative descriptors in the five domesticated species of Capsicum for grouping them after assessing inter- and intra-specific variation. Key qualitative descriptors (seed color, corolla color and spot, calyx constriction, numbers of flowers per node and filament color) served for assigning most accessions to their respective species, whereas intra-specific multivariate diversity was better assessed by quantitative descriptors such as fruit length/width ratio, numbers of days to flowering, leaf width, and anther, filament and pedicel length. The modified location model an adequate method for classifying Capsicum accessions using quantitative descriptors.</dc:description>
+  <dc:date>2013-06-07T21:02:43Z</dc:date>
+  <dc:date>2013-06-07T21:02:43Z</dc:date>
+  <dc:pubDate>2010</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0304-4238</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/1821</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1821</dc:cdocid>
+  <dc:apiid>10883_1821</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:46Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

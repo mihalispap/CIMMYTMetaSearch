@@ -1,0 +1,42 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>META-R (Multi Environment Trail Analysis with R for Windows) Version 5.0</dc:title>
+  <dc:identifier>http://hdl.handle.net/11529/10201</dc:identifier>
+  <dc:creator>Alvarado, Gregorio</dc:creator>
+  <dc:creator>López, Marco</dc:creator>
+  <dc:creator>Vargas, Mateo</dc:creator>
+  <dc:creator>Pacheco, Ángela</dc:creator>
+  <dc:creator>Rodríguez, Francisco</dc:creator>
+  <dc:creator>Burgueño, Juan</dc:creator>
+  <dc:creator>Crossa, José</dc:creator>
+  <dc:publisher>International Maize and Wheat Improvement Center</dc:publisher>
+  <dc:pubDate>2015-06-01</dc:pubDate>
+  <dc:subject>Statistical analysis</dc:subject>
+  <dc:subject>BLUP</dc:subject>
+  <dc:subject>BLUE</dc:subject>
+  <dc:subject>Genetic Correlation</dc:subject>
+  <dc:subject>Multi Environment</dc:subject>
+  <dc:subject>R program</dc:subject>
+  <dc:description>META-R is a set of R programs that performs statistical analyses to calculate BLUEs, BLUPs, genetic correlations among locations and genetic correlations between variables, broad-sense heritability, and other statistics for breeding trials are given too, in order to make boxplots and histograms. Analyses may be performed by location, across management conditions or across all locations. META-R contains a graphical JAVA interface that helps the user to easily choose input files, which analysis to implement, and which variables to analyze.</dc:description>
+  <dc:citation>Alvarado, Gregorio; López, Marco; Vargas, Mateo; Pacheco, Ángela; Rodríguez, Francisco; Burgueño, Juan; Crossa, José, 2015-06-08, "META-R (Multi Environment Trail Analysis with R for Windows) Version 5.0", http://hdl.handle.net/11529/10201 International Maize and Wheat Improvement Center [Distributor] V15 [Version]</dc:citation>
+  <dc:rights>For further information, please contact CIMMYT at  CIMMYT-Knowledge-Center@cgiar.org or at Km. 45 Carretera Mexico-Veracruz, El Batán, Texcoco, Estado de México, México, C.P. 56237.</dc:rights>
+  <dc:rights>&lt;p&gt;
+Copyright © 2015 Centro Internacional de Mejoramiento de Maíz y Trigo (CIMMYT).
+&lt;/p&gt;
+&lt;p&gt;
+This program is based in some components from Java, developed by ORACLE AMERICA, INC. and R, developed by Kurt Hornik. Any Java component of this program is hereby licensed under the Oracle Binary Code License Agreement for the Java SE Platform Products and JavaFX made available by Oracle (available at http://www.oracle.com/technetwork/java/javase/terms/license/index.html). Any R component of this program as well as the program as a whole developed by CIMMYT are hereby licensed as per the terms of the GNU General Public License version 3(available at http://www.gnu.org/licenses/gpl-3.0.html), as specified below.
+&lt;/p&gt;
+&lt;p&gt;
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or any later version.
+&lt;/p&gt;
+&lt;p&gt;
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+&lt;/p&gt;
+&lt;p&gt;
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+&lt;/p&gt;</dc:rights>
+  <dc:domainid>11529</dc:domainid>
+  <dc:cdocid>10201</dc:cdocid>
+  <dc:apiid>11529_10201</dc:apiid>
+  <dc:updated_date>2016-04-11T18:16:01Z</dc:updated_date>
+  <dc:handler>http://data.cimmyt.org/dvn/OAIHandler</dc:handler>
+</oai_dc:dc>

@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Evaluating spatial within plot crop variability for different management practices with an optical sensor?</dc:title>
+  <dc:creator>Govaerts, B.</dc:creator>
+  <dc:creator>Verhulst, N.</dc:creator>
+  <dc:creator>Sayre, K.D.</dc:creator>
+  <dc:creator>De Corte, P.</dc:creator>
+  <dc:creator>Goudeseune, B.</dc:creator>
+  <dc:creator>Lichter, K.</dc:creator>
+  <dc:creator>Crossa, J.</dc:creator>
+  <dc:creator>Deckers, J.</dc:creator>
+  <dc:creator>Dendooven, L.</dc:creator>
+  <dc:subject>Production sustainability</dc:subject>
+  <dc:subject>Conservation agriculture</dc:subject>
+  <dc:subject>Crop spectral reflectance</dc:subject>
+  <dc:subject>NDVI</dc:subject>
+  <dc:subject>Plant-to-plant variability</dc:subject>
+  <dc:description>It is essential to have an indication of the sustainability of an agricultural system in addition to the potential, immediate benefits well before the catastrophic consequences of non-sustainability become apparent. Long-term experiments are best suited to test sustainability of a given system. This paper has a dual objective: (1) evaluate the Greenseeker handheld NDVI sensor as a tool for measuring within plot spatial variability, (2) address the question whether different management practices affect spatial within-plot crop growth variability and what this spatial variability tells us about the cropping system performance. Therefore, spatial and time variability of crop performance were measured during the 2004 and 2005 crop cycle for all plots of the different management treatments of a long-term (started 1991) tillage and residue management trial. The NDVI readings measured with the handheld sensor correlated well with the visual scoring in the field. The hand-held sensor is time-efficient and gave reproducible results. The potential for using this tool to detect spatial crop variability, both within and between plots/treatments, is promising. The coefficient of variation (CV) for the NDVI measurement sequence in each plot was determined. The CV&amp;rsquo;s throughout the crop season reflected the canopy expansion and senescence curve of maize and wheat. The CV was high at the beginning of the crop season, however, once the canopy began to close, leaves from larger plants covered the leaves and whorl of smaller plants, extending further into the linear row. Measurements to investigate spatial variability related to crop performance should thus be done after this initial stage at the end of the vegetative period when the vegetative biomass of the crops is fully established. Zero tillage systems without surface residue retention produced high CVs of the NDVI sequence and high spatial crop variability throughout the season, even after the vegetative period. As the only factors differing between the different plots are the tillage/residue/rotation practices and as similar patterns were found for all plots representing repetitions of the same management practice (zero tillage without residue retention), increased variability is an indicator of agronomic mismanagement or, conversely, of sound agriculturally production practices.</dc:description>
+  <dc:date>2013-06-05T15:45:36Z</dc:date>
+  <dc:date>2013-06-05T15:45:36Z</dc:date>
+  <dc:pubDate>2007</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/1503</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1503</dc:cdocid>
+  <dc:apiid>10883_1503</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_2</dc:cset>
+  <dc:setid>403613911</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:38Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Mapping natural resource-based poverty, with an application to rural Syria</dc:title>
+  <dc:creator>Szonyi, J.A.</dc:creator>
+  <dc:creator>De Pauw, E.</dc:creator>
+  <dc:creator>La Rovere, R.</dc:creator>
+  <dc:creator>Aw-Hassan, A.</dc:creator>
+  <dc:subject>Agricultural income distribution</dc:subject>
+  <dc:subject>Poverty map</dc:subject>
+  <dc:subject>Natural resource endowment</dc:subject>
+  <dc:subject>Syria</dc:subject>
+  <dc:description>This study presents advances in resource-based poverty mapping. It illustrates how agricultural income distribution maps can be generated at small pixel-level, providing an application of the approach in rural Syria. Census data on agriculture and population are disaggregated based on pixel-level agricultural productivity coefficients derived in a GIS environment. The approach, triangulated with survey results and compared with sub-national poverty maps, shows that the better-income areas of Syria are located in the irrigated and higher-rainfall areas, though lower-income pockets exist due to the presence of ecological and topographic factors or due to high population density. The method can be used for developing high-resolution, low cost maps for rapid detection of resource-driven poverty in low income countries where agriculture is a major source of rural income, and where poverty mapping is rarely undertaken due to the high costs involved.</dc:description>
+  <dc:date>2013-06-07T21:09:41Z</dc:date>
+  <dc:date>2013-06-07T21:09:41Z</dc:date>
+  <dc:pubDate>2010</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0306-9192</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/2168</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:geotag>Syria</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/163843</dc:geonames>
+  <dc:geotag>Syria</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/163843</dc:geonames>
+  <dc:geotag>Syria</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/163843</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2168</dc:cdocid>
+  <dc:apiid>10883_2168</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_7</dc:cset>
+  <dc:setid>403613916</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:54Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

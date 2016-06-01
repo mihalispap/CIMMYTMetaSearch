@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The genetic dissection of quantitative traits in crops</dc:title>
+  <dc:creator>Semagn, K.</dc:creator>
+  <dc:creator>Bjornstad, A.</dc:creator>
+  <dc:creator>Yunbi Xu</dc:creator>
+  <dc:subject>Association mapping</dc:subject>
+  <dc:subject>Linkage disequilibrium</dc:subject>
+  <dc:subject>marker assisted selection</dc:subject>
+  <dc:subject>molecular breeding</dc:subject>
+  <dc:subject>molecular marker</dc:subject>
+  <dc:subject>quantitative trait</dc:subject>
+  <dc:subject>QTL mapping</dc:subject>
+  <dc:subject>QTL analysis</dc:subject>
+  <dc:description>Most traits of interest in plant breeding show quantitative inheritance, which complicate the breeding process since  phenotypic performances only partially reflects the genetic values of individuals. The genetic variation of a quantitative trait is assumed to be controlled by the collective effects of quantitative trait loci (QTLs), epistasis (interaction between QTLs), the environment, and interaction between QTL and environment. Exploiting molecular markers in breeding involve finding a subset of markers associated with one or more QTLs that regulate the expression of complex traits. Many QTL mapping studies conducted in the last two decades identified QTLs that generally explained a significant proportion of the phenotypic variance, and therefore, gave rise to an optimistic assessment of the prospects of markers assisted selection. Linkage analysis and association mapping are the two most commonly used methods for QTL mapping. This review provides an overview of the two QTL mapping methods, including mapping population type and size, phenotypic evaluation of the population, molecular profiling of either the entire or a subset of the population, marker-trait association analysis using different statistical methods and software as well as the future prospects of using markers in crop improvement.</dc:description>
+  <dc:date>2013-06-07T21:02:43Z</dc:date>
+  <dc:date>2013-06-07T21:02:43Z</dc:date>
+  <dc:pubDate>2010</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0717-3458</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/1816</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:publisher>http://www.ejbiotechnology.info/index.php/ejbiotechnology/article/view/v13n5-14</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1816</dc:cdocid>
+  <dc:apiid>10883_1816</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:46Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

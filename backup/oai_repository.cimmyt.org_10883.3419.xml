@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Field high-throughput phenotyping: the new crop breeding frontier</dc:title>
+  <dc:creator>Araus, J.L.</dc:creator>
+  <dc:creator>Cairns, J.E.</dc:creator>
+  <dc:subject>Crop breeding</dc:subject>
+  <dc:subject>phenotyping</dc:subject>
+  <dc:subject>Remote sensing</dc:subject>
+  <dc:subject>Spatial variability</dc:subject>
+  <dc:subject>stress tolerance</dc:subject>
+  <dc:description>Constraints in field phenotyping capability limit our ability to dissect the genetics of quantitative traits, particularly those related to yield and stress tolerance (e.g., yield potential as well as increased drought, heat tolerance, and nutrient efficiency, etc.). The development of effective field-based high-throughput phenotyping platforms (HTPPs) remains a bottleneck for future breeding advances. However, progress in sensors, aeronautics, and high-performance computing are paving the way. Here, we review recent advances in field HTPPs, which should combine at an affordable cost, high capacity for data recording, scoring and processing, and non-invasive remote sensing methods, together with automated environmental data collection. Laboratory analyses of key plant parts may complement direct phenotyping under field conditions. Improvements in user-friendly data management together with a more powerful interpretation of results should increase the use of field HTPPs, therefore increasing the efficiency of crop genetic improvement to meet the needs of future generations.</dc:description>
+  <dc:date>2014-03-05T17:51:05Z</dc:date>
+  <dc:date>2014-03-05T17:51:05Z</dc:date>
+  <dc:pubDate>2014</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>1360-1385</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/3419</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://www.sciencedirect.com/science/article/pii/S1360138513001994</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3419</dc:cdocid>
+  <dc:apiid>10883_3419</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:50Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

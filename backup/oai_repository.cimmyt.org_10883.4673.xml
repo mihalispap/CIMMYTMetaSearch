@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Linkage analysis and map construction in genetic populations of clonal F1 and double cross</dc:title>
+  <dc:subject>Clonal F1</dc:subject>
+  <dc:subject>Double cross</dc:subject>
+  <dc:subject>Linkage analysis</dc:subject>
+  <dc:description>In this study, we considered four categories of molecular markers based on the number of
+distinguishable alleles at the marker locus and the number of distinguishable genotypes in clonal F1
+progenies. For two marker loci, there are nine scenarios that allow the estimation of female, male, and/
+or combined recombination frequencies. In a double cross population derived from four inbred lines, five
+categories of markers are classified and another five scenarios are present for recombination frequency
+estimation. Theoretical frequencies of identifiable genotypes were given for each scenario, from which the
+maximum likelihood estimates of one or more of the three recombination frequencies could be estimated. If
+there was no analytic solution, then Newton-Raphson method was used to acquire a numerical solution. We
+then proposed to use an algorithm in Traveling Salesman Problem to determine the marker order. Finally,
+we proposed a procedure to build the two haploids of the female parent and the two haploids of the male
+parent in clonal F1. Once the four haploids were built, clonal F1 hybrids could be exactly regarded as
+a double cross population. Efficiency of the proposed methods was demonstrated in simulated clonal F1
+populations and one actual maize double cross. Extensive comparisons with software JoinMap4.1, OneMap,
+and R/qtl show that the methodology proposed in this article can build more accurate linkage maps in
+less time.</dc:description>
+  <dc:pubDate>2015</dc:pubDate>
+  <dc:type>JA</dc:type>
+  <dc:pdf>http://www.g3journal.org/content/5/3/427.full.pdf+html?sid=d07d62ee-3d96-49e1-905d-0ba8763a6f3f</dc:pdf>
+  <dc:publisher>Genetics Society of America,</dc:publisher>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:apiid>351598648</dc:apiid>
+  <dc:cdocid>351598648</dc:cdocid>
+  <dc:updated_date>2015-05-28T16:33:34Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

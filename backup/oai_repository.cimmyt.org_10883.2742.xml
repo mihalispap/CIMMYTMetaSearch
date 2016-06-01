@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Phenotyping approaches for physiological breeding and gene discovery in wheat</dc:title>
+  <dc:creator>Reynolds, M.P.</dc:creator>
+  <dc:creator>Manes, Y.</dc:creator>
+  <dc:creator>Izanloo, A.</dc:creator>
+  <dc:creator>Langridge, P.</dc:creator>
+  <dc:description>Conceptual models of drought-adaptive traits have been used in breeding to accumulate complementary physiological traits (PT) in selected progeny, resulting in distribution of advanced lines to rain-fed environments worldwide by the International Maize and Wheat Improvement Center (CIMMYT). Key steps in PT breeding at CIMMYT include characterisation of crossing block lines for stress adaptive mechanisms, strategic crossing among parents that encompass as many target traits as possible and early generation selection (EGS) of bulks for canopy temperature (CT). The approach has been successful using both elite × elite crosses as well as three way crosses involving stress adapted landraces. Other EGS techniques that are amenable to high throughput include measurement of spectral reflectance indices and stomatal aperture-related traits. Their genetic- and cost-effectiveness are supported by realisation of genetic yield gains in response to trait selection, and by economic analysis, respectively. Continual reselection within restricted gene pools is likely to lead to diminishing returns, however, exotic parents can be used to introduce new allelic diversity. Examples include landraces from the primary gene pool, and products of inter-specific hybridisation with the secondary gene pool consisting of closely related wheat genomes. Both approaches have been successful in introducing stress-adaptive traits. The main problem with knowing which genetic resource to use in wide-crossing is the uncertainty with which phenotypic expression can be extrapolated from one genome/genepool to another because of their unimproved or undomesticated genetic backgrounds. Nonetheless, their PT expression can be measured and used as a basis for investing in crossing or wide crossing. Discovering the genetic basis of PT is highly complex because putative QTLs may interact with environment and genetic background, including genes of major effect. Detection of QTLs was improved in mapping populations where flowering time was controlled, while new mapping populations have been designed by screening potential parents that do not contrast in the Rht, Ppd and Vrn alleles. Association genetics mapping is another approach that can be employed for gene discovery using exclusively agronomically improved material, thereby minimising the probability of identifying yield QTLs whose alleles have been already improved by conventional breeding.</dc:description>
+  <dc:date>2013-06-07T21:12:31Z</dc:date>
+  <dc:date>2013-06-07T21:12:31Z</dc:date>
+  <dc:pubDate>2009</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/2742</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2742</dc:cdocid>
+  <dc:apiid>10883_2742</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:06Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

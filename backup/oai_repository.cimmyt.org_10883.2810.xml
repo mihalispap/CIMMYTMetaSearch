@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Molecular detection of genomic regions associated with grain yield and yield-related components in an elite bread wheat cross evaluated under irrigated and rainfed conditions</dc:title>
+  <dc:creator>McIntyre, C.L.</dc:creator>
+  <dc:creator>Mathews, K.L.</dc:creator>
+  <dc:creator>Rattey, A.</dc:creator>
+  <dc:creator>Chapman, S.C.</dc:creator>
+  <dc:creator>Drenth, J.</dc:creator>
+  <dc:creator>Ghaderi, M.</dc:creator>
+  <dc:creator>Reynolds, M.P.</dc:creator>
+  <dc:creator>Shorter, R.</dc:creator>
+  <dc:description>Grain yield and grain weight of wheat are often decreased by water-limitation in the north-eastern cropping belt of Australia. Based on knowledge that CIMMYT lines are well-adapted in this region, a recombinant inbred line (RIL) population between two elite CIMMYT bread wheats (Seri M82 and Babax) was evaluated under water-limited environments. Fourteen productivity traits were evaluated in 192 progeny in up to eight trials. For three aggregations of the environments (all, high yield or low yield), multiple quantitative trait loci (QTL) were detected, each explaining &lt;15% of variation. Co-location of multiple trait QTL was greatest on linkage groups 1B-a, 1D-b, 4A-a, 4D-a, 6A-a, 6B-a, 7A-a and an unassigned linkage group. Two putative QTL (LOD &gt; 3) from Seri (6D-b and UA-d) increased grain yield and co-located with a suggestive (2 &lt; LOD &lt; 3) and a putative QTL for increased stem carbohydrate content (WSC), respectively; the latter QTL also co-located with a putative anthesis QTL for earlier flowering. Both QTL were detected only in high yield (&gt;4t ha&amp;#8722;1) environments. A third increased grain yield QTL (7A-a) from Babax co-located with QTL for increased grain number. Six putative QTL increased grain weight and co-located with QTL for harvest index, grains per spike and spike number. Three putative QTL for increased grains per spike co-located with strong QTL for earlier flowering, increased grain weight and fewer spikes. A group of progeny that exceeded the mean grain yield and grain weight of commercial checks had an increased frequency of QTL for high WSC, large grain size, increased harvest index and greater height, but fewer stems, when compared to low yielding (20% less), low grain weight progeny. These findings were consistent with agronomic analyses of the germplasm and demonstrate that there should be opportunities to independently manipulate grain number and grain size which is typically difficult due to strong negative correlations.</dc:description>
+  <dc:date>2013-06-07T21:12:39Z</dc:date>
+  <dc:date>2013-06-07T21:12:39Z</dc:date>
+  <dc:pubDate>2010</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0040-5752</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/2810</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2810</dc:cdocid>
+  <dc:apiid>10883_2810</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:06Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

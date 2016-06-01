@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Simultaneous selection of major  and minor genes: use of QTL to increase selection efficiency of coleoptile length of wheat (Triticum aestivum L.)</dc:title>
+  <dc:creator>Jiankang Wang</dc:creator>
+  <dc:creator>Chapman, S.C.</dc:creator>
+  <dc:creator>Bonnett, D.G.</dc:creator>
+  <dc:creator>Rebetzke, G.J.</dc:creator>
+  <dc:description>Plant breeders simultaneously select for qualitative traits controlled by one or a small number of major genes, as well as for polygenic traits controlled by multiple genes that may be detected as quantitative trait loci (QTL). In this study, we applied computer simulation to investigate simultaneous selection for alleles at both major and minor gene (as QTL) loci in breeding populations of two wheat parental lines, HM14BS and Sunstate. Loci targeted for selection included six major genes affecting plant height, disease resistance, and grain quality, plus 6 known and 11 ?unidentified? QTL affecting coleoptile length (CL). Parental line HM14BS contributed the target alleles at two of the major gene loci, while parental line Sunstate contributed target alleles at four loci. The parents have similar plant height, but HM14BS has a longer coleoptile, a desirable attribute for deep sowing in rainfed environments. Including the wild-type allele at the major reduced-height locus Rht-D1, HM14BS was assumed to have 13 QTL for increased CL, and Sunstate four; these assumptions being derived from mapping studies and empirical data from an actual HM14BS/Sunstate population. Simulation indicated that compared to backcross populations, a single biparental F1 cross produced the highest frequency of target genotypes (six desired alleles at major genes plus desired QTL alleles for long CL). From 1,000 simulation runs, an average of 2.4 individuals with the target genotype were present in unselected F1-derived doubled haploid (DH) or recombinant inbred line (RIL) populations of size 200. A selection scheme for the six major genes increased the number of target individuals to 19.1, and additional marker-assisted selection (MAS) for CL increased the number to 23.0. Phenotypic selection (PS) of CL outperformed MAS in this study due to the high heritability of CL, incompletely linked markers for known QTL, and the existence of unidentified QTL. However, a selection scheme combining MAS and PS was equally as efficient as PS and would result in net savings in production and time to delivery of long coleoptile wheats containing the six favorable alleles.</dc:description>
+  <dc:date>2013-06-07T21:12:31Z</dc:date>
+  <dc:date>2013-06-07T21:12:31Z</dc:date>
+  <dc:pubDate>2009</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/2741</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2741</dc:cdocid>
+  <dc:apiid>10883_2741</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:06Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

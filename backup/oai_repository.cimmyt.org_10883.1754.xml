@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Assessing morphological and genetic variation in annatto (Bixa orellana L.) by sequence-related amplified polymorphism and cluster analysis</dc:title>
+  <dc:creator>Valdez-Ojeda, R.</dc:creator>
+  <dc:creator>Hernandez-Stefanoni, J.L.</dc:creator>
+  <dc:creator>Aguilar-Espinosa, M.</dc:creator>
+  <dc:creator>Rivera-Madrid, R.</dc:creator>
+  <dc:creator>Ortiz, R.</dc:creator>
+  <dc:creator>Quiros, C.F.</dc:creator>
+  <dc:subject>molecular marker</dc:subject>
+  <dc:subject>Germplasm</dc:subject>
+  <dc:subject>bixin</dc:subject>
+  <dc:subject>genetic improvement</dc:subject>
+  <dc:subject>two-step cluster</dc:subject>
+  <dc:subject>AMOVA</dc:subject>
+  <dc:description>Annatto (Bixa orellana L.) is the sole source of bixin, a seed-specific red apocarotenoid pigment used worldwide. Genetic improvement of annatto has focused on increasing bixin content as well as fostering traits that favor higher content such as pod indehiscence and flower color, among others. Eighty-seven samples collected from two separate important agricultural regions of the southeast of Mexico were characterized morphologically and analyzed genetically for the first time. The sequence-related amplified polymorphism was used for genetic analysis. Two-step cluster analysis of the individuals based on morphological traits produced three groups: one containing individuals with desired morphological characteristics and two others with complementary traits. Like the morphological analysis, the genetic analysis indicated high genetic variation, although the dendrogram based on Nei and Li's similarity coefficient showed them to be dispersed by collection site. However, calculated similarity index values indicated all individuals exhibited high genetic variation. The results are an important advance toward a more effective genetic improvement of annatto because crosses between the different morphological and/or genetic groups described here have the potential to produce a recombination of desired traits in hybrid offspring.</dc:description>
+  <dc:date>2013-06-07T21:02:35Z</dc:date>
+  <dc:date>2013-06-07T21:02:35Z</dc:date>
+  <dc:pubDate>2008</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/1754</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:geotag>Mexico</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3996063</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1754</dc:cdocid>
+  <dc:apiid>10883_1754</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:46Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

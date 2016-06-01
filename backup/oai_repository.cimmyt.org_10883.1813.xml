@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Relationship, evolutionary fate and function of two maize co-orthologs of rice GW2 associated with kernel size and weight</dc:title>
+  <dc:creator>Li Qing</dc:creator>
+  <dc:creator>Li Lin</dc:creator>
+  <dc:creator>Yang XiaoHong</dc:creator>
+  <dc:creator>Warburton, M.L.</dc:creator>
+  <dc:creator>Bai Guanghong</dc:creator>
+  <dc:creator>Dai JingRui</dc:creator>
+  <dc:creator>Li JianSheng</dc:creator>
+  <dc:creator>Jianbing Yan</dc:creator>
+  <dc:description>Background: In rice, the GW2 gene, found on chromosome 2, controls grain width and weight. Two homologs of this gene, ZmGW2-CHR4 and ZmGW2-CHR5, have been found in maize. In this study, we investigated the relationship, evolutionary fate and putative function of these two maize genes. Results: The two genes are located on duplicated maize chromosomal regions that show co-orthologous relationships with the rice region containing GW2. ZmGW2-CHR5 is more closely related to the sorghum counterpart than to ZmGW2-CHR4. Sequence comparisons between the two genes in eight diverse maize inbred lines revealed that the functional protein domain of both genes is completely conserved, with no nonsynonymous polymorphisms identified. This suggests that both genes may have conserved functions, a hypothesis that was further confirmed through linkage, association, and expression analyses. Linkage analysis showed that ZmGW2-CHR4 is located within a consistent quantitative trait locus (QTL) for one-hundred kernel weight (HKW). Association analysis with a diverse panel of 121 maize inbred lines identified one single nucleotide polymorphism (SNP) in the promoter region of ZmGW2-CHR4 that was significantly associated with kernel width (KW) and HKW across all three field experiments examined in this study. SNPs or insertion/deletion polymorphisms (InDels) in other regions of ZmGW2-CHR4 and ZmGW2-CHR5 were also found to be significantly associated with at least one of the four yield-related traits (kernel length (KL), kernel thickness (KT), KW and HKW). None of the polymorphisms in either maize gene are similar to each other or to the 1 bp InDel causing phenotypic variation in rice. Expression levels of both maize genes vary over ear and kernel developmental stages, and the expression level of ZmGW2- CHR4 is significantly negatively correlated with KW.</dc:description>
+  <dc:date>2013-06-07T21:02:42Z</dc:date>
+  <dc:date>2013-06-07T21:02:42Z</dc:date>
+  <dc:pubDate>2010</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/1813</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:publisher>http://www.biomedcentral.com/1471-2229/10/143</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1813</dc:cdocid>
+  <dc:apiid>10883_1813</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:46Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

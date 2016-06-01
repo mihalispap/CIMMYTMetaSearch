@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>From genotype x environment interaction to gene x environment interaction</dc:title>
+  <dc:creator>Crossa, J.</dc:creator>
+  <dc:subject>Genotype x environment interaction (GE)</dc:subject>
+  <dc:subject>gene x environment interaction</dc:subject>
+  <dc:subject>Environmental and genotypic covariables</dc:subject>
+  <dc:subject>Quantitative Trait Loci (QTL)</dc:subject>
+  <dc:subject>molecular markers (MM)</dc:subject>
+  <dc:subject>Genomics-enable prediction and selection</dc:subject>
+  <dc:subject>genomic breeding</dc:subject>
+  <dc:subject>phenotypic variability</dc:subject>
+  <dc:subject>complex traits</dc:subject>
+  <dc:subject>Statistics</dc:subject>
+  <dc:description>Historically in plant breeding a large number of statistical models has been developed and used for studying genotype x environment interaction. These models have helped plant breeders to assess the stability of economically important traits and to predict the performance of newly developed genotypes evaluated under varying environmental conditions. In the last decade, the use of relatively low numbers of markers has facilitated the mapping of chromosome regions associated with phenotypic variability (e.g., QTL mapping) and, to a lesser extent, revealed the differetial response of these chromosome regions across environments (i.e., QTL x environment interaction). QTL technology has been useful for marker-assisted selection of simple traits; however, it has not been efficient for predicting complex traits affected by a large number of loci. Recently the appearance of cheap, abundant markers has made it possible to saturate the genome with high density markers and use marker information to predict genomic breeding values, thus increasing the precision of genetic value prediction over that achieved with the traditional use of pedigree information. Genomic data also allow assessing chromosome regions through marker effects and studying the pattern of covariablity of marker effects across differential environmental conditions. In this review, we outline the most important models for assessing genotype x environment interaction, QTL x environment interaction, and marker effect (gene) x environment interaction. Since analyzing genetic and genomic data is one of the most challenging statistical problems researchers currently face, different models from different areas of statistical research must be attempted in order to make significant progress in understanding genetic effects and their interaction with environment</dc:description>
+  <dc:date>2013-06-07T21:02:53Z</dc:date>
+  <dc:date>2013-06-07T21:02:53Z</dc:date>
+  <dc:pubDate>2012</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>1389-2029</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/1891</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:publisher>http://www.ingentaconnect.com/content/ben/cg/2012/00000013/00000003/art00006</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1891</dc:cdocid>
+  <dc:apiid>10883_1891</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:30Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

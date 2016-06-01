@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Does susceptibility to heat stress confound screening for drought tolerance in rice?</dc:title>
+  <dc:creator>Jagadish, K.S.V.</dc:creator>
+  <dc:creator>Cairns, J.E.</dc:creator>
+  <dc:creator>Kumar, A.</dc:creator>
+  <dc:creator>Somayanda, I.M.</dc:creator>
+  <dc:creator>Craufurd , P.Q.</dc:creator>
+  <dc:subject>Flowering</dc:subject>
+  <dc:subject>Heat</dc:subject>
+  <dc:subject>spikelet fertility</dc:subject>
+  <dc:subject>tissue temperature</dc:subject>
+  <dc:description>Drought affected rice areas are predicted to double by the end of this century, demanding greater tolerance in widely adapted mega-varieties. Progress on incorporating better drought tolerance has been slow due to lack of appropriate phenotyping protocols. Furthermore, existing protocols do not consider the effect of drought and heat interactions, especially during the critical flowering stage, which could lead to false conclusion about drought tolerance. Screening germplasm and mapping-populations to identify quantitative trait loci (QTL)/candidate genes for drought tolerance is usually conducted in hot dry seasons where water supply can be controlled. Hence, results from dry season drought screening in the field could be confounded by heat stress, either directly on heat sensitive processes such as pollination or indirectly by raising tissue temperature through reducing transpirational cooling under water deficit conditions. Drought-tolerant entries or drought-responsive candidate genes/QTL identified from germplasm highly susceptible to heat stress during anthesis/flowering have to be interpreted with caution. During drought screening, germplasm tolerant to water stress but highly susceptible to heat stress has to be excluded during dry and hot season screening. Responses to drought and heat stress in rice are compared and results from field and controlled environment experiments studying drought and heat tolerance and their interaction are discussed.</dc:description>
+  <dc:date>2013-06-07T21:02:49Z</dc:date>
+  <dc:date>2013-06-07T21:02:49Z</dc:date>
+  <dc:pubDate>2011</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/1862</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://www.publish.csiro.au/nid/102/paper/FP10224.htm</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1862</dc:cdocid>
+  <dc:apiid>10883_1862</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:cset>col_10883_2</dc:cset>
+  <dc:setid>403613911</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:36Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

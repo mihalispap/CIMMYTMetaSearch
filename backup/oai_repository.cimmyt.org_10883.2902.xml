@@ -1,0 +1,45 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The yield correlations of selectable physiological traits in a population of advanced spring wheat lines grown in warm and drought environments</dc:title>
+  <dc:creator>Lopes M.S.</dc:creator>
+  <dc:creator>Reynolds, M.P.</dc:creator>
+  <dc:creator>Jalal-Kamali, M.R.</dc:creator>
+  <dc:creator>Moussa, M.</dc:creator>
+  <dc:creator>Feltaous, Y.</dc:creator>
+  <dc:creator>Tahir, S.A.</dc:creator>
+  <dc:creator>Barma, N.</dc:creator>
+  <dc:creator>Vargas, M.</dc:creator>
+  <dc:creator>Mannes, Y.</dc:creator>
+  <dc:creator>Baum, M.</dc:creator>
+  <dc:subject>canopy temperature</dc:subject>
+  <dc:subject>drought adaptation</dc:subject>
+  <dc:subject>Early ground cover</dc:subject>
+  <dc:subject>GxE</dc:subject>
+  <dc:subject>Heat adaptation</dc:subject>
+  <dc:subject>Triticum aestivum</dc:subject>
+  <dc:description>Genetic progress in yield will increase if more traits conferring better agronomic and physiological performance are brought together in the same variety through full exploitation of genotyping and phenotyping techniques in breeding. A set of 288 spring wheat advanced lines was tested in different countries in North Africa, Western and South Asia, as well as in Mexico (total of 12 environments) to: identify high yielding germplasm adapted to the former regions; identify sources of variation for physiological traits; and test the ability of physiological traits to predict yield. A group of high yielding advanced lines has been selected in these environments, but significant genotype by environment interactions were observed and were significantly explained (21% of yield variation) by soil pH and air temperature. Associations between traits were dependent on the environment, specifically TKW was positively associated with yield in almost all environments however in Sudan, negative associations were observed. In contrast cooler CT was consistently associated with yield and the trait showed moderate heritability. Agronomic and physiological variables were able to predict 27% of yield variation across advanced lines (R2% by ridge regression) using means of all environments and this model became more significant under stress environments (explaining around 34% of yield variation). Results suggested that if drought and heat adaptive traits are brought together in one genotype, yields can be further increased particularly in low yielding environments.</dc:description>
+  <dc:date>2013-06-07T21:12:52Z</dc:date>
+  <dc:date>2013-06-07T21:12:52Z</dc:date>
+  <dc:pubDate>2012</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0378-4290</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/2902</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:geotag>Africa</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255146</dc:geonames>
+  <dc:geotag>Asia</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255147</dc:geonames>
+  <dc:geotag>Mexico</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3996063</dc:geonames>
+  <dc:geotag>Sudan</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/366755</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2902</dc:cdocid>
+  <dc:apiid>10883_2902</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:07Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

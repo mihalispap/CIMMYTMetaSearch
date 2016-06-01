@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Safe Movement of Germlasm (SGM) database</dc:title>
+  <dc:title>Safe Transfer of Germplasm (STOG) database</dc:title>
+  <dc:creator>Mezzalama, M.</dc:creator>
+  <dc:creator>Duveiller, E.</dc:creator>
+  <dc:subject>Phytopathology</dc:subject>
+  <dc:subject>Germplasm</dc:subject>
+  <dc:description>Database with information on pests and diseases and different country requirements for phytopathological certificates. The 'Safe Germplasm Movement' (SGM) database has been developed by CIMMYT. It allows to manage and update the information regarding import and export requirements for shipping seed of CGIAR mandate crops for all countries in the world. The information included in the database is based on the information received by Germplasm/Seed health Units managers in each center. Most data for wheat and maize have been entered as of December 2009, and information for several other crops has been entered. Each Center has now the opportunity to populate and update the database for its mandate crop(s). It is an on-going process</dc:description>
+  <dc:pubDate>2009</dc:pubDate>
+  <dc:date>2012-07-17T15:38:58Z</dc:date>
+  <dc:date>2012-07-17T15:38:58Z</dc:date>
+  <dc:type>Database</dc:type>
+  <dc:language>English</dc:language>
+  <dc:geotag>country</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/geonameid</dc:geonames>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:apiid>77454862</dc:apiid>
+  <dc:cdocid>77454862</dc:cdocid>
+  <dc:updated_date>2015-05-28T16:33:31Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Development of an allele-specific marker for Glu-B3 alleles in common wheat and establishment of a multiplex PCR assay</dc:title>
+  <dc:creator>Xinxia Sui</dc:creator>
+  <dc:creator>Linhai Wang</dc:creator>
+  <dc:creator>Xianchun Xia</dc:creator>
+  <dc:creator>Zhenlin Wang</dc:creator>
+  <dc:creator>He Zhonghu</dc:creator>
+  <dc:subject>Functional marker</dc:subject>
+  <dc:subject>LMW-GS</dc:subject>
+  <dc:subject>multiplex PCR</dc:subject>
+  <dc:subject>Triticum aestivum L.</dc:subject>
+  <dc:description>Low-molecular-weight glutenin subunits (LMW-GS) have significant effects on the processing quality of end-use products of common wheat. It is more efficient to discriminate LMW-GS alleles with PCR-based molecular markers than with SDS-PAGE. In the present study, we developed an allele-specific PCR marker, designated Glu-B3abefg, which can be used to discriminate protein alleles Glu-B3a, b, e, f, and g simultaneously. Based on ten previously developed allele-specific STS markers, three multiplex PCRs, viz. Glu-B3c + Glu-B3d, Glu-B3b + Glu-B3g, and Glu-B3h + Glu-B3i, were established. Six Glu-B3 alleles (b, c, d, g, h, and i) could be discriminated using the three multiplex PCRs. Results of tests on 158 wheat varieties and lines using Glu-B3abefg and the three multiplex PCRs were consistent with those using the ten STS markers separately. The new allele-specific marker and three multiplex PCRs represent an efficient way to undertake marker-assisted selection of Glu-B3 alleles.</dc:description>
+  <dc:date>2013-06-07T21:12:38Z</dc:date>
+  <dc:date>2013-06-07T21:12:38Z</dc:date>
+  <dc:pubDate>2010</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>1836-0947</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/2799</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2799</dc:cdocid>
+  <dc:apiid>10883_2799</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:06Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

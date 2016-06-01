@@ -1,0 +1,56 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Adaptation and performance of CIMMYT spring wheat genotypes targeted to high rainfall areas of the world</dc:title>
+  <dc:creator>Tadesse, W.</dc:creator>
+  <dc:creator>Manes, Y.</dc:creator>
+  <dc:creator>Singh R.P.</dc:creator>
+  <dc:creator>Payne, T.S.</dc:creator>
+  <dc:creator>Braun, H.J.</dc:creator>
+  <dc:description>The high rainfall mega-environment [mega environment 2 (ME2)], characterized by more than 500 mm rainfall during wheat season, is one of the 12 mega-environments on which the global wheat breeding program of the International Maize and Wheat Improvement Center (CIMMYT) has been assembling and distributing high rainfall wheat yield trials (HRWYT) since 1992. In this study, our objectives were to evaluate the adaptation and performance of entries included in the 1st through the 12th HRWYT (1992?2004), identify best lines as parents for crossing and recommend for direct release by the National Agricultural Research Systems (NARS), and test the association among sites and determine yield progress in HRWYTs. Combined ANOVA across locations for grain yield showed highly significant difference among genotypes and genotype × environment interactions (p &lt; 0.001) for each of the HRWYTs. At regional level, wide range of yield variability was observed in Africa (0.69?9.614 t ha?1) followed by Asia (0.389?6.93 t ha?1) with the highest mean yields in Europe (4.392 t ha?1). Two widely grown mega-cultivars have been developed from Attila cross: entry number 4 (CM85836-4Y-0M-0Y-8M-0Y) from 1stHRWYT, which is released as PBW343 in India, and entry number 48 from 4thHRWYT (CM85836-50Y-0M-0Y-3M- 0Y), which is released in Ethiopia, Tunisia, Iran, Pakistan, and Sudan with local names of Kubsa, Utique96, Chamran, MH97, and Imam, respectively. There is a significant positive association between plant height and grain yield in rain-fed environments whereas the association between heading dates and yield is location specific indicating the importance of selecting broad range of materials for heading date at the main station in Mexico. Correlation analysis shows that the sites giving the best prediction of global performance are Marcos Juarez (Argentina), Pergamino (Argentina), Izmir (Turkey), Bethlehem (South Africa), Sakha (Egypt), and Tassaout (Morocco). In each year, it was possible to find a line out yielding the local check in at least 52% of the sites. However, at the trial level, lines were beating the local checks more frequently in the first trials than in the last trials. Regular assessment of the current and future HRWYTs in terms of adaptation, resistance, diversity, and quality will be of paramount importance in improving the breeding process.</dc:description>
+  <dc:date>2013-06-07T21:12:35Z</dc:date>
+  <dc:date>2013-06-07T21:12:35Z</dc:date>
+  <dc:pubDate>2010</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0011-183X</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/2770</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:geotag>Africa</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255146</dc:geonames>
+  <dc:geotag>Asia</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255147</dc:geonames>
+  <dc:geotag>Europe</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255148</dc:geonames>
+  <dc:geotag>India</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1269750</dc:geonames>
+  <dc:geotag>Ethiopia</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/337996</dc:geonames>
+  <dc:geotag>Tunisia</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/2464461</dc:geonames>
+  <dc:geotag>Iran</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/130758</dc:geonames>
+  <dc:geotag>Pakistan</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1168579</dc:geonames>
+  <dc:geotag>Sudan</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/366755</dc:geonames>
+  <dc:geotag>Argentina</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3865483</dc:geonames>
+  <dc:geotag>Argentina</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3865483</dc:geonames>
+  <dc:geotag>Turkey</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/298795</dc:geonames>
+  <dc:geotag>Africa</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255146</dc:geonames>
+  <dc:geotag>Egypt</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/357994</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2770</dc:cdocid>
+  <dc:apiid>10883_2770</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:06Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

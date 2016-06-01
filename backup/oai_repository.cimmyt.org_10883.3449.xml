@@ -1,0 +1,47 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Gene pools and the genetic architecture of domesticated cowpea</dc:title>
+  <dc:creator>Bao-Lam Huynh</dc:creator>
+  <dc:creator>Close, T.J.</dc:creator>
+  <dc:creator>Roberts, P.A.</dc:creator>
+  <dc:creator>Zhiqiu Hu</dc:creator>
+  <dc:creator>Wanamaker, S.</dc:creator>
+  <dc:creator>Lucas, M.R.</dc:creator>
+  <dc:creator>Chiulele, R.</dc:creator>
+  <dc:creator>Cisse, N.</dc:creator>
+  <dc:creator>David, A.</dc:creator>
+  <dc:creator>Hearne, S.</dc:creator>
+  <dc:creator>Fatokun, C.</dc:creator>
+  <dc:creator>Diop, N.N.</dc:creator>
+  <dc:creator>Ehlers, J.D.</dc:creator>
+  <dc:description>Cowpea [Vigna unguiculata (L.) Walp.] is a major tropical legume crop grown in warm to hot areas throughout the world and especially important to the people of sub-Saharan Africa where the crop was domesticated. To date, relatively little is understood about its domestication origins and patterns of genetic variation. In this study, a worldwide collection of cowpea landraces and African ancestral wild cowpea was genotyped with more than 1200 single nucleotide polymorphism markers. Bayesian inference revealed the presence of two major gene pools in cultivated cowpea in Africa. Landraces from gene pool 1 are mostly distributed in western Africa while the majority of gene pool 2 are located in eastern Africa. Each gene pool is most closely related to wild cowpea in the same geographic region, indicating divergent domestication processes leading to the formation of two gene pools. The total genetic variation within landraces from countries outside Africa was slightly greater than within African landraces. Accessions from Asia and Europe were more related to those from western Africa while accessions from the Americas appeared more closely related to those from eastern Africa. This delineation of cowpea germplasm into groups of genetic relatedness will be valuable for guiding introgression efforts in breeding programs and for improving the efficiency of germplasm management.</dc:description>
+  <dc:date>2014-03-05T17:59:58Z</dc:date>
+  <dc:date>2014-03-05T17:59:58Z</dc:date>
+  <dc:pubDate>2013</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/3449</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:publisher>https://www.crops.org/publications/tpg/abstracts/6/3/plantgenome2013.03.0005</dc:publisher>
+  <dc:geotag>Africa</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255146</dc:geonames>
+  <dc:geotag>Africa</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255146</dc:geonames>
+  <dc:geotag>Africa</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255146</dc:geonames>
+  <dc:geotag>Asia</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255147</dc:geonames>
+  <dc:geotag>Europe</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255148</dc:geonames>
+  <dc:geotag>Africa</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255146</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3449</dc:cdocid>
+  <dc:apiid>10883_3449</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:07Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

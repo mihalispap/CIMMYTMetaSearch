@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Interactions between markers can be caused by the dominance effect of quantitative trait loci</dc:title>
+  <dc:creator>Zhang, Luyan</dc:creator>
+  <dc:creator>Li Huihui</dc:creator>
+  <dc:creator>Li Zhonglai</dc:creator>
+  <dc:creator>Jiankang Wang</dc:creator>
+  <dc:description>F2 populations are commonly used in genetic studies of animals and plants. For simplicity, most quantitative trait locus or loci (QTL) mapping methods have been developed on the basis of populations having two distinct genotypes at each polymorphic marker or gene locus. In this study, we demonstrate that dominance can cause the interactions between markers and propose an inclusive linear model that includes marker variables and marker interactions so as to completely control both additive and dominance effects of QTL. The proposed linear model is the theoretical basis for inclusive composite-interval QTL mapping (ICIM) for F2 populations, which consists of two steps: first, the best regression model is selected by stepwise regression, which approximately identifies markers and marker interactions explaining both additive and dominance variations; second, the interval mapping approach is applied to the phenotypic values adjusted by the regression model selected in the first step. Due to the limited mapping population size, the large number of variables, and multicollinearity between variables, coefficients in the inclusive linear model cannot be accurately determined in the first step. Interval mapping is necessary in the second step to fine tune the QTL to their true positions. The efficiency of including marker interactions in mapping additive and dominance QTL was demonstrated by extensive simulations using three QTL distribution models with two population sizes and an actual rice F2 population.</dc:description>
+  <dc:date>2013-06-07T21:12:22Z</dc:date>
+  <dc:date>2013-06-07T21:12:22Z</dc:date>
+  <dc:pubDate>2008</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/2690</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2690</dc:cdocid>
+  <dc:apiid>10883_2690</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:04Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

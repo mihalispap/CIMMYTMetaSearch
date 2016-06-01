@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cowpea [Vigna unguiculata (L.) Walp.] core collection defined by geographical, agronomical and botanical descriptors</dc:title>
+  <dc:creator>Mahalakshmi, V.</dc:creator>
+  <dc:creator>Ng, Q.</dc:creator>
+  <dc:creator>Lawson, M.</dc:creator>
+  <dc:creator>Ortiz, R.</dc:creator>
+  <dc:subject>core collection</dc:subject>
+  <dc:subject>cowpea</dc:subject>
+  <dc:subject>Descriptors</dc:subject>
+  <dc:subject>Diversity</dc:subject>
+  <dc:subject>Sampling</dc:subject>
+  <dc:subject>Vigna unguiculata</dc:subject>
+  <dc:description>Cowpea is a drought-tolerant food legume grown in the savannah regions of the tropics and subtropics. The International Institute for Tropical Agriculture (IITA) holds the world collection of 15,003 cultivated cowpea from 89 countries in its genebank. In excess of 12,000 accessions were characterized for 28 agrobotanical descriptors. The entire collection was first stratified by country of origin and biological status. Land race accessions (10,227) with information on origin and characterization data were grouped using clustering procedures. The clustering analysis was based on Euclidean distances between and among accessions. Accessions within each country were then grouped hierarchically, according to their similarity. The number of clusters selected for countries varied from 2 to 20, depending on the size of collection for that country. A percentage number of accessions (5&amp;ndash;25%) was chosen from each country, based on the size of the collection and its proximity to the centre of diversity. The number of accessions from each cluster in a country was then chosen randomly, based on the predetermined percentage. In countries where the numbers of accessions were few (,10), the percentage chosen from those countries would be higher and may go up to 100% to ensure that at least one accession was chosen from every country. Accessions with no characterization information were treated as a group, and accessions were chosen randomly, based on their geographical distribution. In the process of selection, 200 accessions that are known to be resistant to pests and diseases and not originally chosen through the selection processes were, nevertheless, kept as part of the core collection. Following these procedures, a total of 1701 accessions of landraces were chosen from the entire collection. Using the same procedures, a subset of 225 accessions was chosen from 1422 advanced cultivars and breeding or research lines. A third subset of 130 accessions was chosen from 838 accessions that either lack information on origin or biological status, and six accessions of wild and weedy forms from the available 64 wild and weed accessions were added. Thus a core collection of 2062 accessions of cowpea was constituted. The diversity in the core collection was similar to that of the entire collection and correlated traits that may be linked were also preserved in the core collection. This core collection of cowpea provides an opportunity for further exploitation of the cowpea germplasm for improvement of this crop.</dc:description>
+  <dc:date>2013-06-07T21:02:32Z</dc:date>
+  <dc:date>2013-06-07T21:02:32Z</dc:date>
+  <dc:pubDate>2007</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/1734</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:publisher>http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=1433788&amp;fulltextType=RA&amp;fileId=S1479262107837166</dc:publisher>
+  <dc:geotag>country</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/geonameid</dc:geonames>
+  <dc:geotag>country</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/geonameid</dc:geonames>
+  <dc:geotag>country</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/geonameid</dc:geonames>
+  <dc:geotag>country</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/geonameid</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1734</dc:cdocid>
+  <dc:apiid>10883_1734</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:45Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

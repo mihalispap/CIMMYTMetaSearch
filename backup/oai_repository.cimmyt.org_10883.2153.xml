@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Specification effects in zero tillage survey data in South Asia's rice-wheat systems</dc:title>
+  <dc:creator>Erenstein, O.</dc:creator>
+  <dc:subject>Impact</dc:subject>
+  <dc:subject>Survey</dc:subject>
+  <dc:subject>Effects</dc:subject>
+  <dc:subject>Zero tillage</dc:subject>
+  <dc:subject>Wheat</dc:subject>
+  <dc:subject>India</dc:subject>
+  <dc:subject>Pakistan</dc:subject>
+  <dc:subject>Indo-Gangetic plains</dc:subject>
+  <dc:description>Specification effects in terms of how technology options are contrasted can introduce bias in impact assessment. In a companion paper we evaluated the on-farm impacts of zero tillage (ZT) wheat as a resource-conserving technology in the rice?wheat systems of India's Haryana State and Pakistan's Punjab province [Erenstein, O., Farooq, U., Malik, R.K., Sharif, M., 2008. On-farm impacts of zero tillage wheat in South Asia's rice?wheat systems. Field Crop Res. 105, 240?252]. The underlying field work surveyed plots of full adopters (only ZT plots), partial adopters (ZT and conventional tillage [CT] plots on same farm) and non-adopters (only CT plots). The companion paper assumes that the comparison between the ZT plots of full plus partial adopters and CT plots of partial adopters is the least-biased assessment of ZT's on-farm impact. Here we revisit this underlying assumption and draw on complementary farm survey findings to illustrate the extent of specification effects in the assessment of on-farm impacts of ZT wheat in the same study areas. The study thereby distinguishes between three contrasts between ZT and CT within the same dataset: (1) plain contrast (all plots of adopters and non-adopters); (2) adopter-only contrast (full and partial adopters only, as used in Erenstein et al. [Erenstein, O., Farooq, U., Malik, R.K., Sharif, M., 2008. On-farm impacts of zero tillage wheat in South Asia's rice?wheat systems. Field Crop Res. 105, 240?252]); (3) pair-wise contrast (partial adopters only). Proceeding from type 1 to type 3 comparisons the number of observations decrease but this is compensated by an increasing ability to control for variation. The ability of type 3 comparisons to pick up relatively small but significant differences is an important consideration in farm survey impact assessment. However, there is also an increase in partial adoption bias and further follow-up studies are needed to understand the implications of this. The comparisons show that the ZT effects on savings for diesel, tractor time and cost for wheat cultivation are particularly robust. In Haryana ZT's positive implications for yield and the other financial indicators were also statistically robust, but in Punjab these were sensitive to specification effects. Particularly sensitive to specification effects were the ZT effects on the productivity of applied water in both sites.</dc:description>
+  <dc:date>2013-06-07T21:09:40Z</dc:date>
+  <dc:date>2013-06-07T21:09:40Z</dc:date>
+  <dc:pubDate>2009</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/2153</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:geotag>India</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1269750</dc:geonames>
+  <dc:geotag>Pakistan</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1168579</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2153</dc:cdocid>
+  <dc:apiid>10883_2153</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_7</dc:cset>
+  <dc:setid>403613916</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:54Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

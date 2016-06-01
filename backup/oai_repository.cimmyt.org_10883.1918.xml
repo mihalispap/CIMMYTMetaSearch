@@ -1,0 +1,48 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The plant ontology as a tool for comparative plant anatomy and genomic analyses</dc:title>
+  <dc:creator>Cooper, L.</dc:creator>
+  <dc:creator>Walls, R.L.</dc:creator>
+  <dc:creator>Elser, J.</dc:creator>
+  <dc:creator>Gandolfo, M.A.</dc:creator>
+  <dc:creator>Stevenson, D.W.</dc:creator>
+  <dc:creator>Smith, B.</dc:creator>
+  <dc:creator>Preece, J.</dc:creator>
+  <dc:creator>Athreya, B.</dc:creator>
+  <dc:creator>Mungall, C.J.</dc:creator>
+  <dc:creator>Rensing, S.</dc:creator>
+  <dc:creator>Hiss, M.</dc:creator>
+  <dc:creator>Lang, D.</dc:creator>
+  <dc:creator>Reski, R.</dc:creator>
+  <dc:creator>Berardini, T.Z.</dc:creator>
+  <dc:creator>Donghui Li</dc:creator>
+  <dc:creator>Huala, E.</dc:creator>
+  <dc:creator>Schaeffer, M.</dc:creator>
+  <dc:creator>Menda, N.</dc:creator>
+  <dc:creator>Arnaud, E.</dc:creator>
+  <dc:creator>Shrestha, R.</dc:creator>
+  <dc:creator>Yukiko Yamazaki</dc:creator>
+  <dc:creator>Jaiswal, P.</dc:creator>
+  <dc:subject>plant anatomyontology</dc:subject>
+  <dc:subject>Comparative genomics</dc:subject>
+  <dc:subject>genome annotation</dc:subject>
+  <dc:subject>Bioinformatics</dc:subject>
+  <dc:subject>terpene synthase</dc:subject>
+  <dc:description>The Plant Ontology (PO; http://www.plantontology.org/) is a publicly-available, collaborative effort to develop and maintain a controlled, structured vocabulary (?ontology?) of terms to describe plant anatomy, morphology and the stages of plant development. The goals of the PO are to link (annotate) gene expression and phenotype data to plant structures and stages of plant development, using the data model adopted by the Gene Ontology. From its original design covering only rice, maize and Arabidopsis, the scope of the PO has been expanded to include all green plants. The PO was the first multi-species anatomy ontology developed for the annotation of genes and phenotypes. Also, to our knowledge, it was one of the first biological ontology that provides translations (via synonyms) in non-English languages such as Japanese and Spanish. As of Release #18 (July 2012), there are about 2.2 million annotations linking PO terms to over 110,000 unique data objects representing genes or gene models, proteins, RNAs, germplasm and Quantitative Traits Loci (QTLs) from 22 plant species. In this paper, we focus on the plant anatomical entity branch of the PO, describing the organizing principles, resources available to users, and examples of how the PO is integrated into other plant genomics databases and web portals. We also provide two examples of comparative analyses, demonstrating how the ontology structure and PO-annotated data can be used to discover the patterns of expression of the LEAFY (LFY) and terpene synthase (TPS) gene homologs.</dc:description>
+  <dc:date>2013-06-07T21:02:57Z</dc:date>
+  <dc:date>2013-06-07T21:02:57Z</dc:date>
+  <dc:pubDate>2012</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0032-0781</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/1918</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:publisher>http://pcp.oxfordjournals.org/content/54/2/e1.abstract</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1918</dc:cdocid>
+  <dc:apiid>10883_1918</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:30Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

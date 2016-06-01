@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Lateral flow colloidal gold based immunoassay for the rapid detection of deoxynivalenol with two indicator ranges</dc:title>
+  <dc:creator>Kolosova, A.Y.</dc:creator>
+  <dc:creator>Sibanda, L.</dc:creator>
+  <dc:creator>Dumoulin, F.</dc:creator>
+  <dc:creator>Lewis, J.</dc:creator>
+  <dc:creator>Duveiller, E.</dc:creator>
+  <dc:creator>Peteghem, P. van</dc:creator>
+  <dc:creator>De Saegera, S.</dc:creator>
+  <dc:subject>Deoxynivalenol</dc:subject>
+  <dc:subject>Lateral-flow immunoassay</dc:subject>
+  <dc:subject>Colloidal gold</dc:subject>
+  <dc:subject>Rapid method</dc:subject>
+  <dc:subject>Wheat</dc:subject>
+  <dc:description>A lateral-flow immunoassay using a colloidal gold-labelled monoclonal antibody was developed for the rapid detection of deoxynivalenol (DON). Different parameters, such as the amount of immunoreagents, type of the materials, composition of the blocking solution and of the detector reagent mixture, were investigated to provide the optimum assay performance. The experimental results demonstrated that such a visual test had an indicator range rather than a cut-off value. Thus, tests for DON determination with two different indicator ranges of 250&amp;ndash;500 and 1000&amp;ndash;2000 µg kg-1 were designed. The method allowed detection of DON at low and high concentration levels, which could be useful for research and practical purposes. The assay applied to spiked wheat and pig feed samples demonstrated accurate and reproducible results. The applicability of the developed lateral-flow test was also confirmed under real field conditions. The test strips prepared in Belgium were sent to Mexico, where they were used for the screening of DON contamination in different bread wheat entries from Fusarium Head Blight inoculated plots. The results were compared with those obtained by ELISA and LC&amp;ndash;MS/MS. A poor correlation between ELISA and LC&amp;ndash;MS/MS was observed. Visual results of the dipstick tests were in a good agreement with the results of the LC&amp;ndash;MS/MS method. Coupled with a simple and fast sample preparation, this qualitative one-step test based on the visual evaluation of results did not require any equipment. Results could be obtained within 10 min. The described assay format can be used as a simple, rapid, cost-effective and robust on-site screening tool for mycotoxin contamination in different agricultural commodities</dc:description>
+  <dc:date>2013-06-07T21:12:15Z</dc:date>
+  <dc:date>2013-06-07T21:12:15Z</dc:date>
+  <dc:pubDate>2008</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/2637</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:geotag>Belgium</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/2802361</dc:geonames>
+  <dc:geotag>Mexico</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3996063</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2637</dc:cdocid>
+  <dc:apiid>10883_2637</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:04Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

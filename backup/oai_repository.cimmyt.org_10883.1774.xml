@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Nucleotide diversity and molecular evolution of the PSY1 gene in Zea mays compared to some other grass species</dc:title>
+  <dc:creator>Fu, Z.</dc:creator>
+  <dc:creator>Jianbing Yan</dc:creator>
+  <dc:creator>Zheng, Y.</dc:creator>
+  <dc:creator>Warburton, M.L.</dc:creator>
+  <dc:creator>Crouch, J.H.</dc:creator>
+  <dc:creator>Li, J.S.</dc:creator>
+  <dc:subject>Spermatophyta</dc:subject>
+  <dc:subject>Angiospermae</dc:subject>
+  <dc:subject>Monocotyledones</dc:subject>
+  <dc:subject>Gramineae</dc:subject>
+  <dc:subject>Agriculture</dc:subject>
+  <dc:subject>Genetics</dc:subject>
+  <dc:subject>Zea mays</dc:subject>
+  <dc:subject>gene</dc:subject>
+  <dc:subject>Molecular evolution</dc:subject>
+  <dc:subject>Diversity</dc:subject>
+  <dc:subject>Nucleotide</dc:subject>
+  <dc:description>Phytoene synthase (PSY), which is encoded by the phytoene synthase 1 (PSY1) gene, is the first rate-limiting enzyme in the plant carotenoid biosynthetic pathway. In order to examine the genetic diversity and evolution pattern of PSY1 within the Andropogoneae, sequences of 76 accessions from 5 species (maize, teosinte, tripsacum, coix, and sorghum) of the Andropogoneae were tested, along with 4 accessions of rice (Oryza sativa L.) included as outliers. Both the number and the order of exons and introns were relatively conserved across the species tested. Three domains were identified in the coding sequence, including signal peptide (SP), PSY, and highly conserved squalene synthase (SQS) domain. Although no positive selection signal was detected at an overall coding level among all species tested, the SP domain and the region upstream of the SQS-PSY domain appear to have undergone rapid evolution, as evidenced by a high d (N)/d (S) ratio (&gt;1.0). At the nucleotide level, positive selection and balancing selection were detected only among the yellow maize germplasm and the white maize germplasm, respectively. The phylogenetic tree based on full-length sequences of PSY1-like regions supported the monophyletic theory of the Andropogoneae and the closest relationship between Zea and Tripsacum among the Andropogoneae. Coix, which was theorized to have a closer relationship with maize due to similarities in morphology and chromosome number, has been shown in this study to have diverged relatively early from the other Andropogoneae, including maize.</dc:description>
+  <dc:date>2013-06-07T21:02:37Z</dc:date>
+  <dc:date>2013-06-07T21:02:37Z</dc:date>
+  <dc:pubDate>2010</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/1774</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1774</dc:cdocid>
+  <dc:apiid>10883_1774</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:45Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

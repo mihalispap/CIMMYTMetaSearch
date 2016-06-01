@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cloning and phylogenetic analysis of polyphenol oxidase genes in common wheat and related species</dc:title>
+  <dc:creator>Xinyao He</dc:creator>
+  <dc:creator>He Zhonghu</dc:creator>
+  <dc:creator>Morris, C.F.</dc:creator>
+  <dc:creator>Xia, X.C.</dc:creator>
+  <dc:subject>common wheat</dc:subject>
+  <dc:subject>Grain PPO activity</dc:subject>
+  <dc:subject>Phylogenetics</dc:subject>
+  <dc:subject>Polyphenol oxidase (PPO) genes</dc:subject>
+  <dc:subject>Triticum aestivum</dc:subject>
+  <dc:subject>Wheat relatives</dc:subject>
+  <dc:description>Cloning and phylogenetic analysis of polyphenol oxidase (PPO) genes in common wheat and its relatives would greatly advance the understanding of molecular mechanisms of grain PPO activity. In the present study, six wheat relative species, including T. urartu, T. boeoticum, T. monococcum, T. dicoccoides, T. durum and Ae. tauschii, were sampled to isolate new alleles at Ppo-A1 and Ppo-D1 loci corresponding to common wheat PPO genes, and seven new alleles were identified from these species, which were designated as Ppo-A1c (from T. urartu), Ppo-A1d (T. boeoticum), Ppo-A1e (T. monococcum and T. durum), Ppo-A1f (T. dicoccoides), Ppo-A1g (T. durum), Ppo-D1c (Ae. tauschii) and Ppo-D1d (Ae. tauschii), respectively. Five out of the seven alleles detected in the wheat relatives contained an open reading frame (ORF) of 1,731 bp, encoding a polypeptide of 577 residues, which is the same as those of Ppo-A1 and Ppo-D1 genes in common wheat, whereas, the full-length ORF of the allele Ppo-A1g from T. durum wasnot obtained, and a 73-bp deletion occurred in the third exon of Ppo-D1d, an allele from Ae. tauschii, resulting in a shorter polypeptide of 466 amino acids. The 191-bp insertion in the first intron reported previously in common wheat was also found in T. dicoccoides lines, implying that more than one tetraploid wheat lines may be involved in the origination of common wheat. Phylogenetic trees were constructed using the genomic DNA sequences of the seven alleles, together with four from common wheat and four partial PPO gene sequences deposited in GenBank. The genome tribe A was divided into two clusters, one of which contained Ppo-A1d and Ppo-A1e, and the other included the remaining five alleles at Ppo-A1 locus. The alleles from different clusters showed high sequence divergences, indicated by dozens of SNPs and five to six InDels. The genome tribe D comprised the alleles Ppo-D1a, Ppo-D1c, Ppo-D1d and Ppo-D1b, and the former three were clustered together, showing significant sequence divergence from Ppo-D1b. In addition, the relationships between these allelic variants and grain PPO activities were also discussed.</dc:description>
+  <dc:date>2013-06-07T21:12:26Z</dc:date>
+  <dc:date>2013-06-07T21:12:26Z</dc:date>
+  <dc:pubDate>2009</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/2707</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2707</dc:cdocid>
+  <dc:apiid>10883_2707</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:04Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

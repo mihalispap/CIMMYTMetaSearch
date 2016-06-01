@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Isolation and characterization of Viviparous-1 genes in wheat cultivars with distinct ABA sensitivity and pre-harvest sprouting tolerance</dc:title>
+  <dc:creator>Yang, Y.</dc:creator>
+  <dc:creator>Ma, Y.Z.</dc:creator>
+  <dc:creator>Xu, Z.S.</dc:creator>
+  <dc:creator>Chen, X.M.</dc:creator>
+  <dc:creator>He Zhonghu</dc:creator>
+  <dc:creator>Yu, Z.</dc:creator>
+  <dc:creator>Wilkinson, M.</dc:creator>
+  <dc:creator>Jones, H.D.</dc:creator>
+  <dc:creator>Shewry, P.R.</dc:creator>
+  <dc:creator>Xia, L.Q.</dc:creator>
+  <dc:subject>ABA responsiveness</dc:subject>
+  <dc:subject>allele</dc:subject>
+  <dc:subject>Expression</dc:subject>
+  <dc:subject>pre-harvest sprouting</dc:subject>
+  <dc:subject>RT-PCR</dc:subject>
+  <dc:subject>Triticum aestivum L</dc:subject>
+  <dc:subject>Vp-1</dc:subject>
+  <dc:description>Pre-harvest sprouting (PHS) of wheat reduces the quality and economic value of grain, and increasing PHS tolerance is one of the most important traits in wheat breeding. Two new Vp-1B alleles related to PHS tolerance were identified on the 3BL chromosome of bread wheat and were designated Vp-1Bb and Vp-1Bc. Sequence analysis showed that Vp-1Bb has a 193 bp insertion and Vp-1Bc has a 83 bp deletion located in the third intron region of the Vp-1B gene, and that they shared 95.43% and 97.89% similarity, respectively, with the sequence of AJ400713 (Vp-1Ba) at the nucleotide level. Their sequences were deposited in the GenBank under the accession numbers DQ517493 and DQ517494. Semi-quantitative RT-PCR analysis showed that alternatively spliced transcripts of the Vp-1A, Vp-1B, and Vp-1D homologues were present and there were no differences in the splicing patterns or abundances of Vp-1A and Vp-1D from embryos 35 d after pollination between PHS-tolerant and -susceptible cultivars. Although Vp-1Ba, Vp-1Bb, and Vp-1Bc could each produce a set of transcripts, only one was correctly spliced and had the capacity to encode the full-length VP1 protein and was more highly expressed with Vp-1Bb and Vp-1Bc than with Vp-1Ba. Comparison of the expression patterns of Vp-1Ba, Vp-1Bb, and Vp-1Bc on different days after pollination also revealed that the expression of these genes was developmentally regulated. Furthermore, genotypes with different levels of tolerance to PHS respond differently to ABA exposure and differences in transcript levels of Vp-1Ba, Vp-1Bb, and Vp-1Bc were observed after ABA treatment. The results indicated that insertion or deletion in the third intron region might affect the expression of the Vp-1B gene and its sensitivity to ABA, and thus resistance to PHS.</dc:description>
+  <dc:date>2013-06-07T21:12:08Z</dc:date>
+  <dc:date>2013-06-07T21:12:08Z</dc:date>
+  <dc:pubDate>2007</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/2603</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://jxb.oxfordjournals.org/content/58/11/2863.abstract</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2603</dc:cdocid>
+  <dc:apiid>10883_2603</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:11Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

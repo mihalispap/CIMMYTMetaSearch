@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Doubled haploids versus conventional breeding in CIMMYT wheat breeding programs</dc:title>
+  <dc:creator>Huihui Li</dc:creator>
+  <dc:creator>Singh, R.P.</dc:creator>
+  <dc:creator>Braun, H.J.</dc:creator>
+  <dc:creator>Pfeiffer, W.H.</dc:creator>
+  <dc:creator>Jiankang Wang</dc:creator>
+  <dc:description>Doubled haploid (DH) technology has been used in breeding programs for several decades and is currently the method of choice in a number of crop species, including barley (Hordeum vulgare L.), rapeseed (Brassica napus L.), maize (Zea mays L.), and wheat (Triticum aestivum L.). In this study we investigated via computer simulation the benefit of using DHs compared with the conventional wheat breeding strategy used at CIMMYT. Two strategies using DHs were considered: DH lines directly derived from F1 hybrids (F1?DH), and DH lines derived from F3 individuals that are retained following selection for agronomic traits in the F2 generation (F3?DH). Genetic gains per cycle, per year, and per dollar spent were consistently higher for conventional breeding than for DH breeding strategies, especially gains per dollar. Though the F1?DH strategy saved 1 yr in completing a breeding cycle, genetic gains per year for the adaptation trait from F1?DH were much lower than those from conventional breeding, where two growing seasons are used per year. Though the DH breeding strategy showed no significant advantages over the conventional wheat shuttle-breeding regime of CIMMYT, we did not exclude the possibility that the DH breeding strategy may have advantages when genetic gains per unit of time are considered, and only one generation is grown per year. The conventional shuttle regime will continue to be the major wheat breeding strategy at CIMMYT, where two cycles can be grown per year and breeders can do selection in large populations in both cycles.</dc:description>
+  <dc:date>2013-12-09T20:21:17Z</dc:date>
+  <dc:date>2013-12-09T20:21:17Z</dc:date>
+  <dc:pubDate>2013</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/3337</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>https://www.crops.org/publications/cs/abstracts/53/1/74</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3337</dc:cdocid>
+  <dc:apiid>10883_3337</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:10Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

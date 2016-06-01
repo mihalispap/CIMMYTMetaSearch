@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>QTL mapping of adult-plant resistance to stripe rust in a population derived from common wheat cultivars Naxos and Shanghai 3/Catbird</dc:title>
+  <dc:creator>Ren Yan</dc:creator>
+  <dc:creator>He Zhonghu</dc:creator>
+  <dc:creator>Li Jia</dc:creator>
+  <dc:creator>Lillemo, M.</dc:creator>
+  <dc:creator>Wu Ling</dc:creator>
+  <dc:creator>Bai Bin</dc:creator>
+  <dc:creator>Lu Qiongxian</dc:creator>
+  <dc:creator>Zhu Huazhong</dc:creator>
+  <dc:creator>Zhou Gang</dc:creator>
+  <dc:creator>Du Jiuyuan</dc:creator>
+  <dc:creator>Lu Qinglin</dc:creator>
+  <dc:creator>Xia Xianchun</dc:creator>
+  <dc:description>Stripe rust, caused by Puccinia striiformis Westend. f. sp. tritici Erikss., is a severe foliar disease of common wheat (Triticum aestivum L.) worldwide. Use of adult-plant resistance (APR) is an efficient approach to provide long-term protection of crops from the disease. The German spring wheat cultivar Naxos showed a high level of APR to stripe rust in the field. To identify the APR genes in this cultivar, a mapping population of 166 recombinant inbred lines (RILs) was developed from a cross between Naxos and Shanghai 3/Catbird (SHA3/CBRD), a moderately susceptible line developed by CIMMYT. The RILs were evaluated for maximum disease severity (MDS) in Sichuan and Gansu in the 2009?2010 and 2010?2011 cropping seasons. Composite interval mapping (CIM) identified four QTL, QYr.caas-1BL.1RS, QYr.caas-1DS, QYr.caas-5BL.3 and QYr.caas-7BL.1, conferring stable resistance to stripe rust across all environments, each explaining 1.9?27.6, 2.1?5.8, 2.5?7.8 and 3.7?9.1 % of the phenotypic variance, respectively. QYr.caas-1DS flanked by molecular markers XUgwm353?Xgdm33b was likely a new QTL for APR to stripe rust. Because the interval between flanking markers for each QTL was less than 6.5 cM, these QTL and their closely linked markers are potentially useful for improving resistance to stripe rust in wheat breeding.</dc:description>
+  <dc:date>2013-06-07T21:12:54Z</dc:date>
+  <dc:date>2013-06-07T21:12:54Z</dc:date>
+  <dc:pubDate>2012</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0040-5752</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/2926</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://link.springer.com/article/10.1007%2Fs00122-012-1907-6#</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2926</dc:cdocid>
+  <dc:apiid>10883_2926</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:07Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

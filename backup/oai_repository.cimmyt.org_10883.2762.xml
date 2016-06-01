@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Development of STS markers and establishment of multiplex PCR for Glu-A3 alleles in common wheat (Triticum aestivum L.)</dc:title>
+  <dc:creator>Linhai Wang</dc:creator>
+  <dc:creator>Genying Li</dc:creator>
+  <dc:creator>Peña-Bautista, R.J.</dc:creator>
+  <dc:creator>Xianchun Xia</dc:creator>
+  <dc:creator>He Zhonghu</dc:creator>
+  <dc:subject>common wheat</dc:subject>
+  <dc:subject>LMW-GS</dc:subject>
+  <dc:subject>Glu-A3</dc:subject>
+  <dc:subject>STS marker</dc:subject>
+  <dc:subject>multiplex PCR</dc:subject>
+  <dc:description>Low-molecular-weight glutenin subunits (LMW-GS) play a key role in determining the processing quality of the end-use products of common wheat. The objectives of this study were to identify genes at Glu-A3 locus, develop the STS markers, and establish multiplex PCR with the STS markers for Glu-A3 alleles. Gene-specific PCR primers were designed to amplify six near-isogenic lines (NILs) and Glenlea with different Glu-A3 alleles (a, b, c, d, e, f and g) defined by the protein electrophoretic mobility. Three Glu-A3 genes with complete coding sequence were cloned, designated as GluA3-1, GluA3-2 and GluA3-3, respectively. Seven dominant allele-specific STS (sequence tagged sites) markers were designed based on the SNPs (single nucleotide polymorphisms) among different allelic variants for the discrimination of the Glu-A3 protein alleles a, b, c, d, e, f and g. Four multiplex PCRs were established including Glu-A3b + Glu-A3f, Glu-A3d + Glu-A3f, Glu-A3d + Glu-A3g, and Glu-A3b + Glu-A3e. These markers and multiplex-PCR systems were validated on 141 CIMMYT wheat varieties and advanced lines with different Glu-A3 alleles, confirming that they can be efficiently used in marker-assisted breeding.</dc:description>
+  <dc:date>2013-06-07T21:12:33Z</dc:date>
+  <dc:date>2013-06-07T21:12:33Z</dc:date>
+  <dc:pubDate>2010</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0733-5210</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/2762</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2762</dc:cdocid>
+  <dc:apiid>10883_2762</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:06Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

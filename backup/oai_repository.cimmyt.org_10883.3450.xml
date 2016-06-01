@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>IBFIELDBOOK, an integrated breeding field book for plant breeding</dc:title>
+  <dc:creator>Lugo-Espinosa, O.</dc:creator>
+  <dc:creator>Sanchez-Gutierrez, T.M.</dc:creator>
+  <dc:creator>Camarena-Sagredo, J.G.</dc:creator>
+  <dc:creator>Vargas, M.</dc:creator>
+  <dc:creator>Alvarado, G.</dc:creator>
+  <dc:creator>Jarquin, D.</dc:creator>
+  <dc:creator>Burgueño, J.</dc:creator>
+  <dc:creator>Crossa, J.</dc:creator>
+  <dc:creator>Sanchez-Villeda, H.</dc:creator>
+  <dc:subject>Data analysis</dc:subject>
+  <dc:subject>information collected</dc:subject>
+  <dc:subject>large amounts of data</dc:subject>
+  <dc:subject>methods to exchange information</dc:subject>
+  <dc:subject>successful software</dc:subject>
+  <dc:subject>freely available</dc:subject>
+  <dc:description>The development of an integrated breeding field book (IBFieldbook) for different crops involves the generation, handling and analysis of large amounts of data. Managing the integration of environmental, pedigree, and phenotypic information for plant breeding data analyses requires appropriate and successful software that facilitates breeders, technicians, and researchers management of the vast collected field information in an easy, efficient and interactive way. Users may also need methods to exchange information with different devices used to record information in the field. Additionally, collected information needs to be analyzed inside or outside the application, and then generate reports for germplasm improvement.</dc:description>
+  <dc:date>2014-03-05T17:59:59Z</dc:date>
+  <dc:date>2014-03-05T17:59:59Z</dc:date>
+  <dc:pubDate>2013</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0187-7380</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/3450</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:pdf>http://www.revistafitotecniamexicana.org/documentos/36-3/2a.pdf</dc:pdf>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3450</dc:cdocid>
+  <dc:apiid>10883_3450</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:07Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

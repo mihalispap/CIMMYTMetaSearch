@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Inclusive composite interval mapping (ICIM) for digenic epistasis of quantitative traits in biparental populations</dc:title>
+  <dc:creator>Li Huihui</dc:creator>
+  <dc:creator>Ribaut, J.M.</dc:creator>
+  <dc:creator>Zhonglai Li</dc:creator>
+  <dc:creator>Jiankang Wang</dc:creator>
+  <dc:description>It has long been recognized that epistasis or interactions between non-allelic genes plays an important role in the genetic control and evolution of quantitative traits. However, the detection of epistasis and estimation of epistatic effects are difficult due to the complexity of epistatic patterns, insufficient sample size of mapping populations and lack of efficient statistical methods. Under the assumption of additivity of QTL effects on the phenotype of a trait in interest, the additive effect of a QTL can be completely absorbed by the flanking marker variables, and the epistatic effect between two QTL can be completely absorbed by the four marker-pair multiplication variables between the two pairs of flanking markers. Based on this property, we proposed an inclusive composite interval mapping (ICIM) by simultaneously considering marker variables and marker-pair multiplications in a linear model. Stepwise regression was applied to identify the most significant markers and marker-pair multiplications. Then a two-dimensional scanning (or interval mapping) was conducted to identify QTL with significant digenic epistasis using adjusted phenotypic values based on the best multiple regression model. The adjusted values retain the information of QTL on the two current mapping intervals but exclude the influence of QTL on other intervals and chromosomes. Epistatic QTL can be identified by ICIM, no matter whether the two interacting QTL have any additive effects. Simulated populations and one barley doubled haploids (DH) population were used to demonstrate the efficiency of ICIM in mapping both additive QTL and digenic interactions.</dc:description>
+  <dc:date>2013-06-07T21:02:33Z</dc:date>
+  <dc:date>2013-06-07T21:02:33Z</dc:date>
+  <dc:pubDate>2008</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/1737</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1737</dc:cdocid>
+  <dc:apiid>10883_1737</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:45Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

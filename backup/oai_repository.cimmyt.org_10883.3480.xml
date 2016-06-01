@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>An assessment of wheat yield sensitivity and breeding gains in hot environments</dc:title>
+  <dc:creator>Gourdji, S.M.</dc:creator>
+  <dc:creator>Mathews, K.L.</dc:creator>
+  <dc:creator>Reynolds, M.P.</dc:creator>
+  <dc:creator>Crossa, J.</dc:creator>
+  <dc:creator>Lobell, D.B.</dc:creator>
+  <dc:subject>climate change</dc:subject>
+  <dc:subject>Wheat</dc:subject>
+  <dc:subject>heat tolerance</dc:subject>
+  <dc:subject>Breeding</dc:subject>
+  <dc:description>Genetic improvements in heat tolerance of wheat provide a potential adaptation response to long-term warming trends, and may also boost yields in wheat-growing areas already subject to heat stress. Yet there have been few assessments of recent progress in breeding wheat for hot environments. Here, data from 25 years of wheat trials in 76 countries from the International Maize and Wheat Improvement Center (CIMMYT) are used to empirically model the response of wheat to environmental variation and assess the genetic gains over time in different environments and for different breeding strategies. Wheat yields exhibited the most sensitivity to warming during the grain-filling stage, typically the hottest part of the season. Sites with high vapour pressure deficit (VPD) exhibited a less negative response to temperatures during this period, probably associated with increased transpirational cooling. Genetic improvements were assessed by using the empirical model to correct observed yield growth for changes in environmental conditions and management over time. These ?climate-corrected? yield trends showed that most of the genetic gains in the high-yield-potential Elite Spring Wheat Yield Trial (ESWYT) were made at cooler temperatures, close to the physiological optimum, with no evidence for genetic gains at the hottest temperatures. In contrast, the Semi-Arid Wheat Yield Trial (SAWYT), a lower-yielding nursery targeted at maintaining yields under stressed conditions, showed the strongest genetic gains at the hottest temperatures. These results imply that targeted breeding efforts help us to ensure progress in building heat tolerance, and that intensified (and possibly new) approaches are needed to improve the yield potential of wheat in hot environments in order to maintain global food security in a warmer climate.</dc:description>
+  <dc:date>2014-03-05T18:04:37Z</dc:date>
+  <dc:date>2014-03-05T18:04:37Z</dc:date>
+  <dc:pubDate>2013</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0962-8452</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/3480</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://rspb.royalsocietypublishing.org/content/280/1752/20122190.full</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3480</dc:cdocid>
+  <dc:apiid>10883_3480</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:10Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

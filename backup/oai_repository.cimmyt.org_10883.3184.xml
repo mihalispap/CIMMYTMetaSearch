@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Comparison of the performance of synthetic maize varieties created based on either genetic distance or general combining ability of the parents</dc:title>
+  <dc:creator>Narro, L.A.</dc:creator>
+  <dc:creator>Duran, J.F.</dc:creator>
+  <dc:creator>George, M.L.C.</dc:creator>
+  <dc:creator>Arcos, A.L.</dc:creator>
+  <dc:creator>Osorio, K.V.</dc:creator>
+  <dc:creator>Warburton, M.L.</dc:creator>
+  <dc:subject>Maize</dc:subject>
+  <dc:subject>General Combining Ability (GCA)</dc:subject>
+  <dc:subject>Genetic Similarity (GS)</dc:subject>
+  <dc:subject>synthetic varieties</dc:subject>
+  <dc:description>Synthetics varieties are grown by farmers and used by breeders to select new inbred lines. In countries unable to market hybrids, use of synthetics leads to yield improvements over landraces. Synthetics are derived from intercrossing inbred lines known to possess high general combining ability (GCA) as measured via crossing with testers and phenotyping for yield in multiple environments. Genetic similarity (GS) between lines measured by molecular markers may efficiently estimate GCA. Although the prediction of specific combining ability (SCA) of lines via GS has not been successful, it may have potential to predict the suitability of lines to form a synthetic variety. As this has not been reported, the objective of this research was to compare the performance of four synthetic maize varieties developed using GS calculated between parents using SSR markers with the performance of synthetics developed using GCA based on yield. Synthetics were phenotyped for yield and other agronomic traits in replicated field trials in several environments. The two synthetics formed based on low GS (0.34 and 0.33) performed better than all other synthetics in yield and most agronomic traits. The synthetics formed based on high GS (0.77 and 0.53), performed worst for nearly all traits. The GCA-based synthetics were generally intermediate for all traits. Response of synthetics to environmental variation and efficiencies gained via use of molecular markers in synthetic formation is discussed.</dc:description>
+  <dc:date>2013-06-30T05:24:47Z</dc:date>
+  <dc:date>2013-06-30T05:24:47Z</dc:date>
+  <dc:pubDate>2012</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>2279-8013</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/3184</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:pdf>http://www.maydica.org/articles/57_083.pdf</dc:pdf>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3184</dc:cdocid>
+  <dc:apiid>10883_3184</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:52Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

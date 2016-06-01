@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Confirming quantitative trait loci for aflatoxin resistance from Mp313E in different genetic backgrounds</dc:title>
+  <dc:creator>Willcox, M.</dc:creator>
+  <dc:creator>Davis, G.L.</dc:creator>
+  <dc:creator>Warburton, M.L.</dc:creator>
+  <dc:creator>Windham, G.L.</dc:creator>
+  <dc:creator>Abbas, H.K.</dc:creator>
+  <dc:creator>Betran, J.</dc:creator>
+  <dc:creator>Holland, J.B.</dc:creator>
+  <dc:creator>Williams, W.P.</dc:creator>
+  <dc:subject>Aspergillus flavus</dc:subject>
+  <dc:subject>Aflatoxin</dc:subject>
+  <dc:subject>quantitative trait loci</dc:subject>
+  <dc:subject>Maize (Zea mays L.)</dc:subject>
+  <dc:subject>Host plant resistance</dc:subject>
+  <dc:subject>Molecular Markers</dc:subject>
+  <dc:subject>Genetic background</dc:subject>
+  <dc:description>The fungus Aspergillus flavus (Link:Fr) causes ear rot of maize (Zea mays L.) and produces the toxic metabolic product aflatoxin. One particularly effective method of controlling the fungus is via host plant resistance, but while several resistant breeding lines have been identified, transferring the resistance genes from these lines into elite cultivars has been less effective than needed. A high number of genes involved with resistance, each with a small effect, and some only found under certain environmental conditions, has hampered resistance breeding. The identification of markers linked to genomic regions associated with resistance would aid in this effort. The goals of this study were to identify and characterize quantitative trait loci (QTL) conferring resistance to aflatoxin accumulation from resistant maize donor Mp313E in a background of the susceptible inbred line Va35; to compare them to the QTL identified from Mp313E in a background of B73; and to test the stability of the QTL identified in Mp313E × Va35 in multiple environments by remapping the phenotypic tails of the Mp313E × Va35 mapping population in new locations. Twenty different QTL were found in this study, 11 of which were also found in different environments using the phenotypic tail subset mapping population, and five of which were likely the same as those reported in the Mp313E × B73 mapping population. This indicates that many of the QTL are stable over the environments and genetic backgrounds tested, which will make them more valuable in breeding efforts.</dc:description>
+  <dc:date>2013-11-24T18:23:47Z</dc:date>
+  <dc:date>2013-11-24T18:23:47Z</dc:date>
+  <dc:pubDate>2013</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>1380-3743</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/3255</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://link.springer.com/article/10.1007%2Fs11032-012-9821-9</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3255</dc:cdocid>
+  <dc:apiid>10883_3255</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:50Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

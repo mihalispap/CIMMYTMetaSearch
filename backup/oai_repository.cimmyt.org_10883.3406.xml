@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Combined small RNA and degradome sequencing reveals novel miRNAs and their targets in response to low nitrate availability in maize</dc:title>
+  <dc:creator>Yongping Zhao</dc:creator>
+  <dc:creator>Zhenhua Xu</dc:creator>
+  <dc:creator>Qiaocheng Mo</dc:creator>
+  <dc:creator>Cheng Zou</dc:creator>
+  <dc:creator>Wenxue Li</dc:creator>
+  <dc:creator>Yunbi Xu</dc:creator>
+  <dc:creator>Chuanxiao Xie</dc:creator>
+  <dc:subject>Maize</dc:subject>
+  <dc:subject>Zea mays</dc:subject>
+  <dc:subject>low-nitrate stress</dc:subject>
+  <dc:subject>Adaptation</dc:subject>
+  <dc:subject>miRNA</dc:subject>
+  <dc:subject>degradome</dc:subject>
+  <dc:subject>combined analysis</dc:subject>
+  <dc:description>Background and Aims MicroRNAs (miRNAs) play an important role in the responses and adaptation of plants to many stresses including low nitrogen (LN). Characterizing relevant miRNAs will improve our understanding of nitrogen (N) use efficiency and LN tolerance and thus contribute to sustainable maize production. The objective of this study was to identify novel and known miRNAs and their targets involved in the response and adaptation of maize (Zea mays) to LN stress.  Methods MiRNAs and their targets were identified by combined analysis of deep sequencing of small RNA and degradome libraries. The identity of target genes was confirmed by gene-specific RNA ligase-mediated rapid amplification of ; cDNA ends (RLM-RACE) and by quantitative expression analysis.  Key Results Over 150 million raw reads of small RNA and degradome sequence data were generated. A total of 46 unique mature miRNA sequences belonging to 23 maize miRNA families were sequenced. Eighty-five potentially new miRNAs were identified, with corresponding miRNA* also identified for 65 of them. Twenty-five new miRNAs showed &gt;2-fold relative change in response to LN. In addition to known miR169 species, two novel putative miR169 species were identified. Deep sequencing of miRNAs and the degradome, and RLM-RACE and quantitative polymerase chain reaction (PCR) analyses of their targets showed that miRC10- and miRC68-mediated target cleavage may play a major role among miR169 families in the adaptation to LN by maize seedlings.  Conclusions Small RNA and degradome sequencing combined with quantitative reverse transcription?PCR and RLM-RACE verification enabled the efficient identification of miRNAs and their target genes. The generated data sets and the two novel miR169 species that were identified will contribute to our understanding of the physiological basis of adaptation to LN stress in maize plants.</dc:description>
+  <dc:date>2014-03-05T17:50:56Z</dc:date>
+  <dc:date>2014-03-05T17:50:56Z</dc:date>
+  <dc:pubDate>2013</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>http://hdl.handle.net/10883/3406</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://aob.oxfordjournals.org/content/early/2013/06/18/aob.mct133.full</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3406</dc:cdocid>
+  <dc:apiid>10883_3406</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:50Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

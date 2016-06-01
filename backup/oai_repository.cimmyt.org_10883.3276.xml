@@ -1,0 +1,61 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Protecting South Asian wheat production from Stem Rust (Ug99) epidemic</dc:title>
+  <dc:creator>Sharma, R.K.</dc:creator>
+  <dc:creator>Singh, P.K.</dc:creator>
+  <dc:creator>Vinod</dc:creator>
+  <dc:creator>Joshi, A.K.</dc:creator>
+  <dc:creator>Bhardwaj, S.C.</dc:creator>
+  <dc:creator>Bains, N.S.</dc:creator>
+  <dc:creator>Sukhwinder-Singh</dc:creator>
+  <dc:subject>Ug99</dc:subject>
+  <dc:subject>adult plant resistance</dc:subject>
+  <dc:subject>Puccinia graminis tritici</dc:subject>
+  <dc:subject>race non-specific resistance</dc:subject>
+  <dc:description>The Ug99 group of stem rust races (Puccinia graminis Pers. f. sp. tritici Eriks. &amp; E. Henn.) has evolved and migrated. While the original variant overcame the widely deployed gene Sr31, and Sr21 (in Chinese Spring background), but not Sr21 in Einkorn, a new strain of Ug99, virulent on Sr24, was detected in 2006 and caused a severe epidemic in 2007 in Kenya. Forms virulent on Sr36 and Sr21 were identified in 2007. Likewise, an Ug99 variant virulent to both Sr21 and Sr24 was identified in 2008 in Kenya. Simultaneously, the original strain spread to Yemen and Sudan in 2006. Fears of a spread into Asia were confirmed when this race was detected in Iran in 2007. This has raised serious concerns that Ug99 could follow the same migratory route from Africa to Asia as Yr9 and cause major epidemics across the epidemiological region of South Asia. In 2005?06, screening in Kenya and Ethiopia of wheat materials from Asian countries revealed a very low frequency of lines resistant to Ug99 and its variants. Under the umbrella of the Borlaug Global Rust Initiative (BGRI), significant efforts have been made to counter the challenges posed by Ug99 and its derivative races. Diverse sources of resistance to the pathogen have been identified and incorporated in high-yielding wheat backgrounds. The most promising strategy has been to deploy spring wheat varieties possessing adult plant resistance (APR) in infested and bordering areas to decrease inoculum amounts and slow down the development of new virulence, for example four CIMMYT genotypes with Sr2+ have been released in Afghanistan and their seed is also distributed in region bordering Iran. For an immediate remedy, race-specific resistance genes can be deployed in combinations using marker-assisted selection. Several Ug99-resistant varieties have already been released in South Asian countries (Afghanistan, India, Nepal, Bangladesh and Pakistan), and seed dissemination is underway. The Ug99 risk in the region can be reduced to minimum levels by identifying, releasing and providing seed of high-yielding and resistant cultivars.</dc:description>
+  <dc:date>2013-11-25T02:37:35Z</dc:date>
+  <dc:date>2013-11-25T02:37:35Z</dc:date>
+  <dc:pubDate>2013</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0931-1785</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/3276</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://onlinelibrary.wiley.com/doi/10.1111/jph.12070/abstract</dc:publisher>
+  <dc:geotag>Yemen</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/69543</dc:geonames>
+  <dc:geotag>Sudan</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/366755</dc:geonames>
+  <dc:geotag>Asia</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255147</dc:geonames>
+  <dc:geotag>Iran</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/130758</dc:geonames>
+  <dc:geotag>Africa</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255146</dc:geonames>
+  <dc:geotag>Asia</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255147</dc:geonames>
+  <dc:geotag>Kenya</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/192950</dc:geonames>
+  <dc:geotag>Ethiopia</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/337996</dc:geonames>
+  <dc:geotag>Afghanistan</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1149361</dc:geonames>
+  <dc:geotag>Afghanistan</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1149361</dc:geonames>
+  <dc:geotag>India</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1269750</dc:geonames>
+  <dc:geotag>Nepal</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1282988</dc:geonames>
+  <dc:geotag>Bangladesh</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1210997</dc:geonames>
+  <dc:geotag>Pakistan</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1168579</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3276</dc:cdocid>
+  <dc:apiid>10883_3276</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:09Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

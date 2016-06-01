@@ -1,0 +1,43 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Yield stability of stem borer resistant maize hybrids evaluated in regional trials in east Africa</dc:title>
+  <dc:creator>Beyene, Y.</dc:creator>
+  <dc:creator>Mugo, S.</dc:creator>
+  <dc:creator>Tadele Tefera</dc:creator>
+  <dc:creator>Gethi, J.</dc:creator>
+  <dc:creator>Gakunga, J.</dc:creator>
+  <dc:creator>Ajanga, S.</dc:creator>
+  <dc:creator>Karaya, H.</dc:creator>
+  <dc:creator>Musila, R.</dc:creator>
+  <dc:creator>Muasya, W.</dc:creator>
+  <dc:creator>Tende, R.</dc:creator>
+  <dc:creator>Njoka, S.</dc:creator>
+  <dc:subject>G x E interaction</dc:subject>
+  <dc:subject>genotype plus genotype x environment (GGE) biplot</dc:subject>
+  <dc:subject>stem borer resistance</dc:subject>
+  <dc:subject>Yield stability</dc:subject>
+  <dc:description>Twenty-seven stem borer-resistant maize hybrids and three checks were evaluated in 14 locations in Kenya and Ethiopia to study the genotype x environment interaction (GEI) and yield stability. An analysis of variance was conducted for grain yield, number of days to silking, plant height, ear height and grain moisture content, and reaction to turcicum leaf blight, gray leaf spot, maize streak virus diseases and common rust. The yield stability and adaptation pattern of genotypes were examined with genotype plus genotype x environment (GGE) interaction biplot. Variations due to location, genotype and GEI effects were highly significant for all traits. Location variance among the hybrids was the most important source of variation for all traits, accounting for 58 to 90% of the total variance. The genotypic variance was higher than the GEI variance for turcicum leaf blight, plant height and silking date. The GEI variance was higher than the genotypic variance for grain yield, ear height, gray leaf spot, common rust and grain moisture content. The GGE biplot showed that 50% of the entries had positive PC1 scores suggesting above average performance, and 50% of them had negative PC1 scores indicating below average performance. Based on the mean grain yield and stability parameters, hybrid CKIR07003 (5.5 t/ha), CKIR07004 (5.5 t/ha) and CKIR07005 (5.6 t /ha) were identified as high-yielding and stable genotypes, and could be nominated for national performance trials for commercial release in various countries.</dc:description>
+  <dc:date>2013-06-30T05:24:44Z</dc:date>
+  <dc:date>2013-06-30T05:24:44Z</dc:date>
+  <dc:pubDate>2012</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:identifier>No</dc:identifier>
+  <dc:issn>1996-0824</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/3156</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:geotag>Africa</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/6255146</dc:geonames>
+  <dc:geotag>Kenya</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/192950</dc:geonames>
+  <dc:geotag>Ethiopia</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/337996</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3156</dc:cdocid>
+  <dc:apiid>10883_3156</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:52Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

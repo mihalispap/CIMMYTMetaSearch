@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>SI-R Codes for Computing Selection Indices in R</dc:title>
+  <dc:identifier>http://hdl.handle.net/11529/10352</dc:identifier>
+  <dc:creator>Alvarado, Gregorio</dc:creator>
+  <dc:creator>Cerón, Jesús</dc:creator>
+  <dc:publisher>International Maize and Wheat Improvement Center</dc:publisher>
+  <dc:pubDate>2015-08-14</dc:pubDate>
+  <dc:subject>SELECTION INDEX</dc:subject>
+  <dc:subject>SMITH INDEX</dc:subject>
+  <dc:subject>ESIM INDEX</dc:subject>
+  <dc:subject>R-project</dc:subject>
+  <dc:description>SI is a collection of R codes to compute several selection indices. It comes together a powerpoint explanation of the indices and one example.</dc:description>
+  <dc:citation>Alvarado, Gregorio; Cerón, Jesús, 2015-08-14, "SI-R Codes for Computing Selection Indices in R", http://hdl.handle.net/11529/10352 nternational Maize and Wheat Improvement Center [Distributor] V3 [Version]</dc:citation>
+  <dc:rights>For further information, please contact CIMMYT at CIMMYT-Knowledge-Center@cgiar.org or at Km. 45 Carretera Mexico-Veracruz, El Batán, Texcoco, Estado de México, México, C.P. 56237.</dc:rights>
+  <dc:rights>&lt;p&gt;
+Copyright © 2015 Centro Internacional de Mejoramiento de Maíz y Trigo (CIMMYT).
+&lt;/p&gt;
+&lt;p&gt;
+These codes are free; you can redistribute them and/or modify them&lt;/p&gt;
+&lt;p&gt;
+These codes are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;</dc:rights>
+  <dc:domainid>11529</dc:domainid>
+  <dc:cdocid>10352</dc:cdocid>
+  <dc:apiid>11529_10352</dc:apiid>
+  <dc:cset>1</dc:cset>
+  <dc:setid>1926639749</dc:setid>
+  <dc:updated_date>2016-05-03T08:00:01Z</dc:updated_date>
+  <dc:handler>http://data.cimmyt.org/dvn/OAIHandler</dc:handler>
+</oai_dc:dc>

@@ -1,0 +1,42 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Genomic prediction in maize breeding populations with genotyping-by sequencing</dc:title>
+  <dc:creator>Crossa, J.</dc:creator>
+  <dc:creator>Beyene, Y.</dc:creator>
+  <dc:creator>Fentaye Kassa Semagn</dc:creator>
+  <dc:creator>Perez, P.</dc:creator>
+  <dc:creator>Hickey, J.M.</dc:creator>
+  <dc:creator>Chen Charles</dc:creator>
+  <dc:creator>Campos, G. de los</dc:creator>
+  <dc:creator>Burgueño, J.</dc:creator>
+  <dc:creator>Windhausen, V.S.</dc:creator>
+  <dc:creator>Buckler, E.</dc:creator>
+  <dc:creator>Jannink, J.L.</dc:creator>
+  <dc:creator>Lopez Cruz, M.A.</dc:creator>
+  <dc:creator>Babu, R.</dc:creator>
+  <dc:subject>GBLUP</dc:subject>
+  <dc:subject>GenPred</dc:subject>
+  <dc:subject>RKHS</dc:subject>
+  <dc:subject>Genomic selection</dc:subject>
+  <dc:subject>Genotyping by sequencing</dc:subject>
+  <dc:subject>imputation</dc:subject>
+  <dc:subject>shared data resources</dc:subject>
+  <dc:description>Genotyping-by-sequencing (GBS) technologies have proven capacity for delivering large numbers of marker genotypes with potentially less ascertainment bias than standard single nucleotide polymorphism (SNP) arrays. Therefore, GBS has become an attractive alternative technology for genomic selection. However, the use of GBS data poses important challenges, and the accuracy of genomic prediction using GBS is currently undergoing investigation in several crops, including maize, wheat, and cassava. The main objective of this study was to evaluate various methods for incorporating GBS information and compare them with pedigree models for predicting genetic values of lines from two maize populations evaluated for different traits measured in different environments (experiments 1 and 2). Given that GBS data come with a large percentage of uncalled genotypes, we evaluated methods using nonimputed, imputed, and GBS-inferred haplotypes of different lengths (short or long). GBS and pedigree data were incorporated into statistical models using either the genomic best linear unbiased predictors (GBLUP) or the reproducing kernel Hilbert spaces (RKHS) regressions, and prediction accuracy was quantified using cross-validation methods. The following results were found: relative to pedigree or marker-only models, there were consistent gains in prediction accuracy by combining pedigree and GBS data; there was increased predictive ability when using imputed or nonimputed GBS data over inferred haplotype in experiment 1, or nonimputed GBS and information-based imputed short and long haplotypes, as compared to the other methods in experiment 2; the level of prediction accuracy achieved using GBS data in experiment 2 is comparable to those reported by previous authors who analyzed this data set using SNP arrays; and GBLUP and RKHS models with pedigree with nonimputed and imputed GBS data provided the best prediction correlations for the three traits in experiment 1, whereas for experiment 2 RKHS provided slightly better prediction than GBLUP for drought-stressed environments, and both models provided similar predictions in well-watered environments.</dc:description>
+  <dc:date>2014-03-05T17:59:55Z</dc:date>
+  <dc:date>2014-03-05T17:59:55Z</dc:date>
+  <dc:pubDate>2013</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>2160-1836</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/3440</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3815055/</dc:publisher>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3440</dc:cdocid>
+  <dc:apiid>10883_3440</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:50Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

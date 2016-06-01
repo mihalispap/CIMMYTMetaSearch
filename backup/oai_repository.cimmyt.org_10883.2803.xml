@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cloning and phylogenetic analysis of low-molecular-weight glutenin subunit genes at Glu-B3 locus in common wheat relative species</dc:title>
+  <dc:creator>Wang Lin-Hai</dc:creator>
+  <dc:creator>Zhou Min</dc:creator>
+  <dc:creator>Li Hui-Ling</dc:creator>
+  <dc:creator>He Zhonghu</dc:creator>
+  <dc:creator>Xia Xian-Chun</dc:creator>
+  <dc:subject>Triticum aestivum L.</dc:subject>
+  <dc:subject>wheat related species</dc:subject>
+  <dc:subject>LMW-GS</dc:subject>
+  <dc:subject>Glu-B3</dc:subject>
+  <dc:subject>Phylogenetics</dc:subject>
+  <dc:description>The common wheat relative species are important germplasm for wheat breeding. In the present study, novel allelic variants at Glu-B3 locus were cloned to provide gene resources for wheat quality improvement. Four Glu-B3-locus specific primer sets LB1F/LB1R, LB2F/LB2R, LB3F/LB3R, and LB4F/LB4R were employed to isolate novel allelic variants of GluB3-1, GluB3-2, GluB3-3, and GluB3-4 from seven common wheat relative species, i.e., T. durum, T. dicoccum, T. dicoccoides, Aegilops longissima, Ae. searsii, Ae. Bicornis, and Ae. speltoides, and the software MEGA 4 was used to construct a phylogenetic tree. In total, 16 novel allelic variants of GluB3-1, GluB3-3, and GluB3-4 genes were isolated from the seven common wheat relative species, designated GluB3-16, GluB3-35, GluB3-36, GluB3-37, GluB3-46, GluB3-47, GluB3-48, GluB3-49, GluB3-410, GluB3-411, GluB3-412, GluB3-413, GluB3-414, GluB3-415, GluB3-416 and GluB3-417, respectively. In detail, GluB3-16 was cloned from T. dicoccoides with LB1F/LB1R, and the molecular weight of the deduced amino acid was 39.2 kDa. GluB3-35, GluB3-36, and GluB3-37 were isolated from T. durum and T. dicoccum with the primer set LB3F/LB3R, and the molecular weights of their deduced peptides were 44.5 kDa (GluB3-36) and 44.6 kDa (GluB3-35 and GluB3-37). The molecular weight of deduced peptides of GluB3-4 ranged from 38.6 kDa (GluB3-414) to 42.5 kDa (GluB3-413). All the 16 new allelic variants showed a single open reading frame (ORF), and their deduced amino-acid sequences had a typical sequence structure of LMW-GS. The allelic variants at Glu-B3 locus identified in common wheat relative species provide potential gene resources for wheat quality breeding and gene transformation. The results suggested that these Glu-B3 genes originated from different evolution processes.</dc:description>
+  <dc:date>2013-06-07T21:12:38Z</dc:date>
+  <dc:date>2013-06-07T21:12:38Z</dc:date>
+  <dc:pubDate>2010</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0253-9772</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/2803</dc:identifier>
+  <dc:language>zho</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>2803</dc:cdocid>
+  <dc:apiid>10883_2803</dc:apiid>
+  <dc:lexvo>http://lexvo.org/id/iso639-3/zho</dc:lexvo>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_8</dc:cset>
+  <dc:setid>403613917</dc:setid>
+  <dc:updated_date>2016-01-22T23:06:06Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

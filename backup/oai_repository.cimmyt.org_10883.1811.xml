@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Genetic analysis and characterization of a new maize association mapping panel for quantitative trait loci dissection</dc:title>
+  <dc:creator>Yang XiaoHong</dc:creator>
+  <dc:creator>Jianbing Yan</dc:creator>
+  <dc:creator>Shah, T.</dc:creator>
+  <dc:creator>Warburton, M.L.</dc:creator>
+  <dc:creator>Li Qing</dc:creator>
+  <dc:creator>Li Lin</dc:creator>
+  <dc:creator>Gao Yufeng</dc:creator>
+  <dc:creator>Chai Yuchao</dc:creator>
+  <dc:creator>Fu Zhiyuan</dc:creator>
+  <dc:creator>Zhou Yi</dc:creator>
+  <dc:creator>Xu ShuTu</dc:creator>
+  <dc:creator>Bai Guanghong</dc:creator>
+  <dc:creator>Meng Yijiang</dc:creator>
+  <dc:creator>Zheng Yanping</dc:creator>
+  <dc:creator>Li JianSheng</dc:creator>
+  <dc:description>Association mapping based on the linkage disequilibrium provides a promising tool to identify genes responsible for quantitative variations underlying complex traits. Presented here is a maize association mapping panel consisting of 155 inbred lines with mainly temperate germplasm, which was phenotyped for 34 traits and genotyped using 82 SSRs and 1,536 SNPs. Abundant phenotypic and genetic diversities were observed within the panel based on the phenotypic and genotypic analysis. A model-based analysis using 82 SSRs assigned all inbred lines to two groups with eight subgroups. The relative kinship matrix was calculated using 884 SNPs with minor allele frequency C20% indicating that no or weak relationships were identified for most individual pairs. Three traits (total tocopherol content in maize kernel, plant height and kernel length) and 1,414 SNPs with missing data \20% were used to evaluate the performance of four models for association mapping analysis. For all traits, the model controlling relative kinship (K) performed better than the model controlling population structure (Q), and similarly to the model controlling both population structure and relative kinship (Q ? K) in this panel. Our results suggest this maize panel can be used for association mapping analysis targeting multiple agronomic and quality traits with optimal association model.</dc:description>
+  <dc:date>2013-06-07T21:02:42Z</dc:date>
+  <dc:date>2013-06-07T21:02:42Z</dc:date>
+  <dc:pubDate>2010</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0040-5752</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/1811</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>1811</dc:cdocid>
+  <dc:apiid>10883_1811</dc:apiid>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_3</dc:cset>
+  <dc:setid>403613912</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:46Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

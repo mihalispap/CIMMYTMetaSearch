@@ -1,0 +1,50 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Identificacion de razas mexicanas de maiz adaptadas a condiciones deficientes de humedad mediante datos biogeograficos</dc:title>
+  <dc:title>Identification of Mexican maize races adapted to moisture deficient conditions using biogeographical data</dc:title>
+  <dc:creator>Ruiz Corral, J.A</dc:creator>
+  <dc:creator>Sanchez Gonzalez, J. de J.</dc:creator>
+  <dc:creator>Hernandez Casillas, J.M.</dc:creator>
+  <dc:creator>Willcox, M.</dc:creator>
+  <dc:creator>Ramirez Ojeda, G.</dc:creator>
+  <dc:creator>Ramirez Diaz, J.L.</dc:creator>
+  <dc:creator>Gonzalez Eguiarte, D.R.</dc:creator>
+  <dc:subject>adaptacion a sequia</dc:subject>
+  <dc:subject>drought adaptation</dc:subject>
+  <dc:subject>Maize</dc:subject>
+  <dc:subject>races</dc:subject>
+  <dc:subject>Genetic resources</dc:subject>
+  <dc:subject>cambio climatico</dc:subject>
+  <dc:subject>razas de maiz</dc:subject>
+  <dc:subject>Recursos geneticos</dc:subject>
+  <dc:subject>climate change</dc:subject>
+  <dc:description>Se trabajo con una base de datos de accesiones recientes de 54 razas de maiz de Mexico, cuyos datos pasaporte se extrajeron de la Unidad de Recursos Geneticos del Banco de Germoplasma del INIFAP. A partir de las coordenadas geograficas de las accesiones, se hizo una caracterizacion por sitios de accesion, de las condiciones de disponibilidad de humedad del periodo mayo-octubre para el desarrollo del maiz, con base en el sistema de informacion ambiental del INIFAP y el sistema IDRISI Andes. Con estos datos se realizo un analisis estadistico que incluyo analisis de varianza y un analisis de taxonomia numerica (analisis cluster) con la opcion de correlacion de momento producto entre razas. Adicionalmente se realizo un analisis de accesiones por raza para identificar las accesiones que desarrollan bajo ambientes con deficiencia de humedad. Se seleccionaron las accesiones con adaptacion a un ambiente con indice de humedad (IH) (precipitacion/evapotranspiracion potencial) mayo-octubre inferior a 0.5. Los resultados mostraron la identificacion de cinco grupos raciales, de los cuales uno de ellos se destaco por su adaptacion a un IH entre 0.39 y 0.53. Este grupo incluyo las razas Chapalote, Dulcillo del Noroeste, Tuxpeño Norteño, Conico Norteño, Tablilla de Ocho y Gordo. El analisis de accesiones reporto la presencia de maiz en un total de 677 sitios con condiciones de semiaridez en la temporada mayo-octubre. Las 677 accesiones representan a 24 razas. Estos resultados permiten concluir que en Mexico existen recursos geneticos, relacionados con las razas de maiz, los cuales podrian ser de utilidad en los programas de mejoramiento genetico de maiz enfocados a la adaptacion a estres por sequia.</dc:description>
+  <dc:description>We worked with a database of recent accessions of 54 races of maize from Mexico, whose passport details were extracted from the Genetic Resource Unit from INIFAP´s Germplasm Bank. From the geographical coordinates of the accessions, was made an accession characterization by site, conditions of moisture availability for the period from May to October for the development of maize, based on the environmental information system from INIFAP and the IDRISI Andes system. With these data, a statistical analysis was made that included an analysis f variance and analysis of numerical taxonomy (cluster analysis) with the product moment correlation between races. Additionally was performed an accessions analysis by race to identify the accessions that developed under moisture-deficient environments. Accessions were selected with adaptation to an environment with humidity index (IH) (precipitation / potential evapotranspiration) from May to October less than 0.5. The results showed the identification of five racial groups, of which one of them stood out for its adaptation to an HI between 0.39 and 0.53. This group included Chapalote, Dulcillo Northwest, Tuxpeño Norteño, Conical Norteño, Tablilla of Ocho and Gordo races. Accessions analysis reported the presence of maize in a total of 677 sites with semi-arid conditions in the May-October season. The 677 accessions represent 24 races. These results suggest that in Mexico there are genetic resources, related to the races of maize, which could be useful in breeding programs aimed to maize adaptation to drought stress.</dc:description>
+  <dc:date>2013-11-24T18:23:50Z</dc:date>
+  <dc:date>2013-11-24T18:23:50Z</dc:date>
+  <dc:pubDate>2013</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>2007-0934</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/3268</dc:identifier>
+  <dc:language>English</dc:language>
+  <dc:language>spa</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://www.revistasinifap.org.mx/index.php/Agricolas/article/view/2809/2355</dc:publisher>
+  <dc:geotag>Mexico</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3996063</dc:geonames>
+  <dc:geotag>Mexico</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3996063</dc:geonames>
+  <dc:geotag>Mexico</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3996063</dc:geonames>
+  <dc:geotag>Mexico</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3996063</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3268</dc:cdocid>
+  <dc:apiid>10883_3268</dc:apiid>
+  <dc:lexvo>http://lexvo.org/id/iso639-3/spa</dc:lexvo>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:50Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>

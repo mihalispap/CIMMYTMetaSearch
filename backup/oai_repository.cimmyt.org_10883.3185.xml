@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Microsatellite marker-based diversity and population genetic analysis of selected lowland and mid-altitude maize landrace accessions of India</dc:title>
+  <dc:creator>Wasala, S.K.</dc:creator>
+  <dc:creator>Prasanna, B.M.</dc:creator>
+  <dc:subject>Genetic diversity</dc:subject>
+  <dc:subject>India</dc:subject>
+  <dc:subject>landraces</dc:subject>
+  <dc:subject>Population structure</dc:subject>
+  <dc:subject>Zea mays L</dc:subject>
+  <dc:description>Maize (Zea mays L.) harbours significant genetic diversity not only in its centre of origin (Mexico) but also in several countries worldwide, including India, in the form of landraces. In this study, DNA fingerprinting of 48 landrace accessions from diverse regions of India was undertaken using 42 fluorescent dye-labeled Simple Sequence Repeat (SSR) markers, followed by allele resolution using DNA sequencer and analysis of molecular diversity within and among these landraces. The study revealed a large number of alleles (550), with high mean number of alleles per locus (13.1), and Polymorphism Information Content (PIC) of 0.60, reflecting the level of diversity in the landrace accessions. Besides identification of 174 unique alleles in 44 accessions, six highly frequent SSR alleles were detected at six loci (phi014, phi090, phi112, umc1367, phi062 and umc1266) with individual frequencies greater than 0.75, indicating that chromosomal regions harboring these SSR alleles are not selectively neutral. F statistics revealed very high genetic differentiation, population subdivision and varying levels of inbreeding in the landraces. Analysis of Molecular Variance showed that 63 % of the total variation in the accessions could be attributed to within-population diversity, and 37 % represented between population diversity. Cluster analysis of SSR data using Nei?s genetic distance and UPGMA revealed considerable genetic diversity in these populations, although no clear separation of accessions was observed based on their geographic origin.</dc:description>
+  <dc:date>2013-06-30T05:24:48Z</dc:date>
+  <dc:date>2013-06-30T05:24:48Z</dc:date>
+  <dc:pubDate>2012</dc:pubDate>
+  <dc:type>Journal article</dc:type>
+  <dc:issn>0971-7811</dc:issn>
+  <dc:identifier>http://hdl.handle.net/10883/3185</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:rights>CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the sutable license for that purpose.</dc:rights>
+  <dc:publisher>http://link.springer.com/article/10.1007%2Fs13562-012-0167-5?LI=true</dc:publisher>
+  <dc:geotag>India</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1269750</dc:geonames>
+  <dc:geotag>India</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1269750</dc:geonames>
+  <dc:geotag>Mexico</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/3996063</dc:geonames>
+  <dc:geotag>India</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1269750</dc:geonames>
+  <dc:geotag>India</dc:geotag>
+  <dc:geonames>http://sws.geonames.org/1269750</dc:geonames>
+  <dc:domainid>10883</dc:domainid>
+  <dc:cdocid>3185</dc:cdocid>
+  <dc:apiid>10883_3185</dc:apiid>
+  <dc:lexvo>http://lexvo.org/id/iso639-3/eng</dc:lexvo>
+  <dc:cset>com_10883_1</dc:cset>
+  <dc:setid>1403840553</dc:setid>
+  <dc:cset>col_10883_5</dc:cset>
+  <dc:setid>403613914</dc:setid>
+  <dc:updated_date>2016-01-22T23:05:52Z</dc:updated_date>
+  <dc:handler>http://repository.cimmyt.org/oai/request</dc:handler>
+</oai_dc:dc>
