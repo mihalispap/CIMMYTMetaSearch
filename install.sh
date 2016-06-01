@@ -39,5 +39,7 @@ echo "Starting service.."
 echo "Elasticsearch service started, if no errors are present there is a working interface: http://localhost:9201/_plugin/head"
 
 echo "Creating elasticsearch index..."
+	cd index
 	./create_index.sh
+	cd ../
 echo "Creation complete"
