@@ -50,14 +50,22 @@ java -classpath ".:../lib/*" -Xss64M -Xmx2048M com.agroknow.cimmyt.Enrich ../../
 
 echo "Enrichment process complete"
 
+cd ../../
 
+echo "Conversion to json initialize"
+cd 2jsontransformer/bin
+java -classpath ".:../lib/*" -Xss64M -Xmx2048M Transformer ../../enriched ../../index/json
+echo "Conversion complete"
 
+echo "Indexing process initialization"
+cd ../../index
+./index_all.sh
+cd ../
+echo "Indexing complete!"
 
-
-
-
-
-
+rm toenrich/*.xml
+rm enriched/*.xml
+rm index/json/*.json
 
 
 current_timestamp=$(date +%s)
