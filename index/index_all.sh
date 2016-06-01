@@ -8,3 +8,4 @@ do
 	sed -i 's/"date": 1\(.*\),/"date": "1\1",/g' $f
 	./index_json.sh $f
 done
+rm tmp
