@@ -2,6 +2,8 @@ harvester/*
 enricher/*
 2jsontransformer/*
 internaltransformer/*
+data/*/*
+backup/*.xml
 data/DVN/*.xml
 data/DSPC/*.xml
 index/json/*.json
