@@ -2,6 +2,8 @@
 
 timestamp=$(date +%s)
 
+mkdir tmp
+
 cd config/
 filename="oai.targets"
 
@@ -18,7 +20,7 @@ do
 	mkdir ${arr[1]}
 
 	cd ../harvester/bin
-	java -classpath ".:../lib/*" -Xss64M -Xmx2048M gr.agroknow.cimmyt.HarvestManager ${arr[0]} ../../data/${arr[1]} "oai_dc"
+	java -classpath ".:../lib/*" -Xss64M -Xmx2048M gr.agroknow.cimmyt.HarvestManager ${arr[0]} ../../data/${arr[1]} "oai_dc" >> ../../tmp/output.log
 
 	#echo ${arr[0]}
 	cd ../../config
@@ -26,6 +28,8 @@ done < "$filename"
 
 echo "---------------------------"
 echo "Harvesting process complete"
+
+#exit
 
 echo "Initializing internal transformation process"
 cd ../data
@@ -46,7 +50,7 @@ echo "Starting enrichment process"
 echo "---------------------------"
 
 cd enricher/bin
-java -classpath ".:../lib/*" -Xss64M -Xmx2048M com.agroknow.cimmyt.Enrich ../../toenrich ../../enriched
+java -classpath ".:../lib/*" -Xss64M -Xmx2048M com.agroknow.cimmyt.Enrich ../../toenrich ../../enriched > ../../tmp/enricher.log
 
 echo "Enrichment process complete"
 
@@ -59,14 +63,20 @@ echo "Conversion complete"
 
 echo "Indexing process initialization"
 cd ../../index
-./index_all.sh
+./index_all.sh > ../tmp/indexer.log
 cd ../
 echo "Indexing complete!"
+
+current_timestamp=$(date +%s)
+cd notify
+./sendmail.sh ${current_timestamp}
+cd ..
+
 
 rm toenrich/*.xml
 rm enriched/*.xml
 rm index/json/*.json
-
+rm -r tmp
 
 current_timestamp=$(date +%s)
 let "diff_time=${current_timestamp}-${timestamp}"

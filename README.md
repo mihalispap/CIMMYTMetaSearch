@@ -10,6 +10,11 @@ You may follow the process described in install.sh.
 You can download elasticsearch rpm from [the website of elasticsearch](https://download.elastic.co/elasticsearch/elasticsearch/elasticsearch-1.5.2.noarch.rpm)
 The rest of the process is pretty straight forward.
 
+After the installation process is complete, one should deploy the war file of
+the api at the webapps folder of tomcat. 
+In the default case that is: */var/lib/tomcat{version}/webapps so a simple:
+**sudo cp webapp/cimmyt.war /var/lib/tomcat7/webapps** should do.
+
 ### Execution as a Cron Job
 
 The module is designed to work in an automated manner without the need for human interaction.
