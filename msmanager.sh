@@ -68,8 +68,9 @@ cd ../
 echo "Indexing complete!"
 
 current_timestamp=$(date +%s)
+let "diff_time=${current_timestamp}-${timestamp}"
 cd notify
-./sendmail.sh ${current_timestamp}
+./sendmail.sh ${diff_time}
 cd ..
 
 
