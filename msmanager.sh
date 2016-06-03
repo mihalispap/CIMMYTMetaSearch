@@ -44,6 +44,7 @@ done
 echo "Transformation complete"
 
 cd ../
+mkdir toenrich
 mv internaltransformer/output/*.xml toenrich
 
 echo "Starting enrichment process"

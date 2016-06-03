@@ -31,10 +31,10 @@ at *{harvester,enricher}/resources/config.properties*. One can activate or deact
 performed on the processed resources this way, by setting 1 or 0 to the equivalent values respectively.
 
 **OAI-PMH** targets are configured through config/oai.targets file. The format of this file is: 
-*<url_of_the_oai>\t<custom_id>*. This way one can add/remove oai targets. Of course if new oai targets 
+*url_of_the_oai\tcustom_id*. This way one can add/remove oai targets. Of course if new oai targets 
 are added, in order for the self enrichments to take place, additions should be made to the source code 
 of the respective java project. 
 
-The MetaSearchModule comes with notification capabilities. This is embeded in the supplied scripts and can be 
+The MetaSearchModule comes with **notification capabilities**. This is embeded in the supplied scripts and can be 
 further customized through the config file in *config/mail.accounts*. The format of this file is the following: 
-*<email_account>\n*.
+*email_account\n*.
