@@ -3,6 +3,7 @@
 timestamp=$(date +%s)
 
 mkdir tmp
+mkdir backup
 
 cd config/
 filename="oai.targets"
