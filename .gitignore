@@ -9,3 +9,4 @@ data/DSPC/*.xml
 index/json/*.json
 toenrich/*.xml
 enriched/*.xml
+tmp/*

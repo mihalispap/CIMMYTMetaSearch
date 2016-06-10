@@ -51,8 +51,10 @@ mv internaltransformer/output/*.xml toenrich
 echo "Starting enrichment process"
 echo "---------------------------"
 
-cd enricher/bin
-java -classpath ".:../lib/*" -Xss64M -Xmx2048M com.agroknow.cimmyt.Enrich ../../toenrich ../../enriched > ../../tmp/enricher.log
+./enrich.sh
+
+#cd enricher/bin
+#java -classpath ".:../lib/*" -Xss64M -Xmx2048M com.agroknow.cimmyt.Enrich ../../toenrich ../../enriched > ../../tmp/enricher.log
 
 echo "Enrichment process complete"
 
