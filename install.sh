@@ -41,5 +41,6 @@ echo "Elasticsearch service started, if no errors are present there is a working
 echo "Creating elasticsearch index..."
 	cd index
 	./create_index.sh
+	mkdir json
 	cd ../
 echo "Creation complete"

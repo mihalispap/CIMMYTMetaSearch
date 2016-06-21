@@ -34,8 +34,17 @@ do
 	mail_message="${mail_message}--------------------"'\n'"New entities indexed:"${index_new}'\n'"Updated entities:"${index_prev}
 	mail_message="${mail_message}"'\n\n\n'"Total time elapsed:"$1"secs"
 
-
 	sendemail -f cimmyt.api@agroknow.com -t ${line} -u "CIMMYT MetaSearch Module Execution" -m "${mail_message}" -s smtp.agroknow.com:587 -xu cimmyt.api@agroknow.com -xp 181MuRNE -o tls=no
+
+	smail=$?
+	if [ $smail -ne 0 ];
+	then
+		sendemail -f cimmyt.api@agroknow.com -t ${line} -u "CIMMYT MetaSearch Module Execution: Harvester Info" -m "${general_info}" -s smtp.agroknow.com:587 -xu cimmyt.api@agroknow.com -xp 181MuRNE -o tls=no
+		sendemail -f cimmyt.api@agroknow.com -t ${line} -u "CIMMYT MetaSearch Module Execution: Enricher Info" -m "${enrich_info}" -s smtp.agroknow.com:587 -xu cimmyt.api@agroknow.com -xp 181MuRNE -o tls=no
+		mail_message="--------------------"'\n'"New entities indexed:"${index_new}'\n'"Updated entities:"${index_prev}
+		sendemail -f cimmyt.api@agroknow.com -t ${line} -u "CIMMYT MetaSearch Module Execution: Indexer Info" -m "New entities indexed:"${index_new}'\n'"Updated entities:"${index_prev} -s smtp.agroknow.com:587 -xu cimmyt.api@agroknow.com -xp 181MuRNE -o tls=no
+	fi
+	echo $?
 
 done < "$filename"
 

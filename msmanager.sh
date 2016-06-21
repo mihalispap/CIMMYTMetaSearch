@@ -58,7 +58,7 @@ echo "---------------------------"
 
 echo "Enrichment process complete"
 
-cd ../../
+#cd ../../
 
 echo "Conversion to json initialize"
 cd 2jsontransformer/bin

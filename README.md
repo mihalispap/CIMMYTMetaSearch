@@ -39,7 +39,7 @@ The MetaSearchModule comes with **notification capabilities**. This is embeded i
 further customized through the config file in *config/mail.accounts*. The format of this file is the following: 
 *email_account\n*.
 
-Special care should be taken into configuring *Elasticsearch heap size*. This can be done by exporting an environment
+Special care should be taken into configuring **Elasticsearch heap size**. This can be done by exporting an environment
  variable ES_HEAP_SIZE, by issuing *export ES_HEAP_SIZE=XXg*. Along with this configuration, one should also pay 
 attention to the maximum allowed memory for the java projects. This can be configured through the equivalent parameter 
 given at both *msmanager* and *enrich* scripts.
