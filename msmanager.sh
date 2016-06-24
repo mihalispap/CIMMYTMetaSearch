@@ -77,11 +77,12 @@ cd notify
 ./sendmail.sh ${diff_time}
 cd ..
 
+./cleanse.sh
 
-rm toenrich/*.xml
-rm enriched/*.xml
-rm index/json/*.json
-rm -r tmp
+#rm toenrich/*.xml
+#rm enriched/*.xml
+#rm index/json/*.json
+#rm -r tmp
 
 current_timestamp=$(date +%s)
 let "diff_time=${current_timestamp}-${timestamp}"
