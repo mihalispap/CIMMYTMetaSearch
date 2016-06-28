@@ -21,7 +21,7 @@ do
 	mkdir ${arr[1]}
 
 	cd ../harvester/bin
-	java -classpath ".:../lib/*" -Xss64M -Xmx2048M gr.agroknow.cimmyt.HarvestManager ${arr[0]} ../../data/${arr[1]} "oai_dc" >> ../../tmp/output.log
+	java -classpath ".:../lib/*" -Xss64M -Xmx512M gr.agroknow.cimmyt.HarvestManager ${arr[0]} ../../data/${arr[1]} "oai_dc" >> ../../tmp/output.log
 
 	#echo ${arr[0]}
 	cd ../../config
@@ -62,7 +62,7 @@ echo "Enrichment process complete"
 
 echo "Conversion to json initialize"
 cd 2jsontransformer/bin
-java -classpath ".:../lib/*" -Xss64M -Xmx2048M Transformer ../../enriched ../../index/json
+java -classpath ".:../lib/*" -Xss64M -Xmx512M Transformer ../../enriched ../../index/json
 echo "Conversion complete"
 
 echo "Indexing process initialization"

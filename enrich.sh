@@ -24,7 +24,7 @@ do
 
 	#exit
 	cd enricher/bin
-	java -classpath ".:../lib/*" -Xss64M -Xmx512M com.agroknow.cimmyt.Enrich ../../toenrich ../../enriched >> ../../tmp/enricher.log
+	java -classpath ".:../lib/*" -Xss64M -Xmx256M com.agroknow.cimmyt.Enrich ../../toenrich ../../enriched >> ../../tmp/enricher.log
 	echo "Ended\n-----------------"
 	cd ../../
 	enriched="$(cat tmp/enricher.log | grep 'Record' | wc -l)"
