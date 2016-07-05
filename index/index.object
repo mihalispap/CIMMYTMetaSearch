@@ -17,7 +17,20 @@
 		},
 		"number_of_replicas": "0","index.mapping.ignore_malformed": true,
 
-		"analysis":{
+		"analysis":
+		{
+                        "char_filter":
+                        { 
+                                "comma_stop_removal":
+                                { 
+                                        "type": "mapping",
+                                        "mappings":
+                                        [ 
+                                                ", => ",
+                                                ". => "
+                                        ]
+                                }
+                        },
 			"analyzer":
 			{
 				"lowercasespaceanalyzer":
@@ -26,6 +39,24 @@
 					"tokenizer": "whitespace",
 
 					"filter":["lowercase"]
+				},
+				"remove_comma_stop":
+				{
+					"tokenizer": "standard",
+					"char_filter": ["comma_stop_removal"]
+				},
+				"ngram_3_15_analyzer":
+				{
+					"tokenizer": "ngram_3_15_tokenizer"
+				}
+			},
+			"tokenizer":
+			{
+				"ngram_3_15_tokenizer":
+				{
+					"type": "nGram",
+					"min_gram": "3",
+					"max_gram": "15"
 				}
 			}
 		}
@@ -56,7 +87,24 @@
 				"created": {"format":"dateOptionalTime","type":"date","ignore_malformed":true},
 				"subject":
 				{
-					"properties":{"vocabulary":{"type":"string"},"score":{"type":"double"},"value":{"type":"string","index":"not_analyzed"},"uri":{"type":"string"}}
+					"properties":
+					{
+						"vocabulary":{"type":"string"},
+						"score":{"type":"double"},
+						"value":
+                                                {
+                                                        "type":"string",
+                                                        "fields":
+                                                        {
+                                                                "raw":
+                                                                {
+                                                                        "type":"string",
+                                                                        "index":"not_analyzed"
+                                                                }
+                                                        }
+                                                },
+						"uri":{"type":"string"}
+					}
 				},
 				"language":
 				{
@@ -147,13 +195,39 @@
 			"_parent":{"type":"object"},
 			"properties":
 			{
-				"type":{"type":"string","index":"not_analyzed"},
+				"type":
+				{
+					"type":"string",
+					"fields":
+                         		{
+                                        	"raw":
+                                                {
+                                                	"type":"string",
+                                                        "index":"not_analyzed"
+                                                }
+                                        }
+				},
 				"appid":{"type":"string"},
 				"appuri":{"type":"string"},
 				"creator":
 				{
 					"properties":
-					{"value":{"type":"string","index":"not_analyzed"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}
+					{
+						"value":
+						{
+							"type":"string",
+							"fields":
+							{
+								"raw":
+								{
+									"type":"string",
+									"index":"not_analyzed"
+								}
+							}
+						},
+						"id":{"type":"string"},"type":{"type":"string"},
+						"uri":{"type":"string"}
+					}
 				},
 				"contributor":{"properties":{"value":{"type":"string","index":"not_analyzed"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
 				"publisher":{"properties":{"value":{"type":"string","index":"not_analyzed"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
@@ -167,12 +241,42 @@
 				"issn":{"type":"string"},
 				"isbn":{"type":"string"},
 				"url":{"properties":{"value":{"type":"string"},"broken":{"type":"boolean"}}},
-				"location":{"properties":{"value":{"type":"string","index":"not_analyzed"},"uri":{"type":"string"},"vocabulary":{"type":"string"}}},
+				"location":
+				{
+					"properties":
+					{
+						"value":
+                                                {
+                                                        "type":"string",
+                                                        "fields":
+                                                        {
+                                                                "raw":
+                                                                {
+                                                                        "type":"string",
+                                                                        "index":"not_analyzed"
+                                                                }
+                                                        }
+                                                },
+						"uri":{"type":"string"},
+						"vocabulary":{"type":"string"}
+					}
+				},
 				"coverage":{"type":"string"},
 				"place":{"type":"string"},
 				"page":{"type":"string"},
 				"extent":{"type":"string"},
-				"relation":{"type":"string","index":"not_analyzed"},
+				"relation":
+				{
+					"type":"string",
+					"fields":
+                                        {
+                                        	"raw":
+                                                {
+                                                	"type":"string",
+                                                        "index":"not_analyzed"
+                                                }
+                                      	}
+				},
 				"rights":{"type":"string"},
 				"citation":{"type":"string"},
 				"doi":{"type":"string"},
@@ -227,11 +331,40 @@
 			"_parent":{"type":"object"},
 			"properties":
 			{
-				"type":{"type":"string","index":"not_analyzed"},
+				"type":
+				{
+					"type":"string",
+					"fields":
+                                        {
+                                                "raw":
+                                                {
+                                                        "type":"string",
+                                                        "index":"not_analyzed"
+                                                }
+                                        }
+				},
 				"appid":{"type":"string"},
 				"appuri":{"type":"string"},
 				"creator":
-                                {"properties":{"value":{"type":"string","index":"not_analyzed"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
+                                {
+					"properties":
+					{
+						"value":
+                                                {
+                                                        "type":"string",
+                                                        "fields":
+                                                        {
+                                                                "raw":
+                                                                {
+                                                                        "type":"string",
+                                                                        "index":"not_analyzed"
+                                                                }
+                                                        }
+                                                },
+						"id":{"type":"string"},"type":{"type":"string"},
+						"uri":{"type":"string"}
+					}
+				},
 				"publisher":
                                 {"properties":{"value":{"type":"string","index":"not_analyzed"},"id":{"type":"string"},"type":{"type":"string"},"uri":{"type":"string"}}},
 				"url":
@@ -241,14 +374,36 @@
 					
 					"properties":
 					{
-						"value":{"type":"string","index":"not_analyzed"},
+						"value":
+                                                {
+                                                        "type":"string",
+                                                        "fields":
+                                                        {
+                                                                "raw":
+                                                                {
+                                                                        "type":"string",
+                                                                        "index":"not_analyzed"
+                                                                }
+                                                        }
+                                                },
 						"uri":{"type":"string"},
 						"vocabulary":{"type":"string"}
 					}
 				},
 				"date":{"format":"dateOptionalTime","type":"date","ignore_malformed":true},
                                 "coverage":{"type":"string"},
-                                "relation":{"type":"string","index":"not_analyzed"},
+                                "relation":
+				{
+					"type":"string",
+					"fields":
+                                        {
+                                                "raw":
+                                                {
+                                                        "type":"string",
+                                                        "index":"not_analyzed"
+                                                }
+                                        }
+				},
                                 "rights":{"type":"string"},
                                 "citation":{"type":"string"},
 				"kindOfData":{"type":"string"},
