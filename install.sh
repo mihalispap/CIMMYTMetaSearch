@@ -44,3 +44,5 @@ echo "Creating elasticsearch index..."
 	mkdir json
 	cd ../
 echo "Creation complete"
+
+mkdir logs

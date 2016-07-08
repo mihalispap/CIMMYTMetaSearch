@@ -2,6 +2,7 @@
 
 timestamp=$(date +%s)
 
+mkdir logs
 mkdir tmp
 mkdir backup
 mkdir data
