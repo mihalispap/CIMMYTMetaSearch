@@ -10,3 +10,5 @@ index/json/*.json
 toenrich/*.xml
 enriched/*.xml
 tmp/*
+*kibana*
+*kibana*/*
