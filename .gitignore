@@ -12,5 +12,5 @@ enriched/*.xml
 tmp/*
 *kibana*
 *kibana*/*
-*install_bonus*.sh
-*bonus_conf/*
+#*install_bonus*.sh
+#*bonus_conf/*
