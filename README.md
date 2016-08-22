@@ -40,10 +40,16 @@ The format of this configuration file is *OAI-PMH target url\tOAI-PMH target int
 * edit a repository, edit the equivalent line in the file,
 * delete a repository, delete the line in the configuration file.
 
+The details concerning a repository, are harvested by the verb *Identify* of the OAI-PMH target,
+so any changes wanted in this should be made on the target's end.
+
 ### Configure Sets in Repositories
 
 By default the MetaSearch Module processes all the sets available in each repository. To exclude some
 can be done by adding the set id at *DBHandler.java:174* in the CIMMYTHarvester project.
+
+Similarly to the repositories, the details of each set are harvested from the OAI-PMH target, so 
+again any change wanted should be done there.
 
 ### Configure New Input Formats
 
@@ -67,7 +73,11 @@ further customized through the config file in *config/mail.accounts*. The format
 ### Configure ElasticSearch
 
 Special care should be taken into configuring **Elasticsearch heap size**. This can be done by exporting an environment
- variable ES_HEAP_SIZE, by issuing *export ES_HEAP_SIZE=XXg*. Along with this configuration, one should also pay 
+ variable ES_HEAP_SIZE, by issuing 
+```
+export ES_HEAP_SIZE=XXg
+```
+Along with this configuration, one should also pay 
 attention to the maximum allowed memory for the java projects. This can be configured through the equivalent parameter 
 given at both *msmanager* and *enrich* scripts.
 
