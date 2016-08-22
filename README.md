@@ -13,7 +13,10 @@ The rest of the process is pretty straight forward.
 After the installation process is complete, one should deploy the war file of
 the api at the webapps folder of tomcat. 
 In the default case that is: */var/lib/tomcat{version}/webapps* so a simple:
-**sudo cp webapp/cimmyt.war /var/lib/tomcat7/webapps** should do.
+```
+sudo cp webapp/cimmyt.war /var/lib/tomcat7/webapps
+```
+should do.
 
 ## Execution as a Cron Job
 
@@ -72,5 +75,9 @@ given at both *msmanager* and *enrich* scripts.
 
 To set fuzziness on the search parameters on and off, there is a *config.properties* file located in the *webapp/configuration*
 directory. One may find the latest version of the CIMMYTWebApp [here](https://github.com/mihalispap/CIMMYTWebApp). Keep in mind that every change done at this file requires 
-another *mvn package* of the war file to be deployed in tomcat. Also the resulting war package should be named **cimmyt.war** in 
+another 
+```
+mvn package
+```
+of the war file to be deployed in tomcat. Also the resulting war package should be named **cimmyt.war** in 
 order for the uris to be valid.
