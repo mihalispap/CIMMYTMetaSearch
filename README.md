@@ -84,10 +84,16 @@ given at both *msmanager* and *enrich* scripts.
 ### Toggling Fuzzy Search
 
 To set fuzziness on the search parameters on and off, there is a *config.properties* file located in the *webapp/configuration*
-directory. One may find the latest version of the CIMMYTWebApp [here](https://github.com/mihalispap/CIMMYTWebApp). Keep in mind that every change done at this file requires 
-another 
+directory. One may find the latest version of the CIMMYTWebApp [here](https://github.com/mihalispap/CIMMYTWebApp). Keep in mind that 
+every change done at this file requires another 
 ```
 mvn package
 ```
 of the war file to be deployed in tomcat. Also the resulting war package should be named **cimmyt.war** in 
 order for the uris to be valid.
+
+In the *config.properties* file there is also a line
+```
+similarity=0.75
+```
+This line actually affects the minimum similarity percentage required for the fuzziness to be valid. This defaults to 75%.
